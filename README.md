@@ -1,8 +1,7 @@
-# 一种基于多源域适应的单细胞智能分类方法
-### 魏琢艺<sup>1,2</sup> ，罗迈<sup>1,2</sup> ，李文兵<sup>1,2</sup>， 曾远松<sup>1,2</sup> ，杨跃东<sup>1,2</sup>
+# A Method Based on Multi-source Adaptive for Single Cell Classification
 
 
- (empty)
+Single-cell ribonucleic acid (RNA) sequencing technology has been successfully used to generate high-resolution cellular maps of human tissues and organs, which has deepened our understanding of cellular heterogeneity in human disease tissues. Cellular annotation is a very critical step in the analysis of single-cell RNA sequencing data. Many typical methods utilize a labeled single-cell reference dataset to annotate the target dataset, but some cell types in the target dataset may not be in the reference dataset. Integrating multiple reference data can better cover the cell types in the target dataset, however, there are batch effects between multiple reference datasets and the target dataset due to differences in sequencing technology and other reasons. To this end, in this paper, we propose a single-cell classification model based on multi-source domain adaptation, which achieves batch elimination by using multiple reference datasets with labeled cell types trained against unlabeled target datasets, respectively. In addition, we use virtual adversarial training to further enhance the robustness of model prediction results to small local perturbations or noise around data points and prevent overfitting. By comparing on multiple single-cell datasets, our method achieves higher cell identification accuracy than the state-of-the-art method. This provides new options and lessons for single-cell identity identification for new sequencing.
        
 
 
