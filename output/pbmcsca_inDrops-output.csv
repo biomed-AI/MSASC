@@ -1,0 +1,5268 @@
+,pred,true
+0,Cytotoxic T cell,Cytotoxic T cell
+1,CD14+ monocyte,Dendritic cell
+2,Cytotoxic T cell,Cytotoxic T cell
+3,CD14+ monocyte,CD14+ monocyte
+4,CD14+ monocyte,CD14+ monocyte
+5,CD14+ monocyte,CD14+ monocyte
+6,CD4+ T cell,CD4+ T cell
+7,CD4+ T cell,CD4+ T cell
+8,Cytotoxic T cell,Cytotoxic T cell
+9,B cell,B cell
+10,B cell,B cell
+11,Cytotoxic T cell,Cytotoxic T cell
+12,Cytotoxic T cell,Cytotoxic T cell
+13,B cell,B cell
+14,CD4+ T cell,CD4+ T cell
+15,Cytotoxic T cell,Cytotoxic T cell
+16,B cell,B cell
+17,B cell,B cell
+18,CD14+ monocyte,CD14+ monocyte
+19,B cell,B cell
+20,CD4+ T cell,CD4+ T cell
+21,CD14+ monocyte,CD14+ monocyte
+22,CD4+ T cell,CD4+ T cell
+23,CD16+ monocyte,CD16+ monocyte
+24,Cytotoxic T cell,Cytotoxic T cell
+25,Cytotoxic T cell,Cytotoxic T cell
+26,Cytotoxic T cell,Cytotoxic T cell
+27,CD14+ monocyte,CD14+ monocyte
+28,Cytotoxic T cell,Cytotoxic T cell
+29,B cell,B cell
+30,CD16+ monocyte,CD16+ monocyte
+31,CD4+ T cell,Cytotoxic T cell
+32,B cell,B cell
+33,CD4+ T cell,CD4+ T cell
+34,CD14+ monocyte,CD14+ monocyte
+35,B cell,B cell
+36,Cytotoxic T cell,Cytotoxic T cell
+37,CD14+ monocyte,CD14+ monocyte
+38,B cell,B cell
+39,CD4+ T cell,CD4+ T cell
+40,Cytotoxic T cell,Cytotoxic T cell
+41,B cell,B cell
+42,CD14+ monocyte,CD14+ monocyte
+43,Cytotoxic T cell,Cytotoxic T cell
+44,Cytotoxic T cell,Cytotoxic T cell
+45,CD14+ monocyte,CD14+ monocyte
+46,Natural killer cell,Cytotoxic T cell
+47,CD14+ monocyte,CD14+ monocyte
+48,B cell,B cell
+49,CD4+ T cell,CD4+ T cell
+50,B cell,Dendritic cell
+51,CD14+ monocyte,CD14+ monocyte
+52,Cytotoxic T cell,CD4+ T cell
+53,CD14+ monocyte,Cytotoxic T cell
+54,CD4+ T cell,CD4+ T cell
+55,Cytotoxic T cell,CD4+ T cell
+56,Cytotoxic T cell,Cytotoxic T cell
+57,Dendritic cell,CD16+ monocyte
+58,Cytotoxic T cell,Cytotoxic T cell
+59,Cytotoxic T cell,Natural killer cell
+60,Cytotoxic T cell,Cytotoxic T cell
+61,Cytotoxic T cell,Cytotoxic T cell
+62,B cell,B cell
+63,Natural killer cell,Cytotoxic T cell
+64,CD4+ T cell,Cytotoxic T cell
+65,B cell,B cell
+66,Cytotoxic T cell,Cytotoxic T cell
+67,Cytotoxic T cell,Cytotoxic T cell
+68,CD14+ monocyte,CD14+ monocyte
+69,Cytotoxic T cell,Cytotoxic T cell
+70,Cytotoxic T cell,Cytotoxic T cell
+71,Cytotoxic T cell,Cytotoxic T cell
+72,CD14+ monocyte,CD14+ monocyte
+73,CD14+ monocyte,Cytotoxic T cell
+74,CD14+ monocyte,Dendritic cell
+75,CD14+ monocyte,CD14+ monocyte
+76,Cytotoxic T cell,Cytotoxic T cell
+77,B cell,B cell
+78,CD4+ T cell,CD4+ T cell
+79,B cell,B cell
+80,Natural killer cell,Cytotoxic T cell
+81,CD14+ monocyte,CD14+ monocyte
+82,Cytotoxic T cell,Cytotoxic T cell
+83,CD4+ T cell,CD4+ T cell
+84,CD14+ monocyte,CD14+ monocyte
+85,Cytotoxic T cell,Cytotoxic T cell
+86,CD14+ monocyte,CD14+ monocyte
+87,CD14+ monocyte,CD14+ monocyte
+88,CD14+ monocyte,CD14+ monocyte
+89,Megakaryocyte,Megakaryocyte
+90,CD4+ T cell,CD4+ T cell
+91,B cell,B cell
+92,CD14+ monocyte,CD14+ monocyte
+93,CD4+ T cell,CD4+ T cell
+94,CD14+ monocyte,CD14+ monocyte
+95,CD14+ monocyte,CD14+ monocyte
+96,CD14+ monocyte,CD14+ monocyte
+97,CD16+ monocyte,CD16+ monocyte
+98,CD16+ monocyte,CD16+ monocyte
+99,CD16+ monocyte,CD16+ monocyte
+100,CD4+ T cell,CD4+ T cell
+101,CD14+ monocyte,CD16+ monocyte
+102,CD14+ monocyte,CD14+ monocyte
+103,Cytotoxic T cell,Cytotoxic T cell
+104,B cell,B cell
+105,CD14+ monocyte,CD14+ monocyte
+106,Cytotoxic T cell,Cytotoxic T cell
+107,Cytotoxic T cell,CD4+ T cell
+108,CD4+ T cell,CD4+ T cell
+109,CD14+ monocyte,CD14+ monocyte
+110,Cytotoxic T cell,Cytotoxic T cell
+111,CD4+ T cell,Cytotoxic T cell
+112,CD14+ monocyte,CD14+ monocyte
+113,B cell,B cell
+114,B cell,B cell
+115,Dendritic cell,Dendritic cell
+116,Cytotoxic T cell,CD4+ T cell
+117,CD4+ T cell,CD4+ T cell
+118,CD4+ T cell,CD4+ T cell
+119,B cell,B cell
+120,CD14+ monocyte,CD14+ monocyte
+121,Cytotoxic T cell,Cytotoxic T cell
+122,Cytotoxic T cell,Cytotoxic T cell
+123,CD14+ monocyte,CD16+ monocyte
+124,CD14+ monocyte,CD14+ monocyte
+125,CD14+ monocyte,CD14+ monocyte
+126,CD14+ monocyte,CD14+ monocyte
+127,Cytotoxic T cell,Cytotoxic T cell
+128,CD14+ monocyte,CD14+ monocyte
+129,Cytotoxic T cell,Cytotoxic T cell
+130,CD4+ T cell,CD4+ T cell
+131,Cytotoxic T cell,Cytotoxic T cell
+132,B cell,B cell
+133,B cell,B cell
+134,B cell,B cell
+135,Cytotoxic T cell,Cytotoxic T cell
+136,Cytotoxic T cell,Cytotoxic T cell
+137,CD16+ monocyte,CD16+ monocyte
+138,CD14+ monocyte,CD14+ monocyte
+139,CD14+ monocyte,CD14+ monocyte
+140,CD14+ monocyte,CD14+ monocyte
+141,Cytotoxic T cell,Cytotoxic T cell
+142,CD4+ T cell,CD4+ T cell
+143,Cytotoxic T cell,Natural killer cell
+144,CD14+ monocyte,CD14+ monocyte
+145,Cytotoxic T cell,Cytotoxic T cell
+146,CD14+ monocyte,B cell
+147,CD14+ monocyte,CD14+ monocyte
+148,CD14+ monocyte,CD14+ monocyte
+149,B cell,CD14+ monocyte
+150,CD14+ monocyte,CD14+ monocyte
+151,CD14+ monocyte,CD14+ monocyte
+152,B cell,B cell
+153,Cytotoxic T cell,Cytotoxic T cell
+154,Cytotoxic T cell,Cytotoxic T cell
+155,Cytotoxic T cell,Cytotoxic T cell
+156,Cytotoxic T cell,Cytotoxic T cell
+157,CD14+ monocyte,CD14+ monocyte
+158,Cytotoxic T cell,CD4+ T cell
+159,CD14+ monocyte,CD14+ monocyte
+160,CD14+ monocyte,CD14+ monocyte
+161,Natural killer cell,Cytotoxic T cell
+162,Cytotoxic T cell,Cytotoxic T cell
+163,B cell,B cell
+164,B cell,B cell
+165,B cell,B cell
+166,CD16+ monocyte,CD16+ monocyte
+167,Dendritic cell,Dendritic cell
+168,Dendritic cell,Plasmacytoid dendritic cell
+169,Dendritic cell,Dendritic cell
+170,Cytotoxic T cell,Cytotoxic T cell
+171,CD14+ monocyte,CD14+ monocyte
+172,Cytotoxic T cell,CD4+ T cell
+173,CD4+ T cell,CD4+ T cell
+174,Cytotoxic T cell,Cytotoxic T cell
+175,CD14+ monocyte,CD14+ monocyte
+176,CD16+ monocyte,CD16+ monocyte
+177,Cytotoxic T cell,Cytotoxic T cell
+178,CD4+ T cell,Cytotoxic T cell
+179,CD4+ T cell,CD4+ T cell
+180,B cell,CD14+ monocyte
+181,CD14+ monocyte,CD14+ monocyte
+182,CD4+ T cell,CD4+ T cell
+183,CD4+ T cell,CD4+ T cell
+184,CD4+ T cell,CD4+ T cell
+185,Cytotoxic T cell,Cytotoxic T cell
+186,Cytotoxic T cell,Cytotoxic T cell
+187,B cell,B cell
+188,Megakaryocyte,Megakaryocyte
+189,Cytotoxic T cell,Cytotoxic T cell
+190,CD14+ monocyte,CD14+ monocyte
+191,CD14+ monocyte,CD14+ monocyte
+192,Cytotoxic T cell,Cytotoxic T cell
+193,B cell,Dendritic cell
+194,CD14+ monocyte,CD16+ monocyte
+195,CD14+ monocyte,CD14+ monocyte
+196,Cytotoxic T cell,Cytotoxic T cell
+197,B cell,B cell
+198,Cytotoxic T cell,Cytotoxic T cell
+199,CD14+ monocyte,CD14+ monocyte
+200,CD14+ monocyte,CD14+ monocyte
+201,CD4+ T cell,CD4+ T cell
+202,CD14+ monocyte,CD14+ monocyte
+203,Cytotoxic T cell,Cytotoxic T cell
+204,CD16+ monocyte,CD16+ monocyte
+205,CD16+ monocyte,CD16+ monocyte
+206,Cytotoxic T cell,CD4+ T cell
+207,Dendritic cell,CD14+ monocyte
+208,CD4+ T cell,CD4+ T cell
+209,CD14+ monocyte,CD14+ monocyte
+210,B cell,B cell
+211,CD4+ T cell,CD4+ T cell
+212,B cell,CD14+ monocyte
+213,CD4+ T cell,CD4+ T cell
+214,B cell,B cell
+215,CD14+ monocyte,CD14+ monocyte
+216,Megakaryocyte,Megakaryocyte
+217,CD14+ monocyte,CD14+ monocyte
+218,CD14+ monocyte,CD14+ monocyte
+219,Natural killer cell,Natural killer cell
+220,CD4+ T cell,CD4+ T cell
+221,B cell,B cell
+222,CD14+ monocyte,CD14+ monocyte
+223,CD14+ monocyte,CD14+ monocyte
+224,CD14+ monocyte,CD14+ monocyte
+225,Cytotoxic T cell,CD4+ T cell
+226,CD14+ monocyte,CD14+ monocyte
+227,Cytotoxic T cell,Cytotoxic T cell
+228,CD16+ monocyte,CD16+ monocyte
+229,B cell,B cell
+230,CD14+ monocyte,CD14+ monocyte
+231,Cytotoxic T cell,Cytotoxic T cell
+232,Cytotoxic T cell,Cytotoxic T cell
+233,CD14+ monocyte,CD14+ monocyte
+234,Cytotoxic T cell,Cytotoxic T cell
+235,CD14+ monocyte,CD14+ monocyte
+236,Cytotoxic T cell,Cytotoxic T cell
+237,B cell,B cell
+238,CD4+ T cell,CD4+ T cell
+239,Cytotoxic T cell,Cytotoxic T cell
+240,CD4+ T cell,CD4+ T cell
+241,Cytotoxic T cell,Cytotoxic T cell
+242,CD14+ monocyte,CD14+ monocyte
+243,B cell,B cell
+244,CD14+ monocyte,CD14+ monocyte
+245,Cytotoxic T cell,CD4+ T cell
+246,CD14+ monocyte,CD14+ monocyte
+247,CD4+ T cell,CD4+ T cell
+248,Cytotoxic T cell,Cytotoxic T cell
+249,CD4+ T cell,CD4+ T cell
+250,Cytotoxic T cell,Cytotoxic T cell
+251,Cytotoxic T cell,Cytotoxic T cell
+252,B cell,Dendritic cell
+253,Cytotoxic T cell,Cytotoxic T cell
+254,Natural killer cell,Natural killer cell
+255,CD14+ monocyte,CD14+ monocyte
+256,CD14+ monocyte,CD14+ monocyte
+257,Cytotoxic T cell,CD4+ T cell
+258,CD14+ monocyte,CD14+ monocyte
+259,CD14+ monocyte,CD14+ monocyte
+260,B cell,B cell
+261,CD14+ monocyte,CD14+ monocyte
+262,Cytotoxic T cell,Cytotoxic T cell
+263,CD14+ monocyte,Dendritic cell
+264,Cytotoxic T cell,Cytotoxic T cell
+265,CD14+ monocyte,CD14+ monocyte
+266,B cell,B cell
+267,Cytotoxic T cell,Cytotoxic T cell
+268,CD4+ T cell,Cytotoxic T cell
+269,CD14+ monocyte,CD14+ monocyte
+270,Cytotoxic T cell,Cytotoxic T cell
+271,Cytotoxic T cell,Cytotoxic T cell
+272,CD14+ monocyte,CD14+ monocyte
+273,Cytotoxic T cell,Cytotoxic T cell
+274,Cytotoxic T cell,Cytotoxic T cell
+275,Cytotoxic T cell,Cytotoxic T cell
+276,CD14+ monocyte,CD14+ monocyte
+277,Dendritic cell,Dendritic cell
+278,B cell,B cell
+279,CD14+ monocyte,CD14+ monocyte
+280,CD16+ monocyte,CD16+ monocyte
+281,CD4+ T cell,CD4+ T cell
+282,CD14+ monocyte,CD14+ monocyte
+283,Cytotoxic T cell,CD4+ T cell
+284,Cytotoxic T cell,Cytotoxic T cell
+285,CD14+ monocyte,CD14+ monocyte
+286,Cytotoxic T cell,Cytotoxic T cell
+287,CD14+ monocyte,CD14+ monocyte
+288,CD14+ monocyte,CD14+ monocyte
+289,CD14+ monocyte,CD14+ monocyte
+290,CD14+ monocyte,Dendritic cell
+291,Cytotoxic T cell,Cytotoxic T cell
+292,CD4+ T cell,CD4+ T cell
+293,CD4+ T cell,CD4+ T cell
+294,CD14+ monocyte,CD14+ monocyte
+295,Megakaryocyte,Megakaryocyte
+296,CD4+ T cell,CD4+ T cell
+297,CD14+ monocyte,CD14+ monocyte
+298,B cell,CD14+ monocyte
+299,CD4+ T cell,CD4+ T cell
+300,CD16+ monocyte,CD16+ monocyte
+301,B cell,B cell
+302,Dendritic cell,Dendritic cell
+303,B cell,Plasmacytoid dendritic cell
+304,Cytotoxic T cell,Cytotoxic T cell
+305,CD14+ monocyte,CD14+ monocyte
+306,CD14+ monocyte,CD14+ monocyte
+307,CD14+ monocyte,CD14+ monocyte
+308,Cytotoxic T cell,Cytotoxic T cell
+309,Natural killer cell,Natural killer cell
+310,B cell,B cell
+311,CD14+ monocyte,CD14+ monocyte
+312,CD16+ monocyte,CD16+ monocyte
+313,B cell,B cell
+314,Cytotoxic T cell,Cytotoxic T cell
+315,CD14+ monocyte,CD14+ monocyte
+316,Megakaryocyte,Megakaryocyte
+317,Cytotoxic T cell,Cytotoxic T cell
+318,B cell,B cell
+319,Cytotoxic T cell,Cytotoxic T cell
+320,CD14+ monocyte,CD16+ monocyte
+321,B cell,B cell
+322,Cytotoxic T cell,Cytotoxic T cell
+323,Cytotoxic T cell,Cytotoxic T cell
+324,Dendritic cell,CD14+ monocyte
+325,B cell,B cell
+326,CD14+ monocyte,CD14+ monocyte
+327,Cytotoxic T cell,Cytotoxic T cell
+328,B cell,B cell
+329,B cell,B cell
+330,Cytotoxic T cell,Cytotoxic T cell
+331,B cell,B cell
+332,CD14+ monocyte,CD14+ monocyte
+333,B cell,Dendritic cell
+334,CD14+ monocyte,CD14+ monocyte
+335,Megakaryocyte,Megakaryocyte
+336,CD4+ T cell,CD4+ T cell
+337,Cytotoxic T cell,CD4+ T cell
+338,Cytotoxic T cell,Cytotoxic T cell
+339,CD14+ monocyte,CD14+ monocyte
+340,Cytotoxic T cell,Cytotoxic T cell
+341,Cytotoxic T cell,Cytotoxic T cell
+342,Cytotoxic T cell,CD4+ T cell
+343,CD14+ monocyte,CD16+ monocyte
+344,Cytotoxic T cell,Cytotoxic T cell
+345,CD4+ T cell,CD4+ T cell
+346,Cytotoxic T cell,CD4+ T cell
+347,B cell,B cell
+348,Cytotoxic T cell,CD4+ T cell
+349,Natural killer cell,Natural killer cell
+350,CD14+ monocyte,CD14+ monocyte
+351,CD14+ monocyte,CD14+ monocyte
+352,Cytotoxic T cell,CD4+ T cell
+353,Cytotoxic T cell,Cytotoxic T cell
+354,Cytotoxic T cell,Cytotoxic T cell
+355,B cell,B cell
+356,Cytotoxic T cell,CD4+ T cell
+357,Cytotoxic T cell,Cytotoxic T cell
+358,CD14+ monocyte,CD14+ monocyte
+359,Cytotoxic T cell,Cytotoxic T cell
+360,CD14+ monocyte,CD14+ monocyte
+361,Cytotoxic T cell,Cytotoxic T cell
+362,Cytotoxic T cell,Cytotoxic T cell
+363,CD14+ monocyte,CD14+ monocyte
+364,CD14+ monocyte,CD14+ monocyte
+365,B cell,B cell
+366,CD14+ monocyte,CD14+ monocyte
+367,Cytotoxic T cell,Cytotoxic T cell
+368,Cytotoxic T cell,Cytotoxic T cell
+369,Cytotoxic T cell,Cytotoxic T cell
+370,CD14+ monocyte,CD14+ monocyte
+371,B cell,Dendritic cell
+372,Cytotoxic T cell,Cytotoxic T cell
+373,CD14+ monocyte,CD14+ monocyte
+374,Cytotoxic T cell,Cytotoxic T cell
+375,Cytotoxic T cell,CD4+ T cell
+376,B cell,B cell
+377,CD14+ monocyte,CD14+ monocyte
+378,CD14+ monocyte,CD14+ monocyte
+379,CD14+ monocyte,CD14+ monocyte
+380,CD14+ monocyte,CD14+ monocyte
+381,Cytotoxic T cell,Cytotoxic T cell
+382,Cytotoxic T cell,Cytotoxic T cell
+383,Cytotoxic T cell,Cytotoxic T cell
+384,Cytotoxic T cell,CD4+ T cell
+385,CD4+ T cell,CD4+ T cell
+386,CD14+ monocyte,CD14+ monocyte
+387,CD4+ T cell,Megakaryocyte
+388,CD4+ T cell,CD4+ T cell
+389,CD14+ monocyte,CD14+ monocyte
+390,CD14+ monocyte,CD14+ monocyte
+391,Cytotoxic T cell,Natural killer cell
+392,CD14+ monocyte,CD14+ monocyte
+393,Cytotoxic T cell,Cytotoxic T cell
+394,B cell,B cell
+395,CD14+ monocyte,CD14+ monocyte
+396,B cell,B cell
+397,CD14+ monocyte,CD14+ monocyte
+398,CD16+ monocyte,CD16+ monocyte
+399,Cytotoxic T cell,Cytotoxic T cell
+400,Cytotoxic T cell,Cytotoxic T cell
+401,CD14+ monocyte,Megakaryocyte
+402,CD14+ monocyte,CD14+ monocyte
+403,CD4+ T cell,CD4+ T cell
+404,B cell,B cell
+405,Cytotoxic T cell,CD4+ T cell
+406,CD14+ monocyte,CD14+ monocyte
+407,CD14+ monocyte,CD14+ monocyte
+408,Megakaryocyte,Megakaryocyte
+409,CD14+ monocyte,CD14+ monocyte
+410,CD14+ monocyte,CD14+ monocyte
+411,CD4+ T cell,CD4+ T cell
+412,Cytotoxic T cell,Cytotoxic T cell
+413,Cytotoxic T cell,CD4+ T cell
+414,CD14+ monocyte,CD16+ monocyte
+415,Cytotoxic T cell,Cytotoxic T cell
+416,CD14+ monocyte,CD14+ monocyte
+417,CD14+ monocyte,CD14+ monocyte
+418,B cell,B cell
+419,Cytotoxic T cell,Cytotoxic T cell
+420,Megakaryocyte,Megakaryocyte
+421,B cell,B cell
+422,Cytotoxic T cell,Cytotoxic T cell
+423,Cytotoxic T cell,Cytotoxic T cell
+424,B cell,B cell
+425,CD4+ T cell,CD4+ T cell
+426,Cytotoxic T cell,Cytotoxic T cell
+427,Cytotoxic T cell,Cytotoxic T cell
+428,B cell,B cell
+429,CD14+ monocyte,CD14+ monocyte
+430,CD14+ monocyte,CD14+ monocyte
+431,B cell,B cell
+432,Cytotoxic T cell,Cytotoxic T cell
+433,CD14+ monocyte,CD14+ monocyte
+434,Cytotoxic T cell,Cytotoxic T cell
+435,Cytotoxic T cell,Cytotoxic T cell
+436,CD14+ monocyte,CD14+ monocyte
+437,Cytotoxic T cell,Cytotoxic T cell
+438,Cytotoxic T cell,Cytotoxic T cell
+439,CD14+ monocyte,CD14+ monocyte
+440,B cell,B cell
+441,CD4+ T cell,CD4+ T cell
+442,Cytotoxic T cell,Cytotoxic T cell
+443,CD14+ monocyte,CD14+ monocyte
+444,B cell,B cell
+445,CD4+ T cell,CD4+ T cell
+446,CD4+ T cell,CD4+ T cell
+447,Natural killer cell,Cytotoxic T cell
+448,B cell,B cell
+449,Cytotoxic T cell,Cytotoxic T cell
+450,CD14+ monocyte,CD14+ monocyte
+451,B cell,B cell
+452,CD14+ monocyte,CD14+ monocyte
+453,B cell,B cell
+454,CD14+ monocyte,CD14+ monocyte
+455,CD14+ monocyte,CD14+ monocyte
+456,CD14+ monocyte,CD14+ monocyte
+457,CD14+ monocyte,CD14+ monocyte
+458,Natural killer cell,Natural killer cell
+459,CD14+ monocyte,CD14+ monocyte
+460,CD4+ T cell,CD4+ T cell
+461,Cytotoxic T cell,Cytotoxic T cell
+462,CD14+ monocyte,CD14+ monocyte
+463,Cytotoxic T cell,Cytotoxic T cell
+464,CD14+ monocyte,CD14+ monocyte
+465,Cytotoxic T cell,Cytotoxic T cell
+466,Cytotoxic T cell,Cytotoxic T cell
+467,CD14+ monocyte,CD14+ monocyte
+468,CD14+ monocyte,CD14+ monocyte
+469,Cytotoxic T cell,Cytotoxic T cell
+470,B cell,B cell
+471,Cytotoxic T cell,Cytotoxic T cell
+472,CD14+ monocyte,CD14+ monocyte
+473,CD14+ monocyte,CD14+ monocyte
+474,CD4+ T cell,CD4+ T cell
+475,CD14+ monocyte,CD14+ monocyte
+476,CD4+ T cell,CD4+ T cell
+477,B cell,B cell
+478,Natural killer cell,Natural killer cell
+479,CD14+ monocyte,CD14+ monocyte
+480,CD14+ monocyte,CD14+ monocyte
+481,B cell,B cell
+482,B cell,B cell
+483,CD14+ monocyte,CD14+ monocyte
+484,Cytotoxic T cell,Cytotoxic T cell
+485,CD14+ monocyte,CD14+ monocyte
+486,CD14+ monocyte,CD14+ monocyte
+487,CD14+ monocyte,CD14+ monocyte
+488,CD14+ monocyte,CD14+ monocyte
+489,Cytotoxic T cell,Cytotoxic T cell
+490,CD14+ monocyte,CD14+ monocyte
+491,B cell,B cell
+492,Dendritic cell,CD16+ monocyte
+493,B cell,B cell
+494,CD14+ monocyte,CD14+ monocyte
+495,CD4+ T cell,CD4+ T cell
+496,CD14+ monocyte,CD14+ monocyte
+497,B cell,B cell
+498,Cytotoxic T cell,Cytotoxic T cell
+499,CD4+ T cell,CD4+ T cell
+500,CD14+ monocyte,CD14+ monocyte
+501,CD14+ monocyte,Cytotoxic T cell
+502,Cytotoxic T cell,Cytotoxic T cell
+503,CD4+ T cell,CD4+ T cell
+504,CD16+ monocyte,CD16+ monocyte
+505,CD4+ T cell,CD4+ T cell
+506,B cell,B cell
+507,CD4+ T cell,CD4+ T cell
+508,Cytotoxic T cell,Cytotoxic T cell
+509,CD4+ T cell,CD4+ T cell
+510,CD14+ monocyte,CD14+ monocyte
+511,Cytotoxic T cell,Cytotoxic T cell
+512,CD14+ monocyte,CD14+ monocyte
+513,Cytotoxic T cell,Cytotoxic T cell
+514,CD14+ monocyte,CD14+ monocyte
+515,CD14+ monocyte,CD14+ monocyte
+516,CD14+ monocyte,Dendritic cell
+517,Cytotoxic T cell,Cytotoxic T cell
+518,B cell,B cell
+519,Cytotoxic T cell,Cytotoxic T cell
+520,CD4+ T cell,CD4+ T cell
+521,CD14+ monocyte,CD14+ monocyte
+522,B cell,B cell
+523,CD14+ monocyte,CD14+ monocyte
+524,CD14+ monocyte,CD14+ monocyte
+525,Natural killer cell,Natural killer cell
+526,Cytotoxic T cell,Cytotoxic T cell
+527,CD14+ monocyte,CD14+ monocyte
+528,CD4+ T cell,Cytotoxic T cell
+529,B cell,B cell
+530,Cytotoxic T cell,Cytotoxic T cell
+531,B cell,B cell
+532,CD14+ monocyte,CD16+ monocyte
+533,Cytotoxic T cell,Cytotoxic T cell
+534,CD14+ monocyte,CD14+ monocyte
+535,CD14+ monocyte,CD14+ monocyte
+536,CD14+ monocyte,CD14+ monocyte
+537,CD4+ T cell,CD4+ T cell
+538,CD14+ monocyte,CD14+ monocyte
+539,B cell,B cell
+540,B cell,B cell
+541,CD14+ monocyte,CD14+ monocyte
+542,CD14+ monocyte,CD14+ monocyte
+543,Cytotoxic T cell,Cytotoxic T cell
+544,Cytotoxic T cell,Cytotoxic T cell
+545,CD14+ monocyte,CD14+ monocyte
+546,CD4+ T cell,CD4+ T cell
+547,CD4+ T cell,CD4+ T cell
+548,Cytotoxic T cell,CD4+ T cell
+549,B cell,B cell
+550,CD14+ monocyte,CD14+ monocyte
+551,B cell,B cell
+552,B cell,B cell
+553,Natural killer cell,Cytotoxic T cell
+554,CD14+ monocyte,CD14+ monocyte
+555,B cell,B cell
+556,Cytotoxic T cell,Cytotoxic T cell
+557,B cell,B cell
+558,B cell,B cell
+559,CD14+ monocyte,CD14+ monocyte
+560,CD14+ monocyte,CD14+ monocyte
+561,Cytotoxic T cell,Cytotoxic T cell
+562,CD14+ monocyte,CD14+ monocyte
+563,B cell,B cell
+564,Cytotoxic T cell,Cytotoxic T cell
+565,Cytotoxic T cell,Cytotoxic T cell
+566,CD16+ monocyte,CD16+ monocyte
+567,Cytotoxic T cell,Cytotoxic T cell
+568,Dendritic cell,B cell
+569,B cell,B cell
+570,B cell,B cell
+571,CD4+ T cell,CD4+ T cell
+572,CD4+ T cell,CD4+ T cell
+573,CD4+ T cell,CD4+ T cell
+574,B cell,B cell
+575,Cytotoxic T cell,Cytotoxic T cell
+576,B cell,B cell
+577,Cytotoxic T cell,Cytotoxic T cell
+578,CD14+ monocyte,CD14+ monocyte
+579,Cytotoxic T cell,Cytotoxic T cell
+580,Cytotoxic T cell,Cytotoxic T cell
+581,Cytotoxic T cell,CD4+ T cell
+582,Cytotoxic T cell,Cytotoxic T cell
+583,Dendritic cell,CD14+ monocyte
+584,Cytotoxic T cell,Cytotoxic T cell
+585,CD14+ monocyte,CD14+ monocyte
+586,Megakaryocyte,Megakaryocyte
+587,CD14+ monocyte,CD14+ monocyte
+588,B cell,B cell
+589,CD14+ monocyte,CD14+ monocyte
+590,Natural killer cell,Cytotoxic T cell
+591,CD14+ monocyte,CD14+ monocyte
+592,CD4+ T cell,CD4+ T cell
+593,CD4+ T cell,CD4+ T cell
+594,CD14+ monocyte,CD14+ monocyte
+595,CD14+ monocyte,CD14+ monocyte
+596,CD14+ monocyte,CD14+ monocyte
+597,CD4+ T cell,CD4+ T cell
+598,CD16+ monocyte,CD14+ monocyte
+599,CD4+ T cell,CD4+ T cell
+600,B cell,B cell
+601,Cytotoxic T cell,Cytotoxic T cell
+602,Cytotoxic T cell,Cytotoxic T cell
+603,CD14+ monocyte,CD14+ monocyte
+604,CD16+ monocyte,CD16+ monocyte
+605,CD14+ monocyte,CD14+ monocyte
+606,CD14+ monocyte,CD14+ monocyte
+607,CD14+ monocyte,CD14+ monocyte
+608,Cytotoxic T cell,Cytotoxic T cell
+609,CD4+ T cell,CD4+ T cell
+610,Cytotoxic T cell,Cytotoxic T cell
+611,Cytotoxic T cell,Cytotoxic T cell
+612,CD14+ monocyte,CD14+ monocyte
+613,CD14+ monocyte,CD14+ monocyte
+614,CD14+ monocyte,CD14+ monocyte
+615,B cell,B cell
+616,Cytotoxic T cell,Cytotoxic T cell
+617,CD14+ monocyte,CD14+ monocyte
+618,B cell,B cell
+619,Natural killer cell,Cytotoxic T cell
+620,B cell,B cell
+621,CD4+ T cell,CD4+ T cell
+622,CD14+ monocyte,CD14+ monocyte
+623,CD14+ monocyte,CD14+ monocyte
+624,CD14+ monocyte,CD4+ T cell
+625,Cytotoxic T cell,CD4+ T cell
+626,B cell,B cell
+627,Cytotoxic T cell,Cytotoxic T cell
+628,Cytotoxic T cell,Cytotoxic T cell
+629,Cytotoxic T cell,CD4+ T cell
+630,CD14+ monocyte,CD16+ monocyte
+631,CD14+ monocyte,CD14+ monocyte
+632,Cytotoxic T cell,CD4+ T cell
+633,CD4+ T cell,CD4+ T cell
+634,CD4+ T cell,CD4+ T cell
+635,CD4+ T cell,CD4+ T cell
+636,CD14+ monocyte,CD14+ monocyte
+637,Cytotoxic T cell,Cytotoxic T cell
+638,CD14+ monocyte,CD14+ monocyte
+639,CD4+ T cell,CD4+ T cell
+640,Cytotoxic T cell,Cytotoxic T cell
+641,B cell,B cell
+642,B cell,B cell
+643,B cell,B cell
+644,Cytotoxic T cell,Cytotoxic T cell
+645,CD14+ monocyte,CD14+ monocyte
+646,B cell,B cell
+647,Cytotoxic T cell,Cytotoxic T cell
+648,Natural killer cell,Natural killer cell
+649,CD14+ monocyte,CD16+ monocyte
+650,CD16+ monocyte,CD16+ monocyte
+651,CD14+ monocyte,CD14+ monocyte
+652,Cytotoxic T cell,CD4+ T cell
+653,CD14+ monocyte,CD14+ monocyte
+654,Cytotoxic T cell,Cytotoxic T cell
+655,CD4+ T cell,CD4+ T cell
+656,CD14+ monocyte,CD14+ monocyte
+657,CD4+ T cell,CD4+ T cell
+658,CD14+ monocyte,CD14+ monocyte
+659,CD14+ monocyte,CD14+ monocyte
+660,CD16+ monocyte,CD14+ monocyte
+661,Cytotoxic T cell,Cytotoxic T cell
+662,B cell,B cell
+663,CD14+ monocyte,CD14+ monocyte
+664,Cytotoxic T cell,Cytotoxic T cell
+665,B cell,B cell
+666,Natural killer cell,Natural killer cell
+667,CD14+ monocyte,CD14+ monocyte
+668,CD14+ monocyte,CD16+ monocyte
+669,Cytotoxic T cell,Cytotoxic T cell
+670,B cell,B cell
+671,CD14+ monocyte,CD14+ monocyte
+672,CD14+ monocyte,CD14+ monocyte
+673,CD14+ monocyte,CD14+ monocyte
+674,B cell,B cell
+675,CD4+ T cell,CD4+ T cell
+676,B cell,B cell
+677,Cytotoxic T cell,Cytotoxic T cell
+678,CD14+ monocyte,CD14+ monocyte
+679,Cytotoxic T cell,Cytotoxic T cell
+680,CD4+ T cell,CD4+ T cell
+681,CD14+ monocyte,CD14+ monocyte
+682,Cytotoxic T cell,Cytotoxic T cell
+683,B cell,B cell
+684,Dendritic cell,CD14+ monocyte
+685,CD14+ monocyte,CD14+ monocyte
+686,Natural killer cell,Natural killer cell
+687,CD14+ monocyte,CD14+ monocyte
+688,CD14+ monocyte,CD14+ monocyte
+689,CD4+ T cell,CD4+ T cell
+690,Cytotoxic T cell,Cytotoxic T cell
+691,Cytotoxic T cell,Cytotoxic T cell
+692,CD14+ monocyte,CD14+ monocyte
+693,CD14+ monocyte,CD14+ monocyte
+694,B cell,B cell
+695,Cytotoxic T cell,Cytotoxic T cell
+696,CD14+ monocyte,CD14+ monocyte
+697,CD14+ monocyte,CD14+ monocyte
+698,Cytotoxic T cell,Cytotoxic T cell
+699,CD14+ monocyte,CD14+ monocyte
+700,CD14+ monocyte,CD14+ monocyte
+701,CD14+ monocyte,CD14+ monocyte
+702,CD14+ monocyte,CD14+ monocyte
+703,B cell,B cell
+704,CD4+ T cell,CD4+ T cell
+705,CD14+ monocyte,CD14+ monocyte
+706,Cytotoxic T cell,Cytotoxic T cell
+707,CD14+ monocyte,CD4+ T cell
+708,Cytotoxic T cell,CD4+ T cell
+709,CD14+ monocyte,CD14+ monocyte
+710,B cell,B cell
+711,B cell,B cell
+712,CD16+ monocyte,CD14+ monocyte
+713,Cytotoxic T cell,Cytotoxic T cell
+714,Cytotoxic T cell,Cytotoxic T cell
+715,CD14+ monocyte,CD14+ monocyte
+716,B cell,B cell
+717,CD4+ T cell,CD4+ T cell
+718,B cell,B cell
+719,CD14+ monocyte,CD16+ monocyte
+720,CD4+ T cell,CD4+ T cell
+721,B cell,B cell
+722,B cell,B cell
+723,CD14+ monocyte,CD14+ monocyte
+724,CD16+ monocyte,CD16+ monocyte
+725,Natural killer cell,Natural killer cell
+726,CD4+ T cell,CD4+ T cell
+727,Cytotoxic T cell,Cytotoxic T cell
+728,CD14+ monocyte,CD14+ monocyte
+729,CD4+ T cell,Cytotoxic T cell
+730,CD14+ monocyte,CD14+ monocyte
+731,CD14+ monocyte,CD14+ monocyte
+732,CD4+ T cell,CD4+ T cell
+733,Cytotoxic T cell,CD4+ T cell
+734,B cell,B cell
+735,CD4+ T cell,CD4+ T cell
+736,B cell,B cell
+737,CD14+ monocyte,CD14+ monocyte
+738,B cell,B cell
+739,CD4+ T cell,CD4+ T cell
+740,Cytotoxic T cell,CD4+ T cell
+741,CD14+ monocyte,CD14+ monocyte
+742,Cytotoxic T cell,Cytotoxic T cell
+743,CD4+ T cell,CD4+ T cell
+744,CD4+ T cell,Cytotoxic T cell
+745,B cell,B cell
+746,CD14+ monocyte,CD14+ monocyte
+747,Cytotoxic T cell,Cytotoxic T cell
+748,CD14+ monocyte,CD16+ monocyte
+749,Megakaryocyte,Cytotoxic T cell
+750,Cytotoxic T cell,Cytotoxic T cell
+751,B cell,B cell
+752,CD4+ T cell,CD4+ T cell
+753,Cytotoxic T cell,Cytotoxic T cell
+754,Cytotoxic T cell,Cytotoxic T cell
+755,CD14+ monocyte,CD14+ monocyte
+756,CD14+ monocyte,CD14+ monocyte
+757,CD14+ monocyte,CD14+ monocyte
+758,B cell,B cell
+759,CD4+ T cell,CD4+ T cell
+760,CD16+ monocyte,CD16+ monocyte
+761,CD14+ monocyte,CD14+ monocyte
+762,CD14+ monocyte,CD14+ monocyte
+763,CD14+ monocyte,Dendritic cell
+764,B cell,B cell
+765,Cytotoxic T cell,Cytotoxic T cell
+766,CD14+ monocyte,CD14+ monocyte
+767,B cell,B cell
+768,CD14+ monocyte,CD14+ monocyte
+769,CD4+ T cell,CD4+ T cell
+770,B cell,B cell
+771,Cytotoxic T cell,Natural killer cell
+772,CD16+ monocyte,CD16+ monocyte
+773,CD4+ T cell,CD4+ T cell
+774,Cytotoxic T cell,Cytotoxic T cell
+775,Megakaryocyte,Megakaryocyte
+776,CD14+ monocyte,B cell
+777,CD14+ monocyte,CD14+ monocyte
+778,B cell,B cell
+779,CD16+ monocyte,CD16+ monocyte
+780,Cytotoxic T cell,CD4+ T cell
+781,Cytotoxic T cell,Cytotoxic T cell
+782,CD4+ T cell,CD4+ T cell
+783,CD14+ monocyte,CD14+ monocyte
+784,CD4+ T cell,CD4+ T cell
+785,Cytotoxic T cell,Cytotoxic T cell
+786,CD14+ monocyte,CD14+ monocyte
+787,CD14+ monocyte,CD14+ monocyte
+788,Cytotoxic T cell,Cytotoxic T cell
+789,Cytotoxic T cell,Cytotoxic T cell
+790,CD4+ T cell,CD4+ T cell
+791,Cytotoxic T cell,Cytotoxic T cell
+792,CD4+ T cell,CD4+ T cell
+793,CD4+ T cell,CD4+ T cell
+794,B cell,B cell
+795,B cell,B cell
+796,CD4+ T cell,CD4+ T cell
+797,CD14+ monocyte,CD14+ monocyte
+798,CD14+ monocyte,CD14+ monocyte
+799,Dendritic cell,CD16+ monocyte
+800,CD14+ monocyte,CD14+ monocyte
+801,CD14+ monocyte,CD14+ monocyte
+802,CD4+ T cell,CD4+ T cell
+803,Cytotoxic T cell,Cytotoxic T cell
+804,CD14+ monocyte,CD14+ monocyte
+805,CD14+ monocyte,CD14+ monocyte
+806,CD14+ monocyte,CD14+ monocyte
+807,CD14+ monocyte,CD4+ T cell
+808,Cytotoxic T cell,Cytotoxic T cell
+809,B cell,B cell
+810,B cell,B cell
+811,CD14+ monocyte,CD14+ monocyte
+812,CD4+ T cell,CD4+ T cell
+813,CD14+ monocyte,CD16+ monocyte
+814,Cytotoxic T cell,Cytotoxic T cell
+815,Cytotoxic T cell,Cytotoxic T cell
+816,CD4+ T cell,CD4+ T cell
+817,CD4+ T cell,CD4+ T cell
+818,CD4+ T cell,CD4+ T cell
+819,CD14+ monocyte,CD14+ monocyte
+820,CD14+ monocyte,CD14+ monocyte
+821,CD4+ T cell,CD4+ T cell
+822,Cytotoxic T cell,Cytotoxic T cell
+823,CD4+ T cell,CD4+ T cell
+824,Natural killer cell,Cytotoxic T cell
+825,Cytotoxic T cell,Cytotoxic T cell
+826,Cytotoxic T cell,Cytotoxic T cell
+827,B cell,B cell
+828,Cytotoxic T cell,Cytotoxic T cell
+829,Cytotoxic T cell,Cytotoxic T cell
+830,B cell,B cell
+831,B cell,B cell
+832,CD14+ monocyte,CD16+ monocyte
+833,Natural killer cell,Natural killer cell
+834,Cytotoxic T cell,Cytotoxic T cell
+835,CD14+ monocyte,CD14+ monocyte
+836,CD14+ monocyte,CD14+ monocyte
+837,CD14+ monocyte,CD14+ monocyte
+838,Cytotoxic T cell,Cytotoxic T cell
+839,CD14+ monocyte,CD14+ monocyte
+840,Cytotoxic T cell,Cytotoxic T cell
+841,CD14+ monocyte,CD14+ monocyte
+842,CD14+ monocyte,CD14+ monocyte
+843,CD4+ T cell,CD4+ T cell
+844,CD14+ monocyte,Dendritic cell
+845,Cytotoxic T cell,Cytotoxic T cell
+846,CD4+ T cell,CD4+ T cell
+847,B cell,B cell
+848,CD14+ monocyte,CD14+ monocyte
+849,B cell,B cell
+850,CD14+ monocyte,CD14+ monocyte
+851,Cytotoxic T cell,Cytotoxic T cell
+852,CD14+ monocyte,CD14+ monocyte
+853,Cytotoxic T cell,Cytotoxic T cell
+854,CD4+ T cell,CD4+ T cell
+855,CD14+ monocyte,CD14+ monocyte
+856,Cytotoxic T cell,Cytotoxic T cell
+857,CD4+ T cell,CD4+ T cell
+858,CD14+ monocyte,CD14+ monocyte
+859,Natural killer cell,Natural killer cell
+860,CD14+ monocyte,CD4+ T cell
+861,Cytotoxic T cell,Cytotoxic T cell
+862,CD14+ monocyte,CD14+ monocyte
+863,Cytotoxic T cell,Cytotoxic T cell
+864,Cytotoxic T cell,Cytotoxic T cell
+865,Cytotoxic T cell,Cytotoxic T cell
+866,Cytotoxic T cell,CD4+ T cell
+867,B cell,B cell
+868,CD14+ monocyte,CD14+ monocyte
+869,CD14+ monocyte,CD14+ monocyte
+870,Cytotoxic T cell,Cytotoxic T cell
+871,CD14+ monocyte,CD14+ monocyte
+872,CD14+ monocyte,CD14+ monocyte
+873,Cytotoxic T cell,CD4+ T cell
+874,B cell,Dendritic cell
+875,CD14+ monocyte,CD14+ monocyte
+876,CD14+ monocyte,CD16+ monocyte
+877,Cytotoxic T cell,CD4+ T cell
+878,B cell,B cell
+879,B cell,B cell
+880,CD4+ T cell,CD4+ T cell
+881,Cytotoxic T cell,CD4+ T cell
+882,CD14+ monocyte,CD14+ monocyte
+883,Megakaryocyte,Megakaryocyte
+884,CD14+ monocyte,Plasmacytoid dendritic cell
+885,Cytotoxic T cell,Cytotoxic T cell
+886,B cell,Plasmacytoid dendritic cell
+887,CD4+ T cell,CD4+ T cell
+888,Cytotoxic T cell,Cytotoxic T cell
+889,CD14+ monocyte,CD14+ monocyte
+890,Cytotoxic T cell,Cytotoxic T cell
+891,CD16+ monocyte,CD16+ monocyte
+892,CD14+ monocyte,CD14+ monocyte
+893,Cytotoxic T cell,Cytotoxic T cell
+894,CD14+ monocyte,CD16+ monocyte
+895,Cytotoxic T cell,Cytotoxic T cell
+896,CD14+ monocyte,CD14+ monocyte
+897,Cytotoxic T cell,Cytotoxic T cell
+898,B cell,B cell
+899,Cytotoxic T cell,Cytotoxic T cell
+900,CD14+ monocyte,CD14+ monocyte
+901,CD14+ monocyte,CD14+ monocyte
+902,CD4+ T cell,CD4+ T cell
+903,Cytotoxic T cell,Cytotoxic T cell
+904,CD4+ T cell,CD4+ T cell
+905,CD14+ monocyte,CD14+ monocyte
+906,CD14+ monocyte,CD14+ monocyte
+907,B cell,B cell
+908,CD14+ monocyte,CD14+ monocyte
+909,B cell,B cell
+910,CD4+ T cell,CD4+ T cell
+911,B cell,B cell
+912,Megakaryocyte,Megakaryocyte
+913,Cytotoxic T cell,CD4+ T cell
+914,CD14+ monocyte,CD14+ monocyte
+915,CD14+ monocyte,CD14+ monocyte
+916,CD14+ monocyte,CD14+ monocyte
+917,Cytotoxic T cell,Cytotoxic T cell
+918,CD4+ T cell,CD4+ T cell
+919,CD14+ monocyte,CD14+ monocyte
+920,CD4+ T cell,CD4+ T cell
+921,Megakaryocyte,Megakaryocyte
+922,B cell,B cell
+923,B cell,B cell
+924,CD4+ T cell,CD4+ T cell
+925,B cell,B cell
+926,CD14+ monocyte,CD14+ monocyte
+927,CD14+ monocyte,CD16+ monocyte
+928,Cytotoxic T cell,Cytotoxic T cell
+929,Natural killer cell,Natural killer cell
+930,CD14+ monocyte,CD14+ monocyte
+931,CD14+ monocyte,CD14+ monocyte
+932,Megakaryocyte,Megakaryocyte
+933,B cell,B cell
+934,CD14+ monocyte,CD14+ monocyte
+935,Cytotoxic T cell,CD4+ T cell
+936,CD4+ T cell,CD4+ T cell
+937,B cell,B cell
+938,Dendritic cell,Dendritic cell
+939,CD14+ monocyte,CD16+ monocyte
+940,CD14+ monocyte,CD14+ monocyte
+941,B cell,B cell
+942,CD4+ T cell,Cytotoxic T cell
+943,Cytotoxic T cell,Cytotoxic T cell
+944,CD14+ monocyte,Cytotoxic T cell
+945,CD14+ monocyte,CD14+ monocyte
+946,B cell,B cell
+947,CD14+ monocyte,CD14+ monocyte
+948,CD4+ T cell,CD4+ T cell
+949,B cell,B cell
+950,CD14+ monocyte,CD14+ monocyte
+951,CD14+ monocyte,Plasmacytoid dendritic cell
+952,CD4+ T cell,CD4+ T cell
+953,B cell,B cell
+954,Cytotoxic T cell,Cytotoxic T cell
+955,CD14+ monocyte,CD14+ monocyte
+956,CD14+ monocyte,CD14+ monocyte
+957,CD4+ T cell,CD4+ T cell
+958,Natural killer cell,Cytotoxic T cell
+959,CD4+ T cell,CD4+ T cell
+960,CD14+ monocyte,CD14+ monocyte
+961,Cytotoxic T cell,Cytotoxic T cell
+962,Dendritic cell,Plasmacytoid dendritic cell
+963,Cytotoxic T cell,Cytotoxic T cell
+964,CD4+ T cell,CD4+ T cell
+965,CD4+ T cell,CD4+ T cell
+966,CD14+ monocyte,CD14+ monocyte
+967,CD4+ T cell,Cytotoxic T cell
+968,Cytotoxic T cell,Cytotoxic T cell
+969,Cytotoxic T cell,Cytotoxic T cell
+970,B cell,B cell
+971,CD16+ monocyte,CD16+ monocyte
+972,CD14+ monocyte,CD14+ monocyte
+973,CD14+ monocyte,CD14+ monocyte
+974,Cytotoxic T cell,Cytotoxic T cell
+975,CD14+ monocyte,CD14+ monocyte
+976,Cytotoxic T cell,Megakaryocyte
+977,B cell,B cell
+978,CD14+ monocyte,CD14+ monocyte
+979,B cell,B cell
+980,Cytotoxic T cell,Cytotoxic T cell
+981,CD14+ monocyte,CD14+ monocyte
+982,Cytotoxic T cell,Cytotoxic T cell
+983,Natural killer cell,Natural killer cell
+984,CD14+ monocyte,CD14+ monocyte
+985,Cytotoxic T cell,Cytotoxic T cell
+986,B cell,CD16+ monocyte
+987,Cytotoxic T cell,Cytotoxic T cell
+988,Cytotoxic T cell,Cytotoxic T cell
+989,B cell,B cell
+990,Cytotoxic T cell,Cytotoxic T cell
+991,Cytotoxic T cell,Cytotoxic T cell
+992,CD14+ monocyte,CD14+ monocyte
+993,Cytotoxic T cell,Cytotoxic T cell
+994,Megakaryocyte,Megakaryocyte
+995,Natural killer cell,Natural killer cell
+996,Cytotoxic T cell,Cytotoxic T cell
+997,Cytotoxic T cell,Cytotoxic T cell
+998,CD14+ monocyte,CD14+ monocyte
+999,CD14+ monocyte,CD14+ monocyte
+1000,Cytotoxic T cell,Cytotoxic T cell
+1001,Cytotoxic T cell,Cytotoxic T cell
+1002,B cell,B cell
+1003,Cytotoxic T cell,Cytotoxic T cell
+1004,B cell,B cell
+1005,CD4+ T cell,CD4+ T cell
+1006,CD14+ monocyte,CD14+ monocyte
+1007,CD4+ T cell,Cytotoxic T cell
+1008,Cytotoxic T cell,Cytotoxic T cell
+1009,Cytotoxic T cell,Cytotoxic T cell
+1010,Cytotoxic T cell,Cytotoxic T cell
+1011,CD16+ monocyte,CD16+ monocyte
+1012,CD14+ monocyte,CD14+ monocyte
+1013,Cytotoxic T cell,Cytotoxic T cell
+1014,Cytotoxic T cell,Cytotoxic T cell
+1015,CD14+ monocyte,CD14+ monocyte
+1016,Cytotoxic T cell,Cytotoxic T cell
+1017,Cytotoxic T cell,Cytotoxic T cell
+1018,CD4+ T cell,CD4+ T cell
+1019,CD4+ T cell,CD4+ T cell
+1020,Cytotoxic T cell,CD4+ T cell
+1021,CD16+ monocyte,CD16+ monocyte
+1022,Cytotoxic T cell,Cytotoxic T cell
+1023,Megakaryocyte,Megakaryocyte
+1024,B cell,B cell
+1025,Natural killer cell,Natural killer cell
+1026,CD14+ monocyte,CD14+ monocyte
+1027,CD14+ monocyte,CD14+ monocyte
+1028,CD4+ T cell,CD4+ T cell
+1029,Cytotoxic T cell,Cytotoxic T cell
+1030,CD14+ monocyte,CD14+ monocyte
+1031,B cell,B cell
+1032,Megakaryocyte,Megakaryocyte
+1033,CD4+ T cell,CD4+ T cell
+1034,CD14+ monocyte,CD14+ monocyte
+1035,Megakaryocyte,Megakaryocyte
+1036,Natural killer cell,Natural killer cell
+1037,Cytotoxic T cell,Cytotoxic T cell
+1038,CD14+ monocyte,CD14+ monocyte
+1039,Cytotoxic T cell,Cytotoxic T cell
+1040,Cytotoxic T cell,Cytotoxic T cell
+1041,Megakaryocyte,Megakaryocyte
+1042,CD16+ monocyte,CD16+ monocyte
+1043,CD14+ monocyte,CD14+ monocyte
+1044,CD4+ T cell,Cytotoxic T cell
+1045,Cytotoxic T cell,Cytotoxic T cell
+1046,Natural killer cell,Natural killer cell
+1047,B cell,B cell
+1048,CD4+ T cell,CD4+ T cell
+1049,CD14+ monocyte,CD14+ monocyte
+1050,Cytotoxic T cell,Cytotoxic T cell
+1051,CD14+ monocyte,Plasmacytoid dendritic cell
+1052,B cell,B cell
+1053,B cell,B cell
+1054,B cell,Dendritic cell
+1055,CD14+ monocyte,CD14+ monocyte
+1056,Cytotoxic T cell,Cytotoxic T cell
+1057,B cell,B cell
+1058,CD14+ monocyte,CD14+ monocyte
+1059,Cytotoxic T cell,Cytotoxic T cell
+1060,CD14+ monocyte,CD14+ monocyte
+1061,CD16+ monocyte,CD16+ monocyte
+1062,CD14+ monocyte,CD14+ monocyte
+1063,Cytotoxic T cell,Cytotoxic T cell
+1064,CD14+ monocyte,CD14+ monocyte
+1065,B cell,B cell
+1066,Cytotoxic T cell,Cytotoxic T cell
+1067,Cytotoxic T cell,Cytotoxic T cell
+1068,CD14+ monocyte,CD16+ monocyte
+1069,Cytotoxic T cell,Cytotoxic T cell
+1070,CD14+ monocyte,CD14+ monocyte
+1071,Cytotoxic T cell,Cytotoxic T cell
+1072,CD14+ monocyte,CD14+ monocyte
+1073,CD14+ monocyte,CD14+ monocyte
+1074,B cell,Dendritic cell
+1075,CD14+ monocyte,CD14+ monocyte
+1076,CD14+ monocyte,CD14+ monocyte
+1077,CD14+ monocyte,CD14+ monocyte
+1078,CD14+ monocyte,CD14+ monocyte
+1079,CD14+ monocyte,CD14+ monocyte
+1080,Cytotoxic T cell,Cytotoxic T cell
+1081,CD4+ T cell,CD4+ T cell
+1082,Cytotoxic T cell,CD4+ T cell
+1083,CD14+ monocyte,CD14+ monocyte
+1084,CD14+ monocyte,CD14+ monocyte
+1085,Natural killer cell,Natural killer cell
+1086,Natural killer cell,Natural killer cell
+1087,CD4+ T cell,CD4+ T cell
+1088,Cytotoxic T cell,Cytotoxic T cell
+1089,B cell,B cell
+1090,CD14+ monocyte,CD14+ monocyte
+1091,CD14+ monocyte,CD14+ monocyte
+1092,CD14+ monocyte,CD14+ monocyte
+1093,Megakaryocyte,Megakaryocyte
+1094,CD14+ monocyte,CD14+ monocyte
+1095,CD14+ monocyte,CD14+ monocyte
+1096,B cell,B cell
+1097,CD14+ monocyte,CD14+ monocyte
+1098,Cytotoxic T cell,Cytotoxic T cell
+1099,CD4+ T cell,CD4+ T cell
+1100,CD4+ T cell,CD4+ T cell
+1101,Megakaryocyte,Megakaryocyte
+1102,CD14+ monocyte,CD14+ monocyte
+1103,Cytotoxic T cell,Cytotoxic T cell
+1104,CD14+ monocyte,CD14+ monocyte
+1105,Cytotoxic T cell,Cytotoxic T cell
+1106,CD4+ T cell,CD4+ T cell
+1107,CD14+ monocyte,CD14+ monocyte
+1108,Cytotoxic T cell,Cytotoxic T cell
+1109,B cell,B cell
+1110,CD14+ monocyte,Dendritic cell
+1111,CD4+ T cell,CD4+ T cell
+1112,B cell,B cell
+1113,B cell,B cell
+1114,CD14+ monocyte,CD14+ monocyte
+1115,CD4+ T cell,CD4+ T cell
+1116,B cell,B cell
+1117,CD14+ monocyte,CD14+ monocyte
+1118,Cytotoxic T cell,Cytotoxic T cell
+1119,Cytotoxic T cell,Cytotoxic T cell
+1120,CD4+ T cell,CD4+ T cell
+1121,CD14+ monocyte,CD14+ monocyte
+1122,CD16+ monocyte,CD16+ monocyte
+1123,CD14+ monocyte,CD14+ monocyte
+1124,Cytotoxic T cell,Cytotoxic T cell
+1125,B cell,B cell
+1126,CD4+ T cell,CD4+ T cell
+1127,CD4+ T cell,CD4+ T cell
+1128,CD14+ monocyte,CD14+ monocyte
+1129,CD4+ T cell,CD4+ T cell
+1130,CD14+ monocyte,Dendritic cell
+1131,Natural killer cell,Natural killer cell
+1132,CD14+ monocyte,CD14+ monocyte
+1133,Cytotoxic T cell,Cytotoxic T cell
+1134,Natural killer cell,Cytotoxic T cell
+1135,CD14+ monocyte,CD14+ monocyte
+1136,CD4+ T cell,Plasmacytoid dendritic cell
+1137,Cytotoxic T cell,Cytotoxic T cell
+1138,Cytotoxic T cell,Cytotoxic T cell
+1139,CD14+ monocyte,CD14+ monocyte
+1140,CD14+ monocyte,CD14+ monocyte
+1141,Cytotoxic T cell,Cytotoxic T cell
+1142,CD14+ monocyte,CD14+ monocyte
+1143,CD4+ T cell,CD4+ T cell
+1144,Cytotoxic T cell,Cytotoxic T cell
+1145,B cell,B cell
+1146,Cytotoxic T cell,Cytotoxic T cell
+1147,B cell,B cell
+1148,CD4+ T cell,CD4+ T cell
+1149,Cytotoxic T cell,Cytotoxic T cell
+1150,CD4+ T cell,CD4+ T cell
+1151,Cytotoxic T cell,Cytotoxic T cell
+1152,B cell,B cell
+1153,CD14+ monocyte,CD14+ monocyte
+1154,CD4+ T cell,CD4+ T cell
+1155,B cell,B cell
+1156,CD14+ monocyte,CD14+ monocyte
+1157,Cytotoxic T cell,Cytotoxic T cell
+1158,B cell,B cell
+1159,Cytotoxic T cell,Cytotoxic T cell
+1160,CD14+ monocyte,CD14+ monocyte
+1161,CD14+ monocyte,CD14+ monocyte
+1162,Cytotoxic T cell,CD4+ T cell
+1163,B cell,B cell
+1164,Cytotoxic T cell,Cytotoxic T cell
+1165,CD14+ monocyte,CD14+ monocyte
+1166,CD14+ monocyte,CD14+ monocyte
+1167,B cell,B cell
+1168,CD14+ monocyte,CD14+ monocyte
+1169,B cell,B cell
+1170,Megakaryocyte,Megakaryocyte
+1171,CD14+ monocyte,CD14+ monocyte
+1172,CD14+ monocyte,CD14+ monocyte
+1173,CD14+ monocyte,CD14+ monocyte
+1174,CD14+ monocyte,CD14+ monocyte
+1175,Megakaryocyte,CD14+ monocyte
+1176,Cytotoxic T cell,Cytotoxic T cell
+1177,B cell,B cell
+1178,Cytotoxic T cell,Cytotoxic T cell
+1179,CD14+ monocyte,CD14+ monocyte
+1180,CD14+ monocyte,CD14+ monocyte
+1181,CD14+ monocyte,CD14+ monocyte
+1182,CD4+ T cell,CD4+ T cell
+1183,CD4+ T cell,CD4+ T cell
+1184,Cytotoxic T cell,Cytotoxic T cell
+1185,CD14+ monocyte,CD14+ monocyte
+1186,CD14+ monocyte,CD14+ monocyte
+1187,CD14+ monocyte,Cytotoxic T cell
+1188,Megakaryocyte,Megakaryocyte
+1189,CD14+ monocyte,CD14+ monocyte
+1190,Dendritic cell,Dendritic cell
+1191,CD14+ monocyte,CD14+ monocyte
+1192,CD14+ monocyte,CD14+ monocyte
+1193,CD14+ monocyte,CD16+ monocyte
+1194,Cytotoxic T cell,Cytotoxic T cell
+1195,CD4+ T cell,CD4+ T cell
+1196,CD14+ monocyte,CD14+ monocyte
+1197,Cytotoxic T cell,Cytotoxic T cell
+1198,CD16+ monocyte,CD14+ monocyte
+1199,CD4+ T cell,CD4+ T cell
+1200,B cell,Dendritic cell
+1201,CD4+ T cell,CD4+ T cell
+1202,CD4+ T cell,CD4+ T cell
+1203,Cytotoxic T cell,Cytotoxic T cell
+1204,CD14+ monocyte,CD14+ monocyte
+1205,B cell,B cell
+1206,Cytotoxic T cell,Cytotoxic T cell
+1207,Cytotoxic T cell,CD4+ T cell
+1208,CD14+ monocyte,Cytotoxic T cell
+1209,B cell,B cell
+1210,Cytotoxic T cell,Cytotoxic T cell
+1211,Cytotoxic T cell,Cytotoxic T cell
+1212,CD4+ T cell,CD4+ T cell
+1213,Natural killer cell,Cytotoxic T cell
+1214,B cell,B cell
+1215,CD14+ monocyte,CD14+ monocyte
+1216,Cytotoxic T cell,Cytotoxic T cell
+1217,CD4+ T cell,CD4+ T cell
+1218,CD14+ monocyte,CD14+ monocyte
+1219,Dendritic cell,Dendritic cell
+1220,Cytotoxic T cell,Cytotoxic T cell
+1221,Cytotoxic T cell,Natural killer cell
+1222,B cell,B cell
+1223,CD4+ T cell,CD4+ T cell
+1224,Cytotoxic T cell,Cytotoxic T cell
+1225,CD4+ T cell,CD4+ T cell
+1226,B cell,Dendritic cell
+1227,CD14+ monocyte,Dendritic cell
+1228,CD14+ monocyte,CD14+ monocyte
+1229,Cytotoxic T cell,Cytotoxic T cell
+1230,B cell,B cell
+1231,Cytotoxic T cell,Cytotoxic T cell
+1232,CD14+ monocyte,CD14+ monocyte
+1233,CD14+ monocyte,CD14+ monocyte
+1234,Cytotoxic T cell,Cytotoxic T cell
+1235,CD14+ monocyte,CD14+ monocyte
+1236,CD14+ monocyte,CD14+ monocyte
+1237,CD4+ T cell,CD4+ T cell
+1238,CD4+ T cell,CD4+ T cell
+1239,CD4+ T cell,CD4+ T cell
+1240,CD14+ monocyte,CD14+ monocyte
+1241,CD4+ T cell,CD4+ T cell
+1242,CD4+ T cell,CD4+ T cell
+1243,Cytotoxic T cell,Cytotoxic T cell
+1244,CD14+ monocyte,CD14+ monocyte
+1245,Cytotoxic T cell,Cytotoxic T cell
+1246,Cytotoxic T cell,Cytotoxic T cell
+1247,B cell,B cell
+1248,B cell,B cell
+1249,CD14+ monocyte,CD14+ monocyte
+1250,B cell,B cell
+1251,CD14+ monocyte,CD14+ monocyte
+1252,B cell,B cell
+1253,Cytotoxic T cell,Cytotoxic T cell
+1254,B cell,B cell
+1255,CD14+ monocyte,CD16+ monocyte
+1256,Megakaryocyte,Megakaryocyte
+1257,B cell,B cell
+1258,B cell,B cell
+1259,CD14+ monocyte,CD14+ monocyte
+1260,CD14+ monocyte,CD14+ monocyte
+1261,B cell,B cell
+1262,CD14+ monocyte,CD14+ monocyte
+1263,Cytotoxic T cell,Cytotoxic T cell
+1264,CD14+ monocyte,CD14+ monocyte
+1265,CD16+ monocyte,CD16+ monocyte
+1266,Megakaryocyte,Megakaryocyte
+1267,CD14+ monocyte,CD14+ monocyte
+1268,CD4+ T cell,CD4+ T cell
+1269,CD14+ monocyte,CD14+ monocyte
+1270,Cytotoxic T cell,Cytotoxic T cell
+1271,CD4+ T cell,Cytotoxic T cell
+1272,CD4+ T cell,CD4+ T cell
+1273,Cytotoxic T cell,Cytotoxic T cell
+1274,Cytotoxic T cell,Cytotoxic T cell
+1275,Cytotoxic T cell,Cytotoxic T cell
+1276,B cell,B cell
+1277,CD4+ T cell,CD4+ T cell
+1278,CD14+ monocyte,CD14+ monocyte
+1279,CD4+ T cell,CD4+ T cell
+1280,B cell,B cell
+1281,CD14+ monocyte,CD14+ monocyte
+1282,B cell,B cell
+1283,B cell,B cell
+1284,Cytotoxic T cell,Cytotoxic T cell
+1285,B cell,B cell
+1286,CD14+ monocyte,CD14+ monocyte
+1287,CD14+ monocyte,CD14+ monocyte
+1288,Cytotoxic T cell,Cytotoxic T cell
+1289,Megakaryocyte,Megakaryocyte
+1290,B cell,B cell
+1291,CD4+ T cell,CD4+ T cell
+1292,B cell,B cell
+1293,CD14+ monocyte,CD14+ monocyte
+1294,CD14+ monocyte,CD14+ monocyte
+1295,CD14+ monocyte,CD14+ monocyte
+1296,CD14+ monocyte,CD14+ monocyte
+1297,Cytotoxic T cell,Cytotoxic T cell
+1298,CD14+ monocyte,CD14+ monocyte
+1299,CD14+ monocyte,CD14+ monocyte
+1300,Natural killer cell,Natural killer cell
+1301,CD4+ T cell,CD4+ T cell
+1302,B cell,B cell
+1303,CD14+ monocyte,Dendritic cell
+1304,Dendritic cell,Dendritic cell
+1305,B cell,B cell
+1306,CD14+ monocyte,CD14+ monocyte
+1307,CD14+ monocyte,CD16+ monocyte
+1308,Cytotoxic T cell,CD4+ T cell
+1309,CD14+ monocyte,CD14+ monocyte
+1310,CD14+ monocyte,CD14+ monocyte
+1311,CD14+ monocyte,CD14+ monocyte
+1312,CD14+ monocyte,Dendritic cell
+1313,B cell,B cell
+1314,CD14+ monocyte,CD14+ monocyte
+1315,CD14+ monocyte,CD4+ T cell
+1316,Cytotoxic T cell,Cytotoxic T cell
+1317,Dendritic cell,CD16+ monocyte
+1318,Cytotoxic T cell,Cytotoxic T cell
+1319,CD4+ T cell,CD4+ T cell
+1320,Cytotoxic T cell,Cytotoxic T cell
+1321,Cytotoxic T cell,Cytotoxic T cell
+1322,CD4+ T cell,CD4+ T cell
+1323,CD14+ monocyte,CD14+ monocyte
+1324,CD4+ T cell,CD4+ T cell
+1325,Cytotoxic T cell,Cytotoxic T cell
+1326,B cell,B cell
+1327,Cytotoxic T cell,Cytotoxic T cell
+1328,CD4+ T cell,CD4+ T cell
+1329,CD4+ T cell,CD4+ T cell
+1330,CD14+ monocyte,CD14+ monocyte
+1331,CD14+ monocyte,CD14+ monocyte
+1332,Cytotoxic T cell,Cytotoxic T cell
+1333,CD4+ T cell,Cytotoxic T cell
+1334,Natural killer cell,Natural killer cell
+1335,CD14+ monocyte,CD14+ monocyte
+1336,Cytotoxic T cell,Cytotoxic T cell
+1337,B cell,B cell
+1338,B cell,Dendritic cell
+1339,CD4+ T cell,CD4+ T cell
+1340,Cytotoxic T cell,Cytotoxic T cell
+1341,Cytotoxic T cell,Cytotoxic T cell
+1342,CD14+ monocyte,CD14+ monocyte
+1343,Megakaryocyte,Megakaryocyte
+1344,Cytotoxic T cell,Cytotoxic T cell
+1345,Cytotoxic T cell,Cytotoxic T cell
+1346,CD14+ monocyte,CD14+ monocyte
+1347,B cell,B cell
+1348,B cell,B cell
+1349,CD4+ T cell,CD4+ T cell
+1350,Cytotoxic T cell,Cytotoxic T cell
+1351,CD14+ monocyte,CD14+ monocyte
+1352,Dendritic cell,Plasmacytoid dendritic cell
+1353,Megakaryocyte,Megakaryocyte
+1354,Cytotoxic T cell,CD4+ T cell
+1355,CD14+ monocyte,CD14+ monocyte
+1356,Cytotoxic T cell,Cytotoxic T cell
+1357,Cytotoxic T cell,Cytotoxic T cell
+1358,CD14+ monocyte,CD16+ monocyte
+1359,CD4+ T cell,CD4+ T cell
+1360,CD14+ monocyte,CD14+ monocyte
+1361,Cytotoxic T cell,Cytotoxic T cell
+1362,B cell,CD4+ T cell
+1363,B cell,B cell
+1364,B cell,B cell
+1365,CD14+ monocyte,CD14+ monocyte
+1366,CD4+ T cell,CD4+ T cell
+1367,Cytotoxic T cell,Cytotoxic T cell
+1368,B cell,B cell
+1369,Cytotoxic T cell,Cytotoxic T cell
+1370,CD14+ monocyte,CD14+ monocyte
+1371,CD4+ T cell,CD4+ T cell
+1372,CD14+ monocyte,CD14+ monocyte
+1373,CD14+ monocyte,CD14+ monocyte
+1374,Cytotoxic T cell,Cytotoxic T cell
+1375,CD14+ monocyte,CD14+ monocyte
+1376,Cytotoxic T cell,CD4+ T cell
+1377,Cytotoxic T cell,Cytotoxic T cell
+1378,Cytotoxic T cell,Cytotoxic T cell
+1379,CD14+ monocyte,CD14+ monocyte
+1380,B cell,B cell
+1381,CD4+ T cell,CD4+ T cell
+1382,CD14+ monocyte,CD14+ monocyte
+1383,CD14+ monocyte,CD14+ monocyte
+1384,B cell,B cell
+1385,B cell,B cell
+1386,CD4+ T cell,CD4+ T cell
+1387,Cytotoxic T cell,Cytotoxic T cell
+1388,CD14+ monocyte,CD14+ monocyte
+1389,B cell,B cell
+1390,CD14+ monocyte,CD14+ monocyte
+1391,Cytotoxic T cell,Cytotoxic T cell
+1392,CD14+ monocyte,CD14+ monocyte
+1393,CD16+ monocyte,CD16+ monocyte
+1394,Cytotoxic T cell,Cytotoxic T cell
+1395,CD14+ monocyte,CD14+ monocyte
+1396,CD14+ monocyte,CD14+ monocyte
+1397,B cell,B cell
+1398,CD14+ monocyte,CD14+ monocyte
+1399,CD14+ monocyte,CD14+ monocyte
+1400,CD14+ monocyte,CD14+ monocyte
+1401,Megakaryocyte,Megakaryocyte
+1402,B cell,B cell
+1403,CD14+ monocyte,CD14+ monocyte
+1404,CD14+ monocyte,CD14+ monocyte
+1405,Cytotoxic T cell,Cytotoxic T cell
+1406,Cytotoxic T cell,Cytotoxic T cell
+1407,Natural killer cell,Cytotoxic T cell
+1408,CD14+ monocyte,CD14+ monocyte
+1409,CD14+ monocyte,CD14+ monocyte
+1410,CD14+ monocyte,Dendritic cell
+1411,CD4+ T cell,CD4+ T cell
+1412,B cell,B cell
+1413,CD4+ T cell,CD4+ T cell
+1414,Cytotoxic T cell,Cytotoxic T cell
+1415,Dendritic cell,Dendritic cell
+1416,Dendritic cell,Dendritic cell
+1417,Cytotoxic T cell,Cytotoxic T cell
+1418,Natural killer cell,Natural killer cell
+1419,CD14+ monocyte,CD14+ monocyte
+1420,Cytotoxic T cell,Cytotoxic T cell
+1421,Cytotoxic T cell,Cytotoxic T cell
+1422,CD14+ monocyte,CD14+ monocyte
+1423,CD4+ T cell,CD4+ T cell
+1424,B cell,B cell
+1425,Cytotoxic T cell,Cytotoxic T cell
+1426,CD14+ monocyte,CD14+ monocyte
+1427,B cell,B cell
+1428,CD14+ monocyte,CD14+ monocyte
+1429,CD4+ T cell,CD4+ T cell
+1430,Natural killer cell,Natural killer cell
+1431,CD14+ monocyte,CD14+ monocyte
+1432,Cytotoxic T cell,Cytotoxic T cell
+1433,CD14+ monocyte,CD14+ monocyte
+1434,CD16+ monocyte,CD16+ monocyte
+1435,CD14+ monocyte,CD14+ monocyte
+1436,Megakaryocyte,CD16+ monocyte
+1437,CD16+ monocyte,CD14+ monocyte
+1438,CD14+ monocyte,CD14+ monocyte
+1439,B cell,B cell
+1440,CD14+ monocyte,CD16+ monocyte
+1441,B cell,B cell
+1442,CD16+ monocyte,CD4+ T cell
+1443,CD4+ T cell,Cytotoxic T cell
+1444,Plasmacytoid dendritic cell,Plasmacytoid dendritic cell
+1445,Cytotoxic T cell,Cytotoxic T cell
+1446,Cytotoxic T cell,Cytotoxic T cell
+1447,CD16+ monocyte,CD16+ monocyte
+1448,CD14+ monocyte,CD14+ monocyte
+1449,Cytotoxic T cell,Cytotoxic T cell
+1450,CD4+ T cell,CD4+ T cell
+1451,CD16+ monocyte,CD16+ monocyte
+1452,B cell,B cell
+1453,CD4+ T cell,CD4+ T cell
+1454,CD14+ monocyte,CD14+ monocyte
+1455,CD14+ monocyte,CD16+ monocyte
+1456,CD14+ monocyte,Cytotoxic T cell
+1457,Cytotoxic T cell,Natural killer cell
+1458,CD4+ T cell,CD4+ T cell
+1459,B cell,B cell
+1460,Cytotoxic T cell,CD4+ T cell
+1461,CD14+ monocyte,CD14+ monocyte
+1462,CD4+ T cell,CD4+ T cell
+1463,B cell,Cytotoxic T cell
+1464,CD14+ monocyte,CD14+ monocyte
+1465,Cytotoxic T cell,Cytotoxic T cell
+1466,Cytotoxic T cell,Cytotoxic T cell
+1467,CD16+ monocyte,CD16+ monocyte
+1468,CD4+ T cell,CD4+ T cell
+1469,CD14+ monocyte,CD14+ monocyte
+1470,Cytotoxic T cell,Cytotoxic T cell
+1471,CD14+ monocyte,CD14+ monocyte
+1472,B cell,B cell
+1473,CD14+ monocyte,CD14+ monocyte
+1474,CD14+ monocyte,Cytotoxic T cell
+1475,B cell,Dendritic cell
+1476,CD14+ monocyte,Cytotoxic T cell
+1477,CD14+ monocyte,CD14+ monocyte
+1478,CD14+ monocyte,CD14+ monocyte
+1479,B cell,B cell
+1480,Cytotoxic T cell,Cytotoxic T cell
+1481,CD4+ T cell,CD4+ T cell
+1482,B cell,B cell
+1483,CD14+ monocyte,Megakaryocyte
+1484,Cytotoxic T cell,Cytotoxic T cell
+1485,CD14+ monocyte,CD14+ monocyte
+1486,CD14+ monocyte,CD4+ T cell
+1487,CD14+ monocyte,CD14+ monocyte
+1488,B cell,B cell
+1489,CD4+ T cell,CD4+ T cell
+1490,B cell,B cell
+1491,CD14+ monocyte,CD14+ monocyte
+1492,Cytotoxic T cell,Cytotoxic T cell
+1493,CD16+ monocyte,CD16+ monocyte
+1494,CD14+ monocyte,CD14+ monocyte
+1495,CD14+ monocyte,CD14+ monocyte
+1496,B cell,B cell
+1497,CD4+ T cell,Cytotoxic T cell
+1498,Natural killer cell,Natural killer cell
+1499,CD4+ T cell,CD4+ T cell
+1500,CD14+ monocyte,CD14+ monocyte
+1501,CD14+ monocyte,CD14+ monocyte
+1502,Cytotoxic T cell,Cytotoxic T cell
+1503,B cell,B cell
+1504,CD14+ monocyte,CD14+ monocyte
+1505,CD14+ monocyte,CD14+ monocyte
+1506,Natural killer cell,Natural killer cell
+1507,CD16+ monocyte,CD16+ monocyte
+1508,B cell,B cell
+1509,B cell,B cell
+1510,Dendritic cell,CD14+ monocyte
+1511,B cell,B cell
+1512,CD14+ monocyte,CD14+ monocyte
+1513,CD14+ monocyte,CD14+ monocyte
+1514,CD14+ monocyte,CD14+ monocyte
+1515,Cytotoxic T cell,Cytotoxic T cell
+1516,CD14+ monocyte,CD14+ monocyte
+1517,CD14+ monocyte,CD14+ monocyte
+1518,CD14+ monocyte,CD14+ monocyte
+1519,CD14+ monocyte,CD14+ monocyte
+1520,CD14+ monocyte,CD14+ monocyte
+1521,CD4+ T cell,CD4+ T cell
+1522,CD14+ monocyte,Cytotoxic T cell
+1523,Cytotoxic T cell,CD4+ T cell
+1524,Cytotoxic T cell,Cytotoxic T cell
+1525,CD16+ monocyte,CD16+ monocyte
+1526,Cytotoxic T cell,Cytotoxic T cell
+1527,Cytotoxic T cell,Cytotoxic T cell
+1528,CD14+ monocyte,CD14+ monocyte
+1529,Cytotoxic T cell,Cytotoxic T cell
+1530,CD14+ monocyte,CD14+ monocyte
+1531,Cytotoxic T cell,Cytotoxic T cell
+1532,B cell,B cell
+1533,Cytotoxic T cell,Cytotoxic T cell
+1534,CD16+ monocyte,CD16+ monocyte
+1535,CD4+ T cell,Cytotoxic T cell
+1536,Cytotoxic T cell,Cytotoxic T cell
+1537,B cell,B cell
+1538,CD14+ monocyte,CD16+ monocyte
+1539,CD14+ monocyte,CD14+ monocyte
+1540,Cytotoxic T cell,CD4+ T cell
+1541,Natural killer cell,Cytotoxic T cell
+1542,Natural killer cell,Natural killer cell
+1543,CD14+ monocyte,CD14+ monocyte
+1544,Cytotoxic T cell,Cytotoxic T cell
+1545,CD14+ monocyte,CD14+ monocyte
+1546,B cell,B cell
+1547,B cell,B cell
+1548,Cytotoxic T cell,Cytotoxic T cell
+1549,CD14+ monocyte,CD14+ monocyte
+1550,B cell,B cell
+1551,CD14+ monocyte,CD16+ monocyte
+1552,Cytotoxic T cell,Cytotoxic T cell
+1553,Cytotoxic T cell,Cytotoxic T cell
+1554,Natural killer cell,Cytotoxic T cell
+1555,B cell,Plasmacytoid dendritic cell
+1556,Cytotoxic T cell,Natural killer cell
+1557,CD14+ monocyte,CD16+ monocyte
+1558,Cytotoxic T cell,CD4+ T cell
+1559,Cytotoxic T cell,Cytotoxic T cell
+1560,Natural killer cell,Natural killer cell
+1561,CD14+ monocyte,CD14+ monocyte
+1562,CD14+ monocyte,CD14+ monocyte
+1563,Natural killer cell,Natural killer cell
+1564,Cytotoxic T cell,Cytotoxic T cell
+1565,Cytotoxic T cell,Cytotoxic T cell
+1566,CD4+ T cell,CD4+ T cell
+1567,CD16+ monocyte,CD14+ monocyte
+1568,CD14+ monocyte,CD14+ monocyte
+1569,B cell,B cell
+1570,CD4+ T cell,CD4+ T cell
+1571,B cell,B cell
+1572,CD4+ T cell,CD4+ T cell
+1573,Cytotoxic T cell,Cytotoxic T cell
+1574,CD4+ T cell,CD4+ T cell
+1575,Dendritic cell,CD14+ monocyte
+1576,CD14+ monocyte,CD14+ monocyte
+1577,CD14+ monocyte,CD14+ monocyte
+1578,CD14+ monocyte,CD14+ monocyte
+1579,CD4+ T cell,CD4+ T cell
+1580,CD14+ monocyte,CD14+ monocyte
+1581,CD14+ monocyte,CD14+ monocyte
+1582,Cytotoxic T cell,Cytotoxic T cell
+1583,CD14+ monocyte,CD14+ monocyte
+1584,CD14+ monocyte,CD14+ monocyte
+1585,B cell,B cell
+1586,CD4+ T cell,CD4+ T cell
+1587,B cell,B cell
+1588,Cytotoxic T cell,CD4+ T cell
+1589,Plasmacytoid dendritic cell,Plasmacytoid dendritic cell
+1590,CD4+ T cell,CD4+ T cell
+1591,B cell,CD14+ monocyte
+1592,B cell,B cell
+1593,B cell,B cell
+1594,CD4+ T cell,CD4+ T cell
+1595,Natural killer cell,Cytotoxic T cell
+1596,Cytotoxic T cell,Cytotoxic T cell
+1597,B cell,Cytotoxic T cell
+1598,Natural killer cell,Natural killer cell
+1599,B cell,B cell
+1600,CD4+ T cell,CD4+ T cell
+1601,Cytotoxic T cell,Cytotoxic T cell
+1602,Cytotoxic T cell,Cytotoxic T cell
+1603,B cell,B cell
+1604,B cell,B cell
+1605,CD14+ monocyte,CD16+ monocyte
+1606,B cell,B cell
+1607,Cytotoxic T cell,Cytotoxic T cell
+1608,B cell,B cell
+1609,Megakaryocyte,Megakaryocyte
+1610,Megakaryocyte,Megakaryocyte
+1611,B cell,B cell
+1612,CD16+ monocyte,CD16+ monocyte
+1613,CD14+ monocyte,CD14+ monocyte
+1614,CD4+ T cell,CD4+ T cell
+1615,CD14+ monocyte,CD14+ monocyte
+1616,CD14+ monocyte,CD14+ monocyte
+1617,B cell,B cell
+1618,Cytotoxic T cell,Cytotoxic T cell
+1619,CD14+ monocyte,CD14+ monocyte
+1620,B cell,B cell
+1621,B cell,B cell
+1622,CD14+ monocyte,CD14+ monocyte
+1623,CD14+ monocyte,CD14+ monocyte
+1624,Cytotoxic T cell,Cytotoxic T cell
+1625,Cytotoxic T cell,Cytotoxic T cell
+1626,Megakaryocyte,Megakaryocyte
+1627,Cytotoxic T cell,Cytotoxic T cell
+1628,CD14+ monocyte,CD14+ monocyte
+1629,CD14+ monocyte,CD14+ monocyte
+1630,B cell,B cell
+1631,Cytotoxic T cell,Cytotoxic T cell
+1632,B cell,B cell
+1633,Dendritic cell,Dendritic cell
+1634,B cell,Dendritic cell
+1635,CD14+ monocyte,CD14+ monocyte
+1636,CD4+ T cell,CD4+ T cell
+1637,CD14+ monocyte,CD14+ monocyte
+1638,CD14+ monocyte,CD14+ monocyte
+1639,B cell,B cell
+1640,B cell,B cell
+1641,Cytotoxic T cell,Cytotoxic T cell
+1642,Cytotoxic T cell,Cytotoxic T cell
+1643,B cell,B cell
+1644,CD14+ monocyte,CD14+ monocyte
+1645,Cytotoxic T cell,Cytotoxic T cell
+1646,Cytotoxic T cell,Cytotoxic T cell
+1647,CD4+ T cell,CD4+ T cell
+1648,Cytotoxic T cell,Cytotoxic T cell
+1649,CD14+ monocyte,CD14+ monocyte
+1650,Cytotoxic T cell,Cytotoxic T cell
+1651,Cytotoxic T cell,Cytotoxic T cell
+1652,B cell,B cell
+1653,CD14+ monocyte,CD4+ T cell
+1654,B cell,B cell
+1655,Cytotoxic T cell,Cytotoxic T cell
+1656,CD14+ monocyte,CD14+ monocyte
+1657,Megakaryocyte,Megakaryocyte
+1658,CD14+ monocyte,CD14+ monocyte
+1659,CD14+ monocyte,CD14+ monocyte
+1660,CD14+ monocyte,CD4+ T cell
+1661,B cell,B cell
+1662,Cytotoxic T cell,Cytotoxic T cell
+1663,CD14+ monocyte,CD14+ monocyte
+1664,Cytotoxic T cell,Cytotoxic T cell
+1665,B cell,B cell
+1666,CD14+ monocyte,CD14+ monocyte
+1667,Cytotoxic T cell,Natural killer cell
+1668,CD14+ monocyte,CD14+ monocyte
+1669,CD4+ T cell,CD4+ T cell
+1670,Cytotoxic T cell,Cytotoxic T cell
+1671,CD14+ monocyte,CD14+ monocyte
+1672,Dendritic cell,Dendritic cell
+1673,B cell,B cell
+1674,CD14+ monocyte,CD14+ monocyte
+1675,CD14+ monocyte,CD14+ monocyte
+1676,Megakaryocyte,Megakaryocyte
+1677,Cytotoxic T cell,CD14+ monocyte
+1678,B cell,B cell
+1679,B cell,B cell
+1680,CD14+ monocyte,CD14+ monocyte
+1681,Cytotoxic T cell,Cytotoxic T cell
+1682,CD16+ monocyte,CD16+ monocyte
+1683,Cytotoxic T cell,Cytotoxic T cell
+1684,Megakaryocyte,Megakaryocyte
+1685,Cytotoxic T cell,Cytotoxic T cell
+1686,CD4+ T cell,CD4+ T cell
+1687,CD16+ monocyte,CD16+ monocyte
+1688,B cell,B cell
+1689,B cell,B cell
+1690,CD14+ monocyte,CD14+ monocyte
+1691,CD14+ monocyte,CD14+ monocyte
+1692,Cytotoxic T cell,Cytotoxic T cell
+1693,B cell,B cell
+1694,CD4+ T cell,CD4+ T cell
+1695,Dendritic cell,Dendritic cell
+1696,CD14+ monocyte,B cell
+1697,Cytotoxic T cell,Cytotoxic T cell
+1698,B cell,B cell
+1699,CD14+ monocyte,CD14+ monocyte
+1700,CD14+ monocyte,CD4+ T cell
+1701,CD14+ monocyte,Plasmacytoid dendritic cell
+1702,CD14+ monocyte,CD14+ monocyte
+1703,B cell,B cell
+1704,CD14+ monocyte,CD14+ monocyte
+1705,Cytotoxic T cell,Cytotoxic T cell
+1706,Cytotoxic T cell,Cytotoxic T cell
+1707,B cell,B cell
+1708,Cytotoxic T cell,Cytotoxic T cell
+1709,B cell,Dendritic cell
+1710,B cell,B cell
+1711,B cell,B cell
+1712,Cytotoxic T cell,Cytotoxic T cell
+1713,CD16+ monocyte,CD16+ monocyte
+1714,Cytotoxic T cell,Natural killer cell
+1715,CD4+ T cell,CD4+ T cell
+1716,CD4+ T cell,CD4+ T cell
+1717,CD14+ monocyte,CD14+ monocyte
+1718,CD14+ monocyte,CD14+ monocyte
+1719,Cytotoxic T cell,Natural killer cell
+1720,CD14+ monocyte,CD14+ monocyte
+1721,CD4+ T cell,CD4+ T cell
+1722,Cytotoxic T cell,Cytotoxic T cell
+1723,CD14+ monocyte,CD14+ monocyte
+1724,B cell,B cell
+1725,B cell,B cell
+1726,Cytotoxic T cell,Cytotoxic T cell
+1727,CD4+ T cell,CD4+ T cell
+1728,CD4+ T cell,CD4+ T cell
+1729,B cell,B cell
+1730,CD14+ monocyte,CD14+ monocyte
+1731,Natural killer cell,Natural killer cell
+1732,CD14+ monocyte,Megakaryocyte
+1733,Cytotoxic T cell,CD4+ T cell
+1734,B cell,Cytotoxic T cell
+1735,CD4+ T cell,CD4+ T cell
+1736,CD14+ monocyte,CD14+ monocyte
+1737,CD14+ monocyte,CD14+ monocyte
+1738,B cell,B cell
+1739,Cytotoxic T cell,Cytotoxic T cell
+1740,Cytotoxic T cell,Cytotoxic T cell
+1741,CD14+ monocyte,CD16+ monocyte
+1742,CD4+ T cell,CD4+ T cell
+1743,Cytotoxic T cell,Cytotoxic T cell
+1744,B cell,B cell
+1745,CD4+ T cell,CD4+ T cell
+1746,Cytotoxic T cell,Cytotoxic T cell
+1747,Natural killer cell,Natural killer cell
+1748,B cell,Cytotoxic T cell
+1749,B cell,B cell
+1750,B cell,Dendritic cell
+1751,Cytotoxic T cell,Cytotoxic T cell
+1752,Cytotoxic T cell,Cytotoxic T cell
+1753,CD14+ monocyte,CD14+ monocyte
+1754,CD4+ T cell,CD4+ T cell
+1755,CD14+ monocyte,CD14+ monocyte
+1756,Cytotoxic T cell,CD4+ T cell
+1757,B cell,Cytotoxic T cell
+1758,Cytotoxic T cell,Cytotoxic T cell
+1759,CD14+ monocyte,Cytotoxic T cell
+1760,CD14+ monocyte,CD14+ monocyte
+1761,Dendritic cell,CD14+ monocyte
+1762,Dendritic cell,Dendritic cell
+1763,Cytotoxic T cell,CD4+ T cell
+1764,Natural killer cell,Natural killer cell
+1765,CD4+ T cell,CD4+ T cell
+1766,CD14+ monocyte,CD14+ monocyte
+1767,CD4+ T cell,CD4+ T cell
+1768,CD14+ monocyte,CD14+ monocyte
+1769,CD14+ monocyte,CD14+ monocyte
+1770,Cytotoxic T cell,Cytotoxic T cell
+1771,CD14+ monocyte,CD14+ monocyte
+1772,CD14+ monocyte,CD14+ monocyte
+1773,Cytotoxic T cell,Megakaryocyte
+1774,B cell,B cell
+1775,B cell,B cell
+1776,CD14+ monocyte,CD14+ monocyte
+1777,Cytotoxic T cell,CD4+ T cell
+1778,CD14+ monocyte,CD14+ monocyte
+1779,B cell,Plasmacytoid dendritic cell
+1780,CD14+ monocyte,CD14+ monocyte
+1781,B cell,B cell
+1782,B cell,Dendritic cell
+1783,Cytotoxic T cell,Cytotoxic T cell
+1784,Cytotoxic T cell,CD4+ T cell
+1785,CD14+ monocyte,CD14+ monocyte
+1786,CD16+ monocyte,CD16+ monocyte
+1787,CD14+ monocyte,CD14+ monocyte
+1788,CD4+ T cell,CD4+ T cell
+1789,CD16+ monocyte,CD16+ monocyte
+1790,CD14+ monocyte,CD14+ monocyte
+1791,CD4+ T cell,CD4+ T cell
+1792,CD14+ monocyte,CD14+ monocyte
+1793,Cytotoxic T cell,Cytotoxic T cell
+1794,B cell,B cell
+1795,CD14+ monocyte,CD14+ monocyte
+1796,Cytotoxic T cell,Cytotoxic T cell
+1797,B cell,B cell
+1798,Megakaryocyte,Megakaryocyte
+1799,Cytotoxic T cell,Natural killer cell
+1800,Cytotoxic T cell,Cytotoxic T cell
+1801,Cytotoxic T cell,Cytotoxic T cell
+1802,CD4+ T cell,CD4+ T cell
+1803,CD4+ T cell,CD4+ T cell
+1804,B cell,B cell
+1805,Dendritic cell,CD4+ T cell
+1806,CD14+ monocyte,CD14+ monocyte
+1807,CD4+ T cell,CD4+ T cell
+1808,Cytotoxic T cell,Cytotoxic T cell
+1809,CD14+ monocyte,CD14+ monocyte
+1810,CD14+ monocyte,CD14+ monocyte
+1811,CD4+ T cell,CD4+ T cell
+1812,Cytotoxic T cell,CD4+ T cell
+1813,CD4+ T cell,CD4+ T cell
+1814,CD16+ monocyte,CD16+ monocyte
+1815,CD14+ monocyte,CD14+ monocyte
+1816,CD14+ monocyte,CD14+ monocyte
+1817,CD14+ monocyte,CD4+ T cell
+1818,CD14+ monocyte,CD14+ monocyte
+1819,Cytotoxic T cell,CD4+ T cell
+1820,CD16+ monocyte,CD16+ monocyte
+1821,B cell,B cell
+1822,CD14+ monocyte,CD14+ monocyte
+1823,CD14+ monocyte,CD14+ monocyte
+1824,Cytotoxic T cell,Cytotoxic T cell
+1825,CD4+ T cell,CD4+ T cell
+1826,Cytotoxic T cell,Cytotoxic T cell
+1827,B cell,B cell
+1828,CD4+ T cell,CD4+ T cell
+1829,B cell,B cell
+1830,CD4+ T cell,CD4+ T cell
+1831,CD14+ monocyte,Cytotoxic T cell
+1832,Cytotoxic T cell,Cytotoxic T cell
+1833,CD14+ monocyte,CD14+ monocyte
+1834,B cell,B cell
+1835,CD4+ T cell,Cytotoxic T cell
+1836,CD14+ monocyte,CD14+ monocyte
+1837,Dendritic cell,Dendritic cell
+1838,CD4+ T cell,CD4+ T cell
+1839,CD14+ monocyte,CD14+ monocyte
+1840,Cytotoxic T cell,Natural killer cell
+1841,CD14+ monocyte,CD14+ monocyte
+1842,Natural killer cell,Natural killer cell
+1843,CD4+ T cell,CD4+ T cell
+1844,Megakaryocyte,Megakaryocyte
+1845,B cell,Dendritic cell
+1846,B cell,CD4+ T cell
+1847,CD14+ monocyte,CD14+ monocyte
+1848,CD14+ monocyte,CD14+ monocyte
+1849,Cytotoxic T cell,Cytotoxic T cell
+1850,Cytotoxic T cell,Cytotoxic T cell
+1851,Cytotoxic T cell,CD4+ T cell
+1852,CD4+ T cell,CD4+ T cell
+1853,Cytotoxic T cell,CD4+ T cell
+1854,CD16+ monocyte,CD16+ monocyte
+1855,Cytotoxic T cell,CD4+ T cell
+1856,CD14+ monocyte,CD14+ monocyte
+1857,Cytotoxic T cell,Cytotoxic T cell
+1858,Dendritic cell,Dendritic cell
+1859,CD4+ T cell,CD4+ T cell
+1860,CD4+ T cell,CD4+ T cell
+1861,CD4+ T cell,CD4+ T cell
+1862,CD14+ monocyte,CD14+ monocyte
+1863,Cytotoxic T cell,CD4+ T cell
+1864,Cytotoxic T cell,Cytotoxic T cell
+1865,B cell,B cell
+1866,Cytotoxic T cell,Cytotoxic T cell
+1867,CD14+ monocyte,CD14+ monocyte
+1868,CD14+ monocyte,CD14+ monocyte
+1869,CD14+ monocyte,CD14+ monocyte
+1870,B cell,B cell
+1871,CD14+ monocyte,CD16+ monocyte
+1872,Cytotoxic T cell,Cytotoxic T cell
+1873,B cell,B cell
+1874,B cell,B cell
+1875,Cytotoxic T cell,Cytotoxic T cell
+1876,B cell,B cell
+1877,CD16+ monocyte,CD16+ monocyte
+1878,CD14+ monocyte,CD14+ monocyte
+1879,CD14+ monocyte,CD14+ monocyte
+1880,CD14+ monocyte,CD14+ monocyte
+1881,CD14+ monocyte,CD14+ monocyte
+1882,CD14+ monocyte,CD4+ T cell
+1883,Natural killer cell,Natural killer cell
+1884,Cytotoxic T cell,Cytotoxic T cell
+1885,Cytotoxic T cell,Cytotoxic T cell
+1886,B cell,B cell
+1887,CD14+ monocyte,CD14+ monocyte
+1888,Dendritic cell,Dendritic cell
+1889,B cell,B cell
+1890,CD14+ monocyte,CD14+ monocyte
+1891,Natural killer cell,Cytotoxic T cell
+1892,CD14+ monocyte,CD14+ monocyte
+1893,B cell,B cell
+1894,Cytotoxic T cell,Cytotoxic T cell
+1895,B cell,B cell
+1896,CD14+ monocyte,CD14+ monocyte
+1897,B cell,Dendritic cell
+1898,CD4+ T cell,CD4+ T cell
+1899,B cell,B cell
+1900,CD14+ monocyte,CD14+ monocyte
+1901,Megakaryocyte,Megakaryocyte
+1902,CD16+ monocyte,CD14+ monocyte
+1903,CD14+ monocyte,CD14+ monocyte
+1904,CD14+ monocyte,CD14+ monocyte
+1905,CD4+ T cell,CD4+ T cell
+1906,CD4+ T cell,CD4+ T cell
+1907,CD4+ T cell,CD4+ T cell
+1908,CD14+ monocyte,CD14+ monocyte
+1909,CD14+ monocyte,CD14+ monocyte
+1910,CD14+ monocyte,CD14+ monocyte
+1911,Megakaryocyte,Megakaryocyte
+1912,CD14+ monocyte,CD14+ monocyte
+1913,CD4+ T cell,CD4+ T cell
+1914,B cell,Plasmacytoid dendritic cell
+1915,Natural killer cell,Cytotoxic T cell
+1916,CD4+ T cell,CD4+ T cell
+1917,B cell,B cell
+1918,Dendritic cell,CD14+ monocyte
+1919,Cytotoxic T cell,Cytotoxic T cell
+1920,Cytotoxic T cell,Cytotoxic T cell
+1921,Cytotoxic T cell,CD4+ T cell
+1922,Cytotoxic T cell,CD4+ T cell
+1923,B cell,B cell
+1924,CD14+ monocyte,CD14+ monocyte
+1925,CD4+ T cell,CD4+ T cell
+1926,CD14+ monocyte,CD14+ monocyte
+1927,Cytotoxic T cell,Cytotoxic T cell
+1928,Cytotoxic T cell,Cytotoxic T cell
+1929,Cytotoxic T cell,Cytotoxic T cell
+1930,Cytotoxic T cell,Cytotoxic T cell
+1931,Cytotoxic T cell,CD4+ T cell
+1932,B cell,B cell
+1933,B cell,B cell
+1934,Megakaryocyte,Megakaryocyte
+1935,CD14+ monocyte,CD14+ monocyte
+1936,B cell,B cell
+1937,CD14+ monocyte,CD14+ monocyte
+1938,CD14+ monocyte,CD4+ T cell
+1939,CD4+ T cell,CD4+ T cell
+1940,Dendritic cell,CD14+ monocyte
+1941,Natural killer cell,Cytotoxic T cell
+1942,CD14+ monocyte,CD14+ monocyte
+1943,Cytotoxic T cell,CD4+ T cell
+1944,CD14+ monocyte,CD14+ monocyte
+1945,CD14+ monocyte,CD14+ monocyte
+1946,Cytotoxic T cell,Cytotoxic T cell
+1947,CD14+ monocyte,CD14+ monocyte
+1948,B cell,B cell
+1949,CD4+ T cell,CD4+ T cell
+1950,CD4+ T cell,CD4+ T cell
+1951,Dendritic cell,Dendritic cell
+1952,CD14+ monocyte,CD14+ monocyte
+1953,Cytotoxic T cell,Cytotoxic T cell
+1954,B cell,B cell
+1955,CD14+ monocyte,CD14+ monocyte
+1956,Megakaryocyte,Megakaryocyte
+1957,CD14+ monocyte,CD14+ monocyte
+1958,B cell,B cell
+1959,B cell,B cell
+1960,Cytotoxic T cell,Cytotoxic T cell
+1961,Cytotoxic T cell,Cytotoxic T cell
+1962,B cell,CD4+ T cell
+1963,CD14+ monocyte,CD14+ monocyte
+1964,Megakaryocyte,Megakaryocyte
+1965,CD14+ monocyte,CD14+ monocyte
+1966,B cell,B cell
+1967,CD4+ T cell,CD4+ T cell
+1968,CD14+ monocyte,CD14+ monocyte
+1969,B cell,B cell
+1970,Cytotoxic T cell,Cytotoxic T cell
+1971,CD14+ monocyte,CD14+ monocyte
+1972,Cytotoxic T cell,Cytotoxic T cell
+1973,CD4+ T cell,CD4+ T cell
+1974,CD4+ T cell,CD4+ T cell
+1975,CD14+ monocyte,CD14+ monocyte
+1976,Cytotoxic T cell,Cytotoxic T cell
+1977,CD4+ T cell,CD4+ T cell
+1978,CD4+ T cell,CD4+ T cell
+1979,Cytotoxic T cell,Cytotoxic T cell
+1980,Natural killer cell,Natural killer cell
+1981,Cytotoxic T cell,CD4+ T cell
+1982,Cytotoxic T cell,Cytotoxic T cell
+1983,CD4+ T cell,CD4+ T cell
+1984,Cytotoxic T cell,Cytotoxic T cell
+1985,CD14+ monocyte,CD14+ monocyte
+1986,Cytotoxic T cell,Cytotoxic T cell
+1987,CD14+ monocyte,CD14+ monocyte
+1988,Cytotoxic T cell,Cytotoxic T cell
+1989,Cytotoxic T cell,Cytotoxic T cell
+1990,CD14+ monocyte,CD14+ monocyte
+1991,CD4+ T cell,CD4+ T cell
+1992,CD4+ T cell,CD4+ T cell
+1993,Cytotoxic T cell,Cytotoxic T cell
+1994,Natural killer cell,Natural killer cell
+1995,CD14+ monocyte,CD14+ monocyte
+1996,Cytotoxic T cell,Cytotoxic T cell
+1997,Cytotoxic T cell,CD4+ T cell
+1998,Cytotoxic T cell,Cytotoxic T cell
+1999,CD14+ monocyte,CD14+ monocyte
+2000,Cytotoxic T cell,Cytotoxic T cell
+2001,CD4+ T cell,CD4+ T cell
+2002,CD14+ monocyte,CD14+ monocyte
+2003,Cytotoxic T cell,CD4+ T cell
+2004,CD14+ monocyte,CD14+ monocyte
+2005,CD14+ monocyte,Dendritic cell
+2006,CD14+ monocyte,CD14+ monocyte
+2007,CD14+ monocyte,CD14+ monocyte
+2008,Cytotoxic T cell,Cytotoxic T cell
+2009,B cell,B cell
+2010,Cytotoxic T cell,CD4+ T cell
+2011,CD4+ T cell,CD4+ T cell
+2012,CD4+ T cell,CD4+ T cell
+2013,CD16+ monocyte,CD14+ monocyte
+2014,CD16+ monocyte,CD16+ monocyte
+2015,CD14+ monocyte,CD14+ monocyte
+2016,B cell,B cell
+2017,CD14+ monocyte,CD14+ monocyte
+2018,CD14+ monocyte,CD14+ monocyte
+2019,Cytotoxic T cell,Cytotoxic T cell
+2020,Cytotoxic T cell,CD4+ T cell
+2021,CD14+ monocyte,CD14+ monocyte
+2022,B cell,B cell
+2023,CD14+ monocyte,CD14+ monocyte
+2024,CD4+ T cell,CD4+ T cell
+2025,CD4+ T cell,CD4+ T cell
+2026,Dendritic cell,CD16+ monocyte
+2027,Dendritic cell,CD14+ monocyte
+2028,Cytotoxic T cell,Cytotoxic T cell
+2029,CD4+ T cell,CD4+ T cell
+2030,CD14+ monocyte,CD14+ monocyte
+2031,CD4+ T cell,CD4+ T cell
+2032,Cytotoxic T cell,Cytotoxic T cell
+2033,B cell,B cell
+2034,CD4+ T cell,CD4+ T cell
+2035,CD14+ monocyte,CD14+ monocyte
+2036,Cytotoxic T cell,Cytotoxic T cell
+2037,B cell,B cell
+2038,CD16+ monocyte,CD16+ monocyte
+2039,CD14+ monocyte,CD14+ monocyte
+2040,CD14+ monocyte,CD14+ monocyte
+2041,B cell,B cell
+2042,CD14+ monocyte,CD14+ monocyte
+2043,Megakaryocyte,Megakaryocyte
+2044,Dendritic cell,Dendritic cell
+2045,CD16+ monocyte,Cytotoxic T cell
+2046,CD14+ monocyte,CD14+ monocyte
+2047,B cell,B cell
+2048,B cell,B cell
+2049,Cytotoxic T cell,CD4+ T cell
+2050,CD14+ monocyte,CD14+ monocyte
+2051,CD14+ monocyte,CD14+ monocyte
+2052,CD14+ monocyte,CD14+ monocyte
+2053,CD4+ T cell,CD4+ T cell
+2054,CD14+ monocyte,CD14+ monocyte
+2055,CD14+ monocyte,CD14+ monocyte
+2056,CD14+ monocyte,CD14+ monocyte
+2057,Cytotoxic T cell,Cytotoxic T cell
+2058,B cell,B cell
+2059,Cytotoxic T cell,Cytotoxic T cell
+2060,B cell,B cell
+2061,CD16+ monocyte,CD16+ monocyte
+2062,Cytotoxic T cell,Cytotoxic T cell
+2063,CD14+ monocyte,CD14+ monocyte
+2064,B cell,B cell
+2065,Cytotoxic T cell,Cytotoxic T cell
+2066,CD14+ monocyte,CD14+ monocyte
+2067,B cell,B cell
+2068,Natural killer cell,Cytotoxic T cell
+2069,CD14+ monocyte,CD14+ monocyte
+2070,Cytotoxic T cell,Cytotoxic T cell
+2071,CD14+ monocyte,CD14+ monocyte
+2072,CD4+ T cell,CD4+ T cell
+2073,CD14+ monocyte,CD16+ monocyte
+2074,Cytotoxic T cell,Cytotoxic T cell
+2075,CD14+ monocyte,CD14+ monocyte
+2076,CD4+ T cell,CD4+ T cell
+2077,CD14+ monocyte,CD14+ monocyte
+2078,Cytotoxic T cell,Cytotoxic T cell
+2079,CD4+ T cell,Cytotoxic T cell
+2080,CD14+ monocyte,CD14+ monocyte
+2081,CD4+ T cell,Cytotoxic T cell
+2082,CD4+ T cell,CD4+ T cell
+2083,CD4+ T cell,Cytotoxic T cell
+2084,Cytotoxic T cell,Cytotoxic T cell
+2085,CD16+ monocyte,CD14+ monocyte
+2086,Natural killer cell,Cytotoxic T cell
+2087,Cytotoxic T cell,Cytotoxic T cell
+2088,Cytotoxic T cell,Cytotoxic T cell
+2089,Cytotoxic T cell,Cytotoxic T cell
+2090,CD14+ monocyte,CD14+ monocyte
+2091,Cytotoxic T cell,Cytotoxic T cell
+2092,B cell,B cell
+2093,CD4+ T cell,CD4+ T cell
+2094,Cytotoxic T cell,Cytotoxic T cell
+2095,Megakaryocyte,Megakaryocyte
+2096,CD4+ T cell,CD4+ T cell
+2097,Megakaryocyte,Megakaryocyte
+2098,Cytotoxic T cell,Cytotoxic T cell
+2099,Cytotoxic T cell,Cytotoxic T cell
+2100,Dendritic cell,Dendritic cell
+2101,B cell,B cell
+2102,CD4+ T cell,CD4+ T cell
+2103,Cytotoxic T cell,Cytotoxic T cell
+2104,Cytotoxic T cell,Cytotoxic T cell
+2105,CD14+ monocyte,CD14+ monocyte
+2106,CD14+ monocyte,CD14+ monocyte
+2107,Dendritic cell,CD14+ monocyte
+2108,CD16+ monocyte,CD14+ monocyte
+2109,Cytotoxic T cell,Cytotoxic T cell
+2110,CD14+ monocyte,CD14+ monocyte
+2111,Megakaryocyte,Megakaryocyte
+2112,B cell,CD14+ monocyte
+2113,CD14+ monocyte,CD14+ monocyte
+2114,CD14+ monocyte,CD14+ monocyte
+2115,Cytotoxic T cell,Cytotoxic T cell
+2116,B cell,B cell
+2117,Cytotoxic T cell,CD4+ T cell
+2118,CD14+ monocyte,CD14+ monocyte
+2119,CD14+ monocyte,CD14+ monocyte
+2120,Cytotoxic T cell,Cytotoxic T cell
+2121,CD14+ monocyte,CD14+ monocyte
+2122,Cytotoxic T cell,Cytotoxic T cell
+2123,CD4+ T cell,CD4+ T cell
+2124,B cell,B cell
+2125,B cell,B cell
+2126,Cytotoxic T cell,Cytotoxic T cell
+2127,CD14+ monocyte,CD14+ monocyte
+2128,CD14+ monocyte,CD14+ monocyte
+2129,Cytotoxic T cell,Cytotoxic T cell
+2130,Cytotoxic T cell,Cytotoxic T cell
+2131,CD14+ monocyte,CD14+ monocyte
+2132,Cytotoxic T cell,Cytotoxic T cell
+2133,CD14+ monocyte,CD16+ monocyte
+2134,CD14+ monocyte,Dendritic cell
+2135,CD14+ monocyte,CD14+ monocyte
+2136,Cytotoxic T cell,Cytotoxic T cell
+2137,CD4+ T cell,CD4+ T cell
+2138,CD14+ monocyte,CD14+ monocyte
+2139,CD4+ T cell,CD4+ T cell
+2140,B cell,B cell
+2141,CD4+ T cell,CD4+ T cell
+2142,B cell,B cell
+2143,B cell,B cell
+2144,CD14+ monocyte,Cytotoxic T cell
+2145,Cytotoxic T cell,Cytotoxic T cell
+2146,Natural killer cell,Natural killer cell
+2147,CD14+ monocyte,CD14+ monocyte
+2148,CD4+ T cell,CD4+ T cell
+2149,CD14+ monocyte,B cell
+2150,Cytotoxic T cell,Cytotoxic T cell
+2151,Cytotoxic T cell,CD4+ T cell
+2152,CD14+ monocyte,CD16+ monocyte
+2153,Megakaryocyte,Cytotoxic T cell
+2154,B cell,B cell
+2155,B cell,B cell
+2156,B cell,B cell
+2157,Cytotoxic T cell,Cytotoxic T cell
+2158,Cytotoxic T cell,Cytotoxic T cell
+2159,CD14+ monocyte,CD14+ monocyte
+2160,CD4+ T cell,CD4+ T cell
+2161,CD14+ monocyte,CD14+ monocyte
+2162,B cell,B cell
+2163,CD14+ monocyte,CD14+ monocyte
+2164,Cytotoxic T cell,CD4+ T cell
+2165,Cytotoxic T cell,Cytotoxic T cell
+2166,Cytotoxic T cell,Cytotoxic T cell
+2167,CD4+ T cell,CD4+ T cell
+2168,CD14+ monocyte,CD14+ monocyte
+2169,CD4+ T cell,CD4+ T cell
+2170,Cytotoxic T cell,CD4+ T cell
+2171,CD14+ monocyte,CD14+ monocyte
+2172,B cell,B cell
+2173,CD14+ monocyte,CD14+ monocyte
+2174,CD14+ monocyte,CD14+ monocyte
+2175,CD14+ monocyte,CD14+ monocyte
+2176,Cytotoxic T cell,CD4+ T cell
+2177,CD14+ monocyte,CD14+ monocyte
+2178,B cell,B cell
+2179,Cytotoxic T cell,Cytotoxic T cell
+2180,Cytotoxic T cell,Cytotoxic T cell
+2181,CD14+ monocyte,CD14+ monocyte
+2182,Megakaryocyte,Megakaryocyte
+2183,CD14+ monocyte,CD14+ monocyte
+2184,B cell,B cell
+2185,B cell,B cell
+2186,CD14+ monocyte,CD14+ monocyte
+2187,B cell,B cell
+2188,CD14+ monocyte,CD14+ monocyte
+2189,B cell,B cell
+2190,CD14+ monocyte,CD14+ monocyte
+2191,B cell,B cell
+2192,CD4+ T cell,CD4+ T cell
+2193,CD14+ monocyte,CD14+ monocyte
+2194,CD14+ monocyte,CD14+ monocyte
+2195,Cytotoxic T cell,Cytotoxic T cell
+2196,Dendritic cell,CD16+ monocyte
+2197,B cell,B cell
+2198,B cell,B cell
+2199,CD14+ monocyte,CD14+ monocyte
+2200,CD4+ T cell,CD4+ T cell
+2201,CD14+ monocyte,CD14+ monocyte
+2202,CD14+ monocyte,CD14+ monocyte
+2203,Cytotoxic T cell,Cytotoxic T cell
+2204,Cytotoxic T cell,Cytotoxic T cell
+2205,Cytotoxic T cell,Cytotoxic T cell
+2206,Cytotoxic T cell,Cytotoxic T cell
+2207,Cytotoxic T cell,Cytotoxic T cell
+2208,Cytotoxic T cell,Cytotoxic T cell
+2209,CD14+ monocyte,CD14+ monocyte
+2210,Megakaryocyte,Megakaryocyte
+2211,CD4+ T cell,CD4+ T cell
+2212,CD14+ monocyte,CD14+ monocyte
+2213,Cytotoxic T cell,Cytotoxic T cell
+2214,Cytotoxic T cell,Cytotoxic T cell
+2215,CD14+ monocyte,Dendritic cell
+2216,B cell,B cell
+2217,CD16+ monocyte,CD16+ monocyte
+2218,CD14+ monocyte,CD14+ monocyte
+2219,Megakaryocyte,Megakaryocyte
+2220,B cell,B cell
+2221,CD14+ monocyte,CD14+ monocyte
+2222,CD14+ monocyte,CD14+ monocyte
+2223,CD4+ T cell,CD4+ T cell
+2224,CD16+ monocyte,CD14+ monocyte
+2225,CD4+ T cell,CD4+ T cell
+2226,Cytotoxic T cell,Cytotoxic T cell
+2227,Cytotoxic T cell,Cytotoxic T cell
+2228,CD14+ monocyte,CD14+ monocyte
+2229,B cell,B cell
+2230,B cell,B cell
+2231,Cytotoxic T cell,Cytotoxic T cell
+2232,CD14+ monocyte,CD14+ monocyte
+2233,CD14+ monocyte,CD14+ monocyte
+2234,CD4+ T cell,CD4+ T cell
+2235,CD4+ T cell,CD4+ T cell
+2236,CD14+ monocyte,CD14+ monocyte
+2237,B cell,B cell
+2238,CD14+ monocyte,CD14+ monocyte
+2239,CD4+ T cell,B cell
+2240,Cytotoxic T cell,Cytotoxic T cell
+2241,CD14+ monocyte,CD14+ monocyte
+2242,B cell,B cell
+2243,Cytotoxic T cell,CD4+ T cell
+2244,Cytotoxic T cell,Cytotoxic T cell
+2245,CD14+ monocyte,CD14+ monocyte
+2246,CD14+ monocyte,CD16+ monocyte
+2247,B cell,Dendritic cell
+2248,CD14+ monocyte,CD14+ monocyte
+2249,CD4+ T cell,CD4+ T cell
+2250,CD4+ T cell,CD4+ T cell
+2251,Natural killer cell,Cytotoxic T cell
+2252,CD14+ monocyte,CD14+ monocyte
+2253,B cell,B cell
+2254,CD14+ monocyte,CD14+ monocyte
+2255,CD4+ T cell,CD4+ T cell
+2256,CD14+ monocyte,CD14+ monocyte
+2257,Cytotoxic T cell,CD4+ T cell
+2258,Cytotoxic T cell,CD14+ monocyte
+2259,CD14+ monocyte,CD14+ monocyte
+2260,B cell,B cell
+2261,CD14+ monocyte,CD14+ monocyte
+2262,Cytotoxic T cell,CD4+ T cell
+2263,CD14+ monocyte,CD14+ monocyte
+2264,Cytotoxic T cell,Cytotoxic T cell
+2265,Cytotoxic T cell,Cytotoxic T cell
+2266,CD14+ monocyte,CD14+ monocyte
+2267,CD16+ monocyte,CD16+ monocyte
+2268,Cytotoxic T cell,Cytotoxic T cell
+2269,CD14+ monocyte,CD14+ monocyte
+2270,CD14+ monocyte,CD14+ monocyte
+2271,Cytotoxic T cell,Cytotoxic T cell
+2272,CD14+ monocyte,CD14+ monocyte
+2273,CD4+ T cell,CD4+ T cell
+2274,Cytotoxic T cell,CD4+ T cell
+2275,Natural killer cell,Natural killer cell
+2276,CD14+ monocyte,CD14+ monocyte
+2277,Cytotoxic T cell,CD4+ T cell
+2278,B cell,B cell
+2279,B cell,B cell
+2280,CD14+ monocyte,CD14+ monocyte
+2281,B cell,B cell
+2282,CD14+ monocyte,CD14+ monocyte
+2283,CD14+ monocyte,CD14+ monocyte
+2284,CD16+ monocyte,CD16+ monocyte
+2285,Cytotoxic T cell,Cytotoxic T cell
+2286,CD14+ monocyte,CD14+ monocyte
+2287,CD14+ monocyte,CD14+ monocyte
+2288,CD14+ monocyte,CD14+ monocyte
+2289,Natural killer cell,Natural killer cell
+2290,CD14+ monocyte,CD14+ monocyte
+2291,CD4+ T cell,Cytotoxic T cell
+2292,B cell,B cell
+2293,CD14+ monocyte,CD14+ monocyte
+2294,CD14+ monocyte,CD14+ monocyte
+2295,B cell,B cell
+2296,CD4+ T cell,Cytotoxic T cell
+2297,Cytotoxic T cell,CD4+ T cell
+2298,Cytotoxic T cell,Cytotoxic T cell
+2299,CD14+ monocyte,CD14+ monocyte
+2300,CD14+ monocyte,CD14+ monocyte
+2301,Cytotoxic T cell,Cytotoxic T cell
+2302,Cytotoxic T cell,Cytotoxic T cell
+2303,CD14+ monocyte,CD14+ monocyte
+2304,Cytotoxic T cell,Cytotoxic T cell
+2305,CD14+ monocyte,CD14+ monocyte
+2306,B cell,B cell
+2307,Cytotoxic T cell,Cytotoxic T cell
+2308,Cytotoxic T cell,Cytotoxic T cell
+2309,CD14+ monocyte,CD14+ monocyte
+2310,CD14+ monocyte,CD14+ monocyte
+2311,B cell,B cell
+2312,B cell,B cell
+2313,CD14+ monocyte,CD14+ monocyte
+2314,Cytotoxic T cell,Cytotoxic T cell
+2315,Cytotoxic T cell,Cytotoxic T cell
+2316,CD14+ monocyte,CD4+ T cell
+2317,CD14+ monocyte,Cytotoxic T cell
+2318,Cytotoxic T cell,Cytotoxic T cell
+2319,Cytotoxic T cell,Cytotoxic T cell
+2320,B cell,B cell
+2321,Dendritic cell,CD16+ monocyte
+2322,CD14+ monocyte,CD14+ monocyte
+2323,Megakaryocyte,Megakaryocyte
+2324,CD14+ monocyte,CD14+ monocyte
+2325,CD14+ monocyte,CD14+ monocyte
+2326,CD14+ monocyte,CD16+ monocyte
+2327,CD16+ monocyte,CD16+ monocyte
+2328,B cell,B cell
+2329,CD14+ monocyte,CD14+ monocyte
+2330,CD14+ monocyte,CD14+ monocyte
+2331,Dendritic cell,Dendritic cell
+2332,Cytotoxic T cell,Cytotoxic T cell
+2333,CD4+ T cell,CD4+ T cell
+2334,CD14+ monocyte,CD14+ monocyte
+2335,CD14+ monocyte,B cell
+2336,Cytotoxic T cell,CD4+ T cell
+2337,B cell,B cell
+2338,Cytotoxic T cell,Cytotoxic T cell
+2339,CD16+ monocyte,CD16+ monocyte
+2340,Cytotoxic T cell,Cytotoxic T cell
+2341,B cell,B cell
+2342,CD4+ T cell,CD4+ T cell
+2343,Cytotoxic T cell,CD4+ T cell
+2344,B cell,B cell
+2345,B cell,B cell
+2346,CD4+ T cell,CD4+ T cell
+2347,Cytotoxic T cell,CD4+ T cell
+2348,CD14+ monocyte,CD14+ monocyte
+2349,Cytotoxic T cell,Cytotoxic T cell
+2350,Cytotoxic T cell,Cytotoxic T cell
+2351,B cell,B cell
+2352,CD4+ T cell,CD4+ T cell
+2353,CD14+ monocyte,CD14+ monocyte
+2354,CD4+ T cell,CD4+ T cell
+2355,Natural killer cell,Natural killer cell
+2356,B cell,B cell
+2357,Cytotoxic T cell,Cytotoxic T cell
+2358,Megakaryocyte,Cytotoxic T cell
+2359,CD14+ monocyte,Dendritic cell
+2360,CD14+ monocyte,CD14+ monocyte
+2361,CD4+ T cell,CD4+ T cell
+2362,CD14+ monocyte,CD14+ monocyte
+2363,Cytotoxic T cell,CD4+ T cell
+2364,Cytotoxic T cell,Cytotoxic T cell
+2365,B cell,B cell
+2366,Natural killer cell,Natural killer cell
+2367,B cell,B cell
+2368,Cytotoxic T cell,Cytotoxic T cell
+2369,Cytotoxic T cell,Cytotoxic T cell
+2370,CD14+ monocyte,CD14+ monocyte
+2371,Cytotoxic T cell,Cytotoxic T cell
+2372,CD4+ T cell,CD4+ T cell
+2373,CD4+ T cell,CD4+ T cell
+2374,CD14+ monocyte,Cytotoxic T cell
+2375,CD4+ T cell,CD4+ T cell
+2376,CD14+ monocyte,CD16+ monocyte
+2377,Cytotoxic T cell,Cytotoxic T cell
+2378,CD14+ monocyte,CD14+ monocyte
+2379,CD14+ monocyte,CD14+ monocyte
+2380,B cell,B cell
+2381,CD14+ monocyte,CD14+ monocyte
+2382,Cytotoxic T cell,Cytotoxic T cell
+2383,B cell,Cytotoxic T cell
+2384,CD4+ T cell,CD4+ T cell
+2385,CD14+ monocyte,CD14+ monocyte
+2386,Cytotoxic T cell,CD4+ T cell
+2387,Cytotoxic T cell,Cytotoxic T cell
+2388,CD4+ T cell,CD4+ T cell
+2389,Cytotoxic T cell,Cytotoxic T cell
+2390,Natural killer cell,Cytotoxic T cell
+2391,CD4+ T cell,CD14+ monocyte
+2392,CD4+ T cell,CD4+ T cell
+2393,B cell,B cell
+2394,Cytotoxic T cell,Cytotoxic T cell
+2395,CD14+ monocyte,CD14+ monocyte
+2396,CD14+ monocyte,CD14+ monocyte
+2397,Natural killer cell,Natural killer cell
+2398,CD14+ monocyte,CD14+ monocyte
+2399,Cytotoxic T cell,Cytotoxic T cell
+2400,Cytotoxic T cell,Natural killer cell
+2401,CD14+ monocyte,CD14+ monocyte
+2402,CD4+ T cell,CD4+ T cell
+2403,B cell,CD14+ monocyte
+2404,CD14+ monocyte,CD14+ monocyte
+2405,CD4+ T cell,CD4+ T cell
+2406,CD14+ monocyte,CD14+ monocyte
+2407,B cell,B cell
+2408,Cytotoxic T cell,Cytotoxic T cell
+2409,Cytotoxic T cell,Cytotoxic T cell
+2410,Cytotoxic T cell,Cytotoxic T cell
+2411,CD14+ monocyte,CD14+ monocyte
+2412,Cytotoxic T cell,Cytotoxic T cell
+2413,CD14+ monocyte,CD14+ monocyte
+2414,Dendritic cell,Dendritic cell
+2415,Cytotoxic T cell,Cytotoxic T cell
+2416,CD14+ monocyte,CD14+ monocyte
+2417,CD4+ T cell,CD4+ T cell
+2418,Cytotoxic T cell,Cytotoxic T cell
+2419,CD14+ monocyte,CD14+ monocyte
+2420,CD4+ T cell,CD4+ T cell
+2421,CD16+ monocyte,CD16+ monocyte
+2422,CD14+ monocyte,Dendritic cell
+2423,CD4+ T cell,CD4+ T cell
+2424,CD14+ monocyte,CD14+ monocyte
+2425,Cytotoxic T cell,CD4+ T cell
+2426,CD14+ monocyte,CD14+ monocyte
+2427,B cell,B cell
+2428,B cell,B cell
+2429,CD4+ T cell,CD4+ T cell
+2430,Cytotoxic T cell,Cytotoxic T cell
+2431,CD14+ monocyte,CD14+ monocyte
+2432,CD4+ T cell,CD4+ T cell
+2433,CD14+ monocyte,CD14+ monocyte
+2434,CD14+ monocyte,CD14+ monocyte
+2435,CD4+ T cell,CD4+ T cell
+2436,Cytotoxic T cell,Cytotoxic T cell
+2437,CD14+ monocyte,CD14+ monocyte
+2438,CD4+ T cell,CD4+ T cell
+2439,B cell,B cell
+2440,Cytotoxic T cell,Cytotoxic T cell
+2441,CD14+ monocyte,CD14+ monocyte
+2442,CD4+ T cell,CD4+ T cell
+2443,CD14+ monocyte,CD14+ monocyte
+2444,CD14+ monocyte,CD14+ monocyte
+2445,Cytotoxic T cell,Cytotoxic T cell
+2446,Natural killer cell,Natural killer cell
+2447,B cell,B cell
+2448,Dendritic cell,Dendritic cell
+2449,Cytotoxic T cell,Cytotoxic T cell
+2450,CD14+ monocyte,CD14+ monocyte
+2451,Cytotoxic T cell,Cytotoxic T cell
+2452,CD14+ monocyte,CD14+ monocyte
+2453,Cytotoxic T cell,Cytotoxic T cell
+2454,B cell,B cell
+2455,Cytotoxic T cell,Natural killer cell
+2456,CD14+ monocyte,CD14+ monocyte
+2457,CD4+ T cell,CD4+ T cell
+2458,CD16+ monocyte,CD16+ monocyte
+2459,B cell,B cell
+2460,CD4+ T cell,CD4+ T cell
+2461,Cytotoxic T cell,Cytotoxic T cell
+2462,CD14+ monocyte,CD14+ monocyte
+2463,Cytotoxic T cell,Cytotoxic T cell
+2464,Megakaryocyte,Megakaryocyte
+2465,CD14+ monocyte,CD14+ monocyte
+2466,Cytotoxic T cell,CD4+ T cell
+2467,Cytotoxic T cell,CD4+ T cell
+2468,B cell,B cell
+2469,CD14+ monocyte,CD14+ monocyte
+2470,CD14+ monocyte,CD14+ monocyte
+2471,CD4+ T cell,CD4+ T cell
+2472,CD4+ T cell,CD4+ T cell
+2473,CD14+ monocyte,CD14+ monocyte
+2474,B cell,B cell
+2475,B cell,B cell
+2476,CD16+ monocyte,CD16+ monocyte
+2477,B cell,B cell
+2478,Cytotoxic T cell,Cytotoxic T cell
+2479,Cytotoxic T cell,Cytotoxic T cell
+2480,CD14+ monocyte,CD4+ T cell
+2481,CD14+ monocyte,CD4+ T cell
+2482,B cell,B cell
+2483,B cell,CD16+ monocyte
+2484,Cytotoxic T cell,Cytotoxic T cell
+2485,B cell,B cell
+2486,Cytotoxic T cell,Cytotoxic T cell
+2487,CD14+ monocyte,CD14+ monocyte
+2488,CD14+ monocyte,CD14+ monocyte
+2489,CD4+ T cell,CD4+ T cell
+2490,Cytotoxic T cell,Cytotoxic T cell
+2491,CD14+ monocyte,CD14+ monocyte
+2492,Cytotoxic T cell,Cytotoxic T cell
+2493,B cell,B cell
+2494,CD14+ monocyte,CD14+ monocyte
+2495,Cytotoxic T cell,Natural killer cell
+2496,Cytotoxic T cell,Cytotoxic T cell
+2497,B cell,B cell
+2498,CD4+ T cell,CD4+ T cell
+2499,Cytotoxic T cell,CD4+ T cell
+2500,B cell,B cell
+2501,Cytotoxic T cell,Cytotoxic T cell
+2502,CD14+ monocyte,CD14+ monocyte
+2503,CD14+ monocyte,Cytotoxic T cell
+2504,CD16+ monocyte,CD16+ monocyte
+2505,CD14+ monocyte,CD14+ monocyte
+2506,CD4+ T cell,CD4+ T cell
+2507,Cytotoxic T cell,CD4+ T cell
+2508,CD4+ T cell,CD4+ T cell
+2509,CD14+ monocyte,CD14+ monocyte
+2510,CD16+ monocyte,CD16+ monocyte
+2511,Cytotoxic T cell,CD4+ T cell
+2512,CD4+ T cell,CD4+ T cell
+2513,Cytotoxic T cell,Cytotoxic T cell
+2514,Cytotoxic T cell,Cytotoxic T cell
+2515,CD14+ monocyte,CD14+ monocyte
+2516,B cell,B cell
+2517,CD14+ monocyte,CD14+ monocyte
+2518,B cell,B cell
+2519,B cell,CD4+ T cell
+2520,B cell,B cell
+2521,CD14+ monocyte,Plasmacytoid dendritic cell
+2522,B cell,B cell
+2523,CD14+ monocyte,CD14+ monocyte
+2524,Cytotoxic T cell,Cytotoxic T cell
+2525,CD14+ monocyte,CD14+ monocyte
+2526,Cytotoxic T cell,Cytotoxic T cell
+2527,Cytotoxic T cell,Cytotoxic T cell
+2528,CD14+ monocyte,CD14+ monocyte
+2529,Cytotoxic T cell,Cytotoxic T cell
+2530,Cytotoxic T cell,Cytotoxic T cell
+2531,B cell,CD4+ T cell
+2532,Natural killer cell,Cytotoxic T cell
+2533,B cell,B cell
+2534,CD14+ monocyte,CD14+ monocyte
+2535,CD14+ monocyte,CD14+ monocyte
+2536,CD14+ monocyte,CD14+ monocyte
+2537,CD14+ monocyte,CD14+ monocyte
+2538,CD4+ T cell,CD4+ T cell
+2539,CD14+ monocyte,CD14+ monocyte
+2540,Cytotoxic T cell,CD4+ T cell
+2541,CD14+ monocyte,CD14+ monocyte
+2542,CD14+ monocyte,CD14+ monocyte
+2543,CD4+ T cell,CD4+ T cell
+2544,CD4+ T cell,CD4+ T cell
+2545,CD14+ monocyte,CD14+ monocyte
+2546,B cell,Cytotoxic T cell
+2547,Cytotoxic T cell,CD4+ T cell
+2548,B cell,B cell
+2549,Cytotoxic T cell,Cytotoxic T cell
+2550,Cytotoxic T cell,Cytotoxic T cell
+2551,CD14+ monocyte,Dendritic cell
+2552,Megakaryocyte,Megakaryocyte
+2553,B cell,B cell
+2554,CD14+ monocyte,CD14+ monocyte
+2555,Dendritic cell,CD14+ monocyte
+2556,Cytotoxic T cell,Cytotoxic T cell
+2557,Cytotoxic T cell,Cytotoxic T cell
+2558,Cytotoxic T cell,CD4+ T cell
+2559,Cytotoxic T cell,Cytotoxic T cell
+2560,Cytotoxic T cell,Cytotoxic T cell
+2561,Cytotoxic T cell,CD4+ T cell
+2562,CD4+ T cell,CD4+ T cell
+2563,Cytotoxic T cell,Cytotoxic T cell
+2564,CD14+ monocyte,CD14+ monocyte
+2565,Cytotoxic T cell,Cytotoxic T cell
+2566,Cytotoxic T cell,Cytotoxic T cell
+2567,Cytotoxic T cell,Cytotoxic T cell
+2568,Cytotoxic T cell,Cytotoxic T cell
+2569,Cytotoxic T cell,Cytotoxic T cell
+2570,CD14+ monocyte,CD14+ monocyte
+2571,CD14+ monocyte,CD14+ monocyte
+2572,CD4+ T cell,CD4+ T cell
+2573,Cytotoxic T cell,Cytotoxic T cell
+2574,Cytotoxic T cell,Cytotoxic T cell
+2575,CD14+ monocyte,CD14+ monocyte
+2576,Cytotoxic T cell,Natural killer cell
+2577,Cytotoxic T cell,Cytotoxic T cell
+2578,Natural killer cell,Natural killer cell
+2579,B cell,B cell
+2580,CD14+ monocyte,CD14+ monocyte
+2581,CD14+ monocyte,CD14+ monocyte
+2582,Cytotoxic T cell,Cytotoxic T cell
+2583,CD14+ monocyte,CD14+ monocyte
+2584,Cytotoxic T cell,Cytotoxic T cell
+2585,Cytotoxic T cell,Cytotoxic T cell
+2586,Cytotoxic T cell,Cytotoxic T cell
+2587,Cytotoxic T cell,Cytotoxic T cell
+2588,B cell,B cell
+2589,Natural killer cell,Natural killer cell
+2590,CD14+ monocyte,CD16+ monocyte
+2591,CD14+ monocyte,CD14+ monocyte
+2592,B cell,B cell
+2593,CD14+ monocyte,CD14+ monocyte
+2594,CD14+ monocyte,CD14+ monocyte
+2595,B cell,B cell
+2596,B cell,B cell
+2597,Cytotoxic T cell,Cytotoxic T cell
+2598,B cell,B cell
+2599,B cell,B cell
+2600,B cell,B cell
+2601,CD14+ monocyte,CD14+ monocyte
+2602,CD4+ T cell,Cytotoxic T cell
+2603,B cell,B cell
+2604,Cytotoxic T cell,Cytotoxic T cell
+2605,Megakaryocyte,Megakaryocyte
+2606,Natural killer cell,Natural killer cell
+2607,B cell,B cell
+2608,CD14+ monocyte,CD14+ monocyte
+2609,CD14+ monocyte,CD14+ monocyte
+2610,Cytotoxic T cell,Cytotoxic T cell
+2611,Natural killer cell,Natural killer cell
+2612,CD14+ monocyte,CD14+ monocyte
+2613,CD14+ monocyte,Dendritic cell
+2614,CD14+ monocyte,CD14+ monocyte
+2615,CD14+ monocyte,CD14+ monocyte
+2616,CD14+ monocyte,Dendritic cell
+2617,CD4+ T cell,CD4+ T cell
+2618,Cytotoxic T cell,Cytotoxic T cell
+2619,CD16+ monocyte,CD16+ monocyte
+2620,CD14+ monocyte,CD14+ monocyte
+2621,B cell,B cell
+2622,Cytotoxic T cell,CD4+ T cell
+2623,CD14+ monocyte,CD16+ monocyte
+2624,B cell,B cell
+2625,Cytotoxic T cell,Cytotoxic T cell
+2626,CD14+ monocyte,CD14+ monocyte
+2627,CD14+ monocyte,CD14+ monocyte
+2628,Cytotoxic T cell,Cytotoxic T cell
+2629,CD14+ monocyte,Dendritic cell
+2630,Cytotoxic T cell,CD4+ T cell
+2631,CD14+ monocyte,CD14+ monocyte
+2632,Natural killer cell,Natural killer cell
+2633,Cytotoxic T cell,Cytotoxic T cell
+2634,Cytotoxic T cell,Cytotoxic T cell
+2635,Cytotoxic T cell,CD4+ T cell
+2636,Cytotoxic T cell,Cytotoxic T cell
+2637,Cytotoxic T cell,CD4+ T cell
+2638,CD14+ monocyte,CD14+ monocyte
+2639,B cell,B cell
+2640,Cytotoxic T cell,Cytotoxic T cell
+2641,CD4+ T cell,CD4+ T cell
+2642,B cell,B cell
+2643,CD4+ T cell,CD4+ T cell
+2644,CD14+ monocyte,CD14+ monocyte
+2645,Cytotoxic T cell,Cytotoxic T cell
+2646,Cytotoxic T cell,Cytotoxic T cell
+2647,CD4+ T cell,CD4+ T cell
+2648,CD14+ monocyte,CD14+ monocyte
+2649,Megakaryocyte,Megakaryocyte
+2650,CD14+ monocyte,CD14+ monocyte
+2651,Cytotoxic T cell,Cytotoxic T cell
+2652,Natural killer cell,Cytotoxic T cell
+2653,CD14+ monocyte,CD14+ monocyte
+2654,CD14+ monocyte,CD14+ monocyte
+2655,Cytotoxic T cell,Cytotoxic T cell
+2656,CD4+ T cell,CD4+ T cell
+2657,CD4+ T cell,CD4+ T cell
+2658,B cell,B cell
+2659,Cytotoxic T cell,Cytotoxic T cell
+2660,Cytotoxic T cell,Cytotoxic T cell
+2661,Megakaryocyte,Megakaryocyte
+2662,CD14+ monocyte,CD14+ monocyte
+2663,Cytotoxic T cell,Cytotoxic T cell
+2664,Cytotoxic T cell,Cytotoxic T cell
+2665,B cell,B cell
+2666,CD4+ T cell,CD4+ T cell
+2667,Natural killer cell,Natural killer cell
+2668,B cell,B cell
+2669,Cytotoxic T cell,Cytotoxic T cell
+2670,Cytotoxic T cell,Cytotoxic T cell
+2671,CD4+ T cell,CD4+ T cell
+2672,CD14+ monocyte,CD14+ monocyte
+2673,Cytotoxic T cell,Cytotoxic T cell
+2674,B cell,B cell
+2675,CD14+ monocyte,CD14+ monocyte
+2676,Cytotoxic T cell,CD4+ T cell
+2677,Cytotoxic T cell,Cytotoxic T cell
+2678,CD14+ monocyte,CD14+ monocyte
+2679,Cytotoxic T cell,Cytotoxic T cell
+2680,Cytotoxic T cell,Cytotoxic T cell
+2681,CD14+ monocyte,CD16+ monocyte
+2682,CD14+ monocyte,CD14+ monocyte
+2683,Cytotoxic T cell,Cytotoxic T cell
+2684,B cell,B cell
+2685,B cell,CD4+ T cell
+2686,CD14+ monocyte,CD14+ monocyte
+2687,CD16+ monocyte,CD16+ monocyte
+2688,CD14+ monocyte,CD14+ monocyte
+2689,CD14+ monocyte,CD14+ monocyte
+2690,CD14+ monocyte,CD14+ monocyte
+2691,CD14+ monocyte,CD14+ monocyte
+2692,Cytotoxic T cell,Cytotoxic T cell
+2693,B cell,B cell
+2694,Cytotoxic T cell,Cytotoxic T cell
+2695,Cytotoxic T cell,Cytotoxic T cell
+2696,Dendritic cell,CD14+ monocyte
+2697,B cell,B cell
+2698,CD14+ monocyte,CD14+ monocyte
+2699,B cell,B cell
+2700,B cell,B cell
+2701,CD14+ monocyte,CD14+ monocyte
+2702,CD14+ monocyte,CD14+ monocyte
+2703,CD14+ monocyte,CD16+ monocyte
+2704,Cytotoxic T cell,Cytotoxic T cell
+2705,Cytotoxic T cell,Cytotoxic T cell
+2706,CD14+ monocyte,CD14+ monocyte
+2707,CD14+ monocyte,CD14+ monocyte
+2708,Cytotoxic T cell,Cytotoxic T cell
+2709,Cytotoxic T cell,Cytotoxic T cell
+2710,Cytotoxic T cell,Cytotoxic T cell
+2711,Cytotoxic T cell,Cytotoxic T cell
+2712,Cytotoxic T cell,Cytotoxic T cell
+2713,Cytotoxic T cell,Cytotoxic T cell
+2714,Natural killer cell,Cytotoxic T cell
+2715,Cytotoxic T cell,Cytotoxic T cell
+2716,CD14+ monocyte,CD14+ monocyte
+2717,Cytotoxic T cell,Cytotoxic T cell
+2718,B cell,B cell
+2719,Cytotoxic T cell,Natural killer cell
+2720,CD16+ monocyte,CD16+ monocyte
+2721,CD14+ monocyte,CD14+ monocyte
+2722,Megakaryocyte,Cytotoxic T cell
+2723,Cytotoxic T cell,Cytotoxic T cell
+2724,CD14+ monocyte,CD14+ monocyte
+2725,CD4+ T cell,CD4+ T cell
+2726,CD14+ monocyte,CD14+ monocyte
+2727,CD14+ monocyte,CD14+ monocyte
+2728,Cytotoxic T cell,Natural killer cell
+2729,CD4+ T cell,CD4+ T cell
+2730,CD14+ monocyte,CD14+ monocyte
+2731,CD16+ monocyte,CD16+ monocyte
+2732,B cell,B cell
+2733,Cytotoxic T cell,Cytotoxic T cell
+2734,Cytotoxic T cell,Cytotoxic T cell
+2735,CD14+ monocyte,CD14+ monocyte
+2736,CD4+ T cell,CD4+ T cell
+2737,CD16+ monocyte,CD14+ monocyte
+2738,CD4+ T cell,CD4+ T cell
+2739,B cell,B cell
+2740,Cytotoxic T cell,Cytotoxic T cell
+2741,CD4+ T cell,CD4+ T cell
+2742,B cell,B cell
+2743,CD4+ T cell,CD4+ T cell
+2744,B cell,B cell
+2745,Cytotoxic T cell,Cytotoxic T cell
+2746,Cytotoxic T cell,Cytotoxic T cell
+2747,CD14+ monocyte,CD14+ monocyte
+2748,CD4+ T cell,CD4+ T cell
+2749,Cytotoxic T cell,Cytotoxic T cell
+2750,Dendritic cell,Plasmacytoid dendritic cell
+2751,CD14+ monocyte,CD14+ monocyte
+2752,B cell,B cell
+2753,CD14+ monocyte,CD14+ monocyte
+2754,Cytotoxic T cell,Cytotoxic T cell
+2755,Cytotoxic T cell,Cytotoxic T cell
+2756,B cell,B cell
+2757,CD4+ T cell,CD4+ T cell
+2758,CD4+ T cell,CD4+ T cell
+2759,B cell,B cell
+2760,Cytotoxic T cell,Cytotoxic T cell
+2761,CD14+ monocyte,CD14+ monocyte
+2762,Cytotoxic T cell,Cytotoxic T cell
+2763,CD14+ monocyte,CD14+ monocyte
+2764,CD14+ monocyte,CD14+ monocyte
+2765,CD4+ T cell,CD4+ T cell
+2766,CD14+ monocyte,CD14+ monocyte
+2767,B cell,B cell
+2768,CD14+ monocyte,CD14+ monocyte
+2769,CD14+ monocyte,B cell
+2770,Cytotoxic T cell,Cytotoxic T cell
+2771,Cytotoxic T cell,Cytotoxic T cell
+2772,CD14+ monocyte,CD14+ monocyte
+2773,Cytotoxic T cell,Cytotoxic T cell
+2774,B cell,Dendritic cell
+2775,CD16+ monocyte,CD16+ monocyte
+2776,CD4+ T cell,CD4+ T cell
+2777,B cell,B cell
+2778,CD4+ T cell,Megakaryocyte
+2779,Cytotoxic T cell,Cytotoxic T cell
+2780,Cytotoxic T cell,Cytotoxic T cell
+2781,CD4+ T cell,CD4+ T cell
+2782,B cell,Dendritic cell
+2783,CD4+ T cell,CD4+ T cell
+2784,CD14+ monocyte,CD14+ monocyte
+2785,CD4+ T cell,CD4+ T cell
+2786,Cytotoxic T cell,Cytotoxic T cell
+2787,Dendritic cell,Dendritic cell
+2788,Cytotoxic T cell,Cytotoxic T cell
+2789,Cytotoxic T cell,Cytotoxic T cell
+2790,CD14+ monocyte,CD14+ monocyte
+2791,CD14+ monocyte,CD14+ monocyte
+2792,CD14+ monocyte,CD14+ monocyte
+2793,CD14+ monocyte,CD14+ monocyte
+2794,Cytotoxic T cell,Cytotoxic T cell
+2795,CD4+ T cell,CD4+ T cell
+2796,B cell,B cell
+2797,CD14+ monocyte,CD4+ T cell
+2798,CD14+ monocyte,CD14+ monocyte
+2799,Cytotoxic T cell,Cytotoxic T cell
+2800,B cell,B cell
+2801,Cytotoxic T cell,CD4+ T cell
+2802,CD14+ monocyte,CD14+ monocyte
+2803,CD14+ monocyte,CD14+ monocyte
+2804,B cell,B cell
+2805,CD4+ T cell,CD4+ T cell
+2806,CD14+ monocyte,Dendritic cell
+2807,CD14+ monocyte,CD14+ monocyte
+2808,CD4+ T cell,CD4+ T cell
+2809,B cell,B cell
+2810,CD14+ monocyte,Megakaryocyte
+2811,CD14+ monocyte,CD14+ monocyte
+2812,Cytotoxic T cell,CD4+ T cell
+2813,B cell,B cell
+2814,CD14+ monocyte,CD14+ monocyte
+2815,Dendritic cell,Dendritic cell
+2816,Cytotoxic T cell,Cytotoxic T cell
+2817,B cell,B cell
+2818,Cytotoxic T cell,Cytotoxic T cell
+2819,CD14+ monocyte,CD14+ monocyte
+2820,CD14+ monocyte,CD14+ monocyte
+2821,CD14+ monocyte,CD16+ monocyte
+2822,CD4+ T cell,CD4+ T cell
+2823,B cell,B cell
+2824,B cell,B cell
+2825,B cell,CD4+ T cell
+2826,Cytotoxic T cell,Cytotoxic T cell
+2827,Cytotoxic T cell,Cytotoxic T cell
+2828,CD14+ monocyte,Dendritic cell
+2829,Dendritic cell,CD14+ monocyte
+2830,CD14+ monocyte,CD14+ monocyte
+2831,Cytotoxic T cell,Cytotoxic T cell
+2832,CD14+ monocyte,CD14+ monocyte
+2833,CD14+ monocyte,CD14+ monocyte
+2834,CD14+ monocyte,CD14+ monocyte
+2835,B cell,B cell
+2836,CD14+ monocyte,CD14+ monocyte
+2837,B cell,Dendritic cell
+2838,CD14+ monocyte,CD14+ monocyte
+2839,Cytotoxic T cell,Cytotoxic T cell
+2840,Megakaryocyte,Cytotoxic T cell
+2841,CD14+ monocyte,CD14+ monocyte
+2842,Cytotoxic T cell,Cytotoxic T cell
+2843,B cell,B cell
+2844,CD4+ T cell,CD4+ T cell
+2845,CD4+ T cell,Cytotoxic T cell
+2846,Cytotoxic T cell,CD4+ T cell
+2847,CD16+ monocyte,CD14+ monocyte
+2848,Dendritic cell,Dendritic cell
+2849,B cell,B cell
+2850,CD14+ monocyte,CD14+ monocyte
+2851,Cytotoxic T cell,CD4+ T cell
+2852,Cytotoxic T cell,CD4+ T cell
+2853,CD14+ monocyte,CD14+ monocyte
+2854,Cytotoxic T cell,Cytotoxic T cell
+2855,Cytotoxic T cell,Cytotoxic T cell
+2856,Cytotoxic T cell,Cytotoxic T cell
+2857,Cytotoxic T cell,Cytotoxic T cell
+2858,B cell,B cell
+2859,CD14+ monocyte,CD14+ monocyte
+2860,B cell,CD16+ monocyte
+2861,Natural killer cell,Natural killer cell
+2862,B cell,B cell
+2863,Cytotoxic T cell,Cytotoxic T cell
+2864,CD14+ monocyte,CD14+ monocyte
+2865,B cell,B cell
+2866,Cytotoxic T cell,Cytotoxic T cell
+2867,CD4+ T cell,CD4+ T cell
+2868,CD14+ monocyte,CD16+ monocyte
+2869,Natural killer cell,Cytotoxic T cell
+2870,B cell,B cell
+2871,Cytotoxic T cell,Cytotoxic T cell
+2872,B cell,B cell
+2873,Cytotoxic T cell,Cytotoxic T cell
+2874,B cell,B cell
+2875,CD14+ monocyte,CD14+ monocyte
+2876,CD14+ monocyte,CD14+ monocyte
+2877,Cytotoxic T cell,Cytotoxic T cell
+2878,B cell,B cell
+2879,CD14+ monocyte,CD14+ monocyte
+2880,Cytotoxic T cell,Cytotoxic T cell
+2881,B cell,B cell
+2882,CD14+ monocyte,CD14+ monocyte
+2883,Cytotoxic T cell,CD4+ T cell
+2884,CD14+ monocyte,B cell
+2885,CD4+ T cell,CD4+ T cell
+2886,Cytotoxic T cell,Cytotoxic T cell
+2887,CD14+ monocyte,CD14+ monocyte
+2888,Dendritic cell,Plasmacytoid dendritic cell
+2889,CD16+ monocyte,CD14+ monocyte
+2890,Cytotoxic T cell,Cytotoxic T cell
+2891,Cytotoxic T cell,Cytotoxic T cell
+2892,Cytotoxic T cell,CD4+ T cell
+2893,Megakaryocyte,Megakaryocyte
+2894,CD4+ T cell,CD4+ T cell
+2895,Cytotoxic T cell,Cytotoxic T cell
+2896,CD14+ monocyte,CD14+ monocyte
+2897,Cytotoxic T cell,Cytotoxic T cell
+2898,CD14+ monocyte,CD14+ monocyte
+2899,B cell,B cell
+2900,CD4+ T cell,CD4+ T cell
+2901,B cell,B cell
+2902,Cytotoxic T cell,Cytotoxic T cell
+2903,CD14+ monocyte,CD14+ monocyte
+2904,Cytotoxic T cell,Cytotoxic T cell
+2905,CD4+ T cell,CD4+ T cell
+2906,CD14+ monocyte,CD14+ monocyte
+2907,Cytotoxic T cell,Cytotoxic T cell
+2908,Cytotoxic T cell,Cytotoxic T cell
+2909,CD14+ monocyte,CD14+ monocyte
+2910,B cell,B cell
+2911,Cytotoxic T cell,Cytotoxic T cell
+2912,CD14+ monocyte,CD14+ monocyte
+2913,Cytotoxic T cell,Cytotoxic T cell
+2914,Cytotoxic T cell,CD4+ T cell
+2915,Megakaryocyte,Megakaryocyte
+2916,CD4+ T cell,CD4+ T cell
+2917,CD14+ monocyte,CD14+ monocyte
+2918,CD14+ monocyte,CD14+ monocyte
+2919,CD4+ T cell,CD4+ T cell
+2920,CD14+ monocyte,CD14+ monocyte
+2921,Cytotoxic T cell,Cytotoxic T cell
+2922,CD4+ T cell,CD4+ T cell
+2923,Cytotoxic T cell,Cytotoxic T cell
+2924,CD4+ T cell,CD4+ T cell
+2925,CD4+ T cell,CD4+ T cell
+2926,B cell,B cell
+2927,CD14+ monocyte,CD14+ monocyte
+2928,Cytotoxic T cell,Cytotoxic T cell
+2929,CD4+ T cell,CD4+ T cell
+2930,CD14+ monocyte,CD14+ monocyte
+2931,CD14+ monocyte,CD14+ monocyte
+2932,CD16+ monocyte,CD14+ monocyte
+2933,CD14+ monocyte,CD14+ monocyte
+2934,Cytotoxic T cell,Cytotoxic T cell
+2935,B cell,B cell
+2936,Cytotoxic T cell,Cytotoxic T cell
+2937,CD14+ monocyte,CD14+ monocyte
+2938,CD14+ monocyte,CD14+ monocyte
+2939,CD16+ monocyte,CD16+ monocyte
+2940,CD14+ monocyte,CD14+ monocyte
+2941,Cytotoxic T cell,Cytotoxic T cell
+2942,CD14+ monocyte,CD14+ monocyte
+2943,CD14+ monocyte,CD14+ monocyte
+2944,CD14+ monocyte,CD14+ monocyte
+2945,CD16+ monocyte,CD16+ monocyte
+2946,CD14+ monocyte,CD14+ monocyte
+2947,Megakaryocyte,Megakaryocyte
+2948,CD14+ monocyte,CD14+ monocyte
+2949,CD4+ T cell,Cytotoxic T cell
+2950,CD14+ monocyte,CD14+ monocyte
+2951,CD14+ monocyte,CD14+ monocyte
+2952,CD14+ monocyte,CD14+ monocyte
+2953,Cytotoxic T cell,Cytotoxic T cell
+2954,CD14+ monocyte,CD14+ monocyte
+2955,B cell,B cell
+2956,CD14+ monocyte,CD14+ monocyte
+2957,Cytotoxic T cell,Cytotoxic T cell
+2958,CD14+ monocyte,CD14+ monocyte
+2959,Cytotoxic T cell,Cytotoxic T cell
+2960,Cytotoxic T cell,Cytotoxic T cell
+2961,CD14+ monocyte,CD14+ monocyte
+2962,CD14+ monocyte,CD14+ monocyte
+2963,Cytotoxic T cell,Cytotoxic T cell
+2964,Natural killer cell,Natural killer cell
+2965,Cytotoxic T cell,CD4+ T cell
+2966,CD14+ monocyte,CD14+ monocyte
+2967,Cytotoxic T cell,CD4+ T cell
+2968,Cytotoxic T cell,Plasmacytoid dendritic cell
+2969,Natural killer cell,Natural killer cell
+2970,CD14+ monocyte,CD14+ monocyte
+2971,Cytotoxic T cell,Cytotoxic T cell
+2972,CD14+ monocyte,CD14+ monocyte
+2973,Megakaryocyte,Megakaryocyte
+2974,Cytotoxic T cell,CD4+ T cell
+2975,CD4+ T cell,CD4+ T cell
+2976,B cell,B cell
+2977,CD16+ monocyte,CD16+ monocyte
+2978,CD14+ monocyte,CD14+ monocyte
+2979,CD16+ monocyte,CD14+ monocyte
+2980,CD14+ monocyte,CD14+ monocyte
+2981,Cytotoxic T cell,Cytotoxic T cell
+2982,Cytotoxic T cell,Cytotoxic T cell
+2983,CD4+ T cell,CD4+ T cell
+2984,Cytotoxic T cell,Cytotoxic T cell
+2985,CD4+ T cell,Cytotoxic T cell
+2986,B cell,B cell
+2987,B cell,Dendritic cell
+2988,CD14+ monocyte,CD14+ monocyte
+2989,B cell,B cell
+2990,B cell,B cell
+2991,CD14+ monocyte,CD14+ monocyte
+2992,Dendritic cell,CD14+ monocyte
+2993,CD4+ T cell,CD4+ T cell
+2994,CD14+ monocyte,CD14+ monocyte
+2995,B cell,B cell
+2996,Cytotoxic T cell,Natural killer cell
+2997,CD14+ monocyte,CD14+ monocyte
+2998,CD14+ monocyte,CD14+ monocyte
+2999,Cytotoxic T cell,CD4+ T cell
+3000,B cell,B cell
+3001,CD14+ monocyte,CD14+ monocyte
+3002,Cytotoxic T cell,Cytotoxic T cell
+3003,CD16+ monocyte,CD16+ monocyte
+3004,B cell,B cell
+3005,CD14+ monocyte,Dendritic cell
+3006,CD14+ monocyte,CD14+ monocyte
+3007,CD14+ monocyte,CD14+ monocyte
+3008,Cytotoxic T cell,Cytotoxic T cell
+3009,B cell,B cell
+3010,CD14+ monocyte,CD14+ monocyte
+3011,Cytotoxic T cell,Cytotoxic T cell
+3012,B cell,B cell
+3013,Cytotoxic T cell,Cytotoxic T cell
+3014,B cell,B cell
+3015,Cytotoxic T cell,Cytotoxic T cell
+3016,CD14+ monocyte,CD14+ monocyte
+3017,B cell,B cell
+3018,B cell,B cell
+3019,CD14+ monocyte,CD14+ monocyte
+3020,CD14+ monocyte,CD14+ monocyte
+3021,Cytotoxic T cell,Cytotoxic T cell
+3022,CD14+ monocyte,CD14+ monocyte
+3023,B cell,B cell
+3024,CD14+ monocyte,CD14+ monocyte
+3025,B cell,B cell
+3026,CD4+ T cell,CD4+ T cell
+3027,Cytotoxic T cell,Cytotoxic T cell
+3028,Cytotoxic T cell,Cytotoxic T cell
+3029,CD14+ monocyte,CD14+ monocyte
+3030,Megakaryocyte,Megakaryocyte
+3031,Cytotoxic T cell,Cytotoxic T cell
+3032,CD4+ T cell,CD4+ T cell
+3033,CD14+ monocyte,CD14+ monocyte
+3034,Cytotoxic T cell,Cytotoxic T cell
+3035,CD16+ monocyte,CD14+ monocyte
+3036,B cell,B cell
+3037,B cell,B cell
+3038,Cytotoxic T cell,Cytotoxic T cell
+3039,B cell,B cell
+3040,B cell,B cell
+3041,Cytotoxic T cell,Cytotoxic T cell
+3042,B cell,B cell
+3043,CD14+ monocyte,CD14+ monocyte
+3044,CD14+ monocyte,CD14+ monocyte
+3045,Cytotoxic T cell,Cytotoxic T cell
+3046,CD4+ T cell,CD4+ T cell
+3047,CD14+ monocyte,CD14+ monocyte
+3048,Cytotoxic T cell,Cytotoxic T cell
+3049,Cytotoxic T cell,Cytotoxic T cell
+3050,Cytotoxic T cell,Cytotoxic T cell
+3051,CD4+ T cell,CD4+ T cell
+3052,B cell,B cell
+3053,Cytotoxic T cell,Cytotoxic T cell
+3054,CD14+ monocyte,CD14+ monocyte
+3055,B cell,B cell
+3056,B cell,B cell
+3057,CD4+ T cell,CD4+ T cell
+3058,Cytotoxic T cell,Cytotoxic T cell
+3059,Cytotoxic T cell,Cytotoxic T cell
+3060,CD4+ T cell,CD4+ T cell
+3061,CD14+ monocyte,CD16+ monocyte
+3062,Cytotoxic T cell,Cytotoxic T cell
+3063,Cytotoxic T cell,CD4+ T cell
+3064,CD14+ monocyte,CD14+ monocyte
+3065,B cell,B cell
+3066,CD14+ monocyte,CD14+ monocyte
+3067,Cytotoxic T cell,CD4+ T cell
+3068,CD14+ monocyte,CD14+ monocyte
+3069,CD14+ monocyte,CD14+ monocyte
+3070,CD14+ monocyte,CD14+ monocyte
+3071,Cytotoxic T cell,Cytotoxic T cell
+3072,Natural killer cell,Cytotoxic T cell
+3073,CD14+ monocyte,CD4+ T cell
+3074,CD4+ T cell,CD4+ T cell
+3075,CD4+ T cell,CD4+ T cell
+3076,Megakaryocyte,Natural killer cell
+3077,CD14+ monocyte,CD14+ monocyte
+3078,B cell,B cell
+3079,Cytotoxic T cell,Cytotoxic T cell
+3080,Cytotoxic T cell,Cytotoxic T cell
+3081,Cytotoxic T cell,Cytotoxic T cell
+3082,CD14+ monocyte,CD14+ monocyte
+3083,CD14+ monocyte,CD14+ monocyte
+3084,Cytotoxic T cell,Cytotoxic T cell
+3085,Cytotoxic T cell,Cytotoxic T cell
+3086,Cytotoxic T cell,Cytotoxic T cell
+3087,CD14+ monocyte,CD14+ monocyte
+3088,CD14+ monocyte,CD14+ monocyte
+3089,Cytotoxic T cell,Cytotoxic T cell
+3090,Cytotoxic T cell,Cytotoxic T cell
+3091,CD14+ monocyte,CD14+ monocyte
+3092,CD14+ monocyte,CD14+ monocyte
+3093,CD14+ monocyte,CD4+ T cell
+3094,Cytotoxic T cell,Cytotoxic T cell
+3095,Megakaryocyte,Megakaryocyte
+3096,B cell,B cell
+3097,Cytotoxic T cell,Cytotoxic T cell
+3098,B cell,CD14+ monocyte
+3099,B cell,B cell
+3100,B cell,Dendritic cell
+3101,CD4+ T cell,CD4+ T cell
+3102,B cell,B cell
+3103,CD14+ monocyte,CD14+ monocyte
+3104,CD14+ monocyte,CD14+ monocyte
+3105,CD14+ monocyte,CD14+ monocyte
+3106,B cell,B cell
+3107,CD14+ monocyte,CD16+ monocyte
+3108,B cell,B cell
+3109,CD14+ monocyte,CD14+ monocyte
+3110,Cytotoxic T cell,Cytotoxic T cell
+3111,CD14+ monocyte,CD14+ monocyte
+3112,CD16+ monocyte,CD16+ monocyte
+3113,B cell,B cell
+3114,CD4+ T cell,CD4+ T cell
+3115,B cell,B cell
+3116,CD4+ T cell,CD4+ T cell
+3117,Cytotoxic T cell,Cytotoxic T cell
+3118,B cell,B cell
+3119,CD14+ monocyte,CD14+ monocyte
+3120,Cytotoxic T cell,Cytotoxic T cell
+3121,Cytotoxic T cell,Cytotoxic T cell
+3122,Cytotoxic T cell,Cytotoxic T cell
+3123,Cytotoxic T cell,Cytotoxic T cell
+3124,Cytotoxic T cell,Cytotoxic T cell
+3125,Cytotoxic T cell,Cytotoxic T cell
+3126,Cytotoxic T cell,Cytotoxic T cell
+3127,Cytotoxic T cell,Cytotoxic T cell
+3128,CD14+ monocyte,CD14+ monocyte
+3129,CD14+ monocyte,CD14+ monocyte
+3130,B cell,B cell
+3131,CD14+ monocyte,CD14+ monocyte
+3132,CD14+ monocyte,CD14+ monocyte
+3133,Cytotoxic T cell,Cytotoxic T cell
+3134,CD4+ T cell,CD4+ T cell
+3135,CD16+ monocyte,CD16+ monocyte
+3136,B cell,CD14+ monocyte
+3137,B cell,B cell
+3138,Cytotoxic T cell,Cytotoxic T cell
+3139,Natural killer cell,Natural killer cell
+3140,Natural killer cell,Natural killer cell
+3141,Cytotoxic T cell,Cytotoxic T cell
+3142,CD14+ monocyte,CD14+ monocyte
+3143,Cytotoxic T cell,Cytotoxic T cell
+3144,B cell,B cell
+3145,CD4+ T cell,CD4+ T cell
+3146,B cell,Plasmacytoid dendritic cell
+3147,CD14+ monocyte,CD14+ monocyte
+3148,B cell,B cell
+3149,Megakaryocyte,Megakaryocyte
+3150,B cell,Dendritic cell
+3151,Cytotoxic T cell,CD4+ T cell
+3152,B cell,B cell
+3153,CD4+ T cell,CD4+ T cell
+3154,Cytotoxic T cell,CD4+ T cell
+3155,Cytotoxic T cell,Cytotoxic T cell
+3156,Natural killer cell,Natural killer cell
+3157,CD4+ T cell,CD4+ T cell
+3158,CD14+ monocyte,CD16+ monocyte
+3159,B cell,B cell
+3160,Megakaryocyte,Megakaryocyte
+3161,B cell,Dendritic cell
+3162,CD14+ monocyte,CD14+ monocyte
+3163,B cell,B cell
+3164,CD14+ monocyte,CD14+ monocyte
+3165,CD4+ T cell,CD4+ T cell
+3166,CD14+ monocyte,CD14+ monocyte
+3167,CD14+ monocyte,CD14+ monocyte
+3168,CD14+ monocyte,CD14+ monocyte
+3169,Natural killer cell,Natural killer cell
+3170,CD14+ monocyte,CD14+ monocyte
+3171,CD4+ T cell,Cytotoxic T cell
+3172,Cytotoxic T cell,Cytotoxic T cell
+3173,Megakaryocyte,Megakaryocyte
+3174,Cytotoxic T cell,Cytotoxic T cell
+3175,CD14+ monocyte,CD14+ monocyte
+3176,B cell,B cell
+3177,CD14+ monocyte,CD14+ monocyte
+3178,B cell,B cell
+3179,B cell,B cell
+3180,Cytotoxic T cell,Cytotoxic T cell
+3181,Dendritic cell,Dendritic cell
+3182,B cell,B cell
+3183,Cytotoxic T cell,Cytotoxic T cell
+3184,Cytotoxic T cell,Cytotoxic T cell
+3185,CD14+ monocyte,CD14+ monocyte
+3186,B cell,CD4+ T cell
+3187,CD4+ T cell,CD4+ T cell
+3188,B cell,B cell
+3189,CD14+ monocyte,CD14+ monocyte
+3190,Cytotoxic T cell,Cytotoxic T cell
+3191,CD14+ monocyte,CD16+ monocyte
+3192,CD14+ monocyte,CD14+ monocyte
+3193,CD14+ monocyte,CD14+ monocyte
+3194,CD14+ monocyte,Dendritic cell
+3195,Cytotoxic T cell,Cytotoxic T cell
+3196,CD14+ monocyte,CD14+ monocyte
+3197,Cytotoxic T cell,Cytotoxic T cell
+3198,CD14+ monocyte,CD14+ monocyte
+3199,Cytotoxic T cell,Cytotoxic T cell
+3200,B cell,B cell
+3201,CD14+ monocyte,Dendritic cell
+3202,Cytotoxic T cell,Cytotoxic T cell
+3203,CD4+ T cell,CD4+ T cell
+3204,CD14+ monocyte,CD14+ monocyte
+3205,B cell,B cell
+3206,Cytotoxic T cell,Cytotoxic T cell
+3207,CD14+ monocyte,CD14+ monocyte
+3208,CD4+ T cell,CD4+ T cell
+3209,Cytotoxic T cell,Cytotoxic T cell
+3210,CD4+ T cell,CD4+ T cell
+3211,CD14+ monocyte,CD14+ monocyte
+3212,Cytotoxic T cell,Cytotoxic T cell
+3213,CD4+ T cell,CD4+ T cell
+3214,CD14+ monocyte,CD14+ monocyte
+3215,Cytotoxic T cell,CD4+ T cell
+3216,CD14+ monocyte,B cell
+3217,Cytotoxic T cell,Cytotoxic T cell
+3218,B cell,B cell
+3219,CD14+ monocyte,CD14+ monocyte
+3220,B cell,B cell
+3221,CD14+ monocyte,CD14+ monocyte
+3222,Cytotoxic T cell,Cytotoxic T cell
+3223,CD14+ monocyte,CD14+ monocyte
+3224,Natural killer cell,Natural killer cell
+3225,Megakaryocyte,Megakaryocyte
+3226,CD14+ monocyte,CD14+ monocyte
+3227,B cell,B cell
+3228,Megakaryocyte,Megakaryocyte
+3229,CD14+ monocyte,CD14+ monocyte
+3230,CD14+ monocyte,CD14+ monocyte
+3231,B cell,Dendritic cell
+3232,CD14+ monocyte,CD14+ monocyte
+3233,Cytotoxic T cell,Cytotoxic T cell
+3234,B cell,CD4+ T cell
+3235,Cytotoxic T cell,Cytotoxic T cell
+3236,CD14+ monocyte,CD16+ monocyte
+3237,Cytotoxic T cell,Cytotoxic T cell
+3238,CD4+ T cell,CD4+ T cell
+3239,CD14+ monocyte,CD14+ monocyte
+3240,B cell,B cell
+3241,CD14+ monocyte,CD14+ monocyte
+3242,CD14+ monocyte,CD14+ monocyte
+3243,CD4+ T cell,CD4+ T cell
+3244,B cell,B cell
+3245,B cell,Cytotoxic T cell
+3246,B cell,B cell
+3247,Cytotoxic T cell,Cytotoxic T cell
+3248,CD14+ monocyte,CD14+ monocyte
+3249,Cytotoxic T cell,Cytotoxic T cell
+3250,CD4+ T cell,CD4+ T cell
+3251,B cell,Dendritic cell
+3252,Natural killer cell,Cytotoxic T cell
+3253,CD14+ monocyte,CD14+ monocyte
+3254,B cell,B cell
+3255,CD14+ monocyte,CD14+ monocyte
+3256,CD14+ monocyte,CD14+ monocyte
+3257,CD14+ monocyte,CD14+ monocyte
+3258,B cell,B cell
+3259,B cell,B cell
+3260,CD4+ T cell,CD4+ T cell
+3261,B cell,B cell
+3262,CD4+ T cell,CD4+ T cell
+3263,B cell,B cell
+3264,CD14+ monocyte,CD14+ monocyte
+3265,CD4+ T cell,CD4+ T cell
+3266,CD14+ monocyte,CD14+ monocyte
+3267,B cell,B cell
+3268,CD14+ monocyte,CD14+ monocyte
+3269,Cytotoxic T cell,Cytotoxic T cell
+3270,Cytotoxic T cell,Cytotoxic T cell
+3271,Cytotoxic T cell,Cytotoxic T cell
+3272,B cell,B cell
+3273,B cell,Dendritic cell
+3274,Cytotoxic T cell,Cytotoxic T cell
+3275,Cytotoxic T cell,Cytotoxic T cell
+3276,Dendritic cell,Plasmacytoid dendritic cell
+3277,B cell,B cell
+3278,CD14+ monocyte,CD14+ monocyte
+3279,B cell,B cell
+3280,CD4+ T cell,CD4+ T cell
+3281,B cell,B cell
+3282,CD14+ monocyte,CD14+ monocyte
+3283,CD4+ T cell,CD4+ T cell
+3284,CD4+ T cell,CD4+ T cell
+3285,B cell,B cell
+3286,CD14+ monocyte,CD14+ monocyte
+3287,CD14+ monocyte,CD14+ monocyte
+3288,CD14+ monocyte,CD14+ monocyte
+3289,CD4+ T cell,CD4+ T cell
+3290,Cytotoxic T cell,Cytotoxic T cell
+3291,CD14+ monocyte,CD14+ monocyte
+3292,Cytotoxic T cell,CD4+ T cell
+3293,CD14+ monocyte,CD14+ monocyte
+3294,Megakaryocyte,Megakaryocyte
+3295,CD14+ monocyte,CD14+ monocyte
+3296,CD14+ monocyte,CD14+ monocyte
+3297,CD4+ T cell,CD4+ T cell
+3298,Cytotoxic T cell,Cytotoxic T cell
+3299,CD14+ monocyte,CD14+ monocyte
+3300,CD14+ monocyte,CD14+ monocyte
+3301,B cell,B cell
+3302,B cell,Dendritic cell
+3303,CD14+ monocyte,CD14+ monocyte
+3304,B cell,B cell
+3305,CD14+ monocyte,CD14+ monocyte
+3306,B cell,B cell
+3307,CD16+ monocyte,CD16+ monocyte
+3308,CD4+ T cell,CD4+ T cell
+3309,B cell,B cell
+3310,CD14+ monocyte,CD14+ monocyte
+3311,CD14+ monocyte,Dendritic cell
+3312,CD14+ monocyte,CD14+ monocyte
+3313,Cytotoxic T cell,Cytotoxic T cell
+3314,B cell,B cell
+3315,CD14+ monocyte,CD14+ monocyte
+3316,Cytotoxic T cell,CD4+ T cell
+3317,Cytotoxic T cell,Cytotoxic T cell
+3318,CD16+ monocyte,CD16+ monocyte
+3319,CD4+ T cell,CD4+ T cell
+3320,Cytotoxic T cell,Cytotoxic T cell
+3321,Cytotoxic T cell,Cytotoxic T cell
+3322,CD14+ monocyte,CD14+ monocyte
+3323,CD14+ monocyte,CD14+ monocyte
+3324,Cytotoxic T cell,Cytotoxic T cell
+3325,Dendritic cell,CD14+ monocyte
+3326,Dendritic cell,CD14+ monocyte
+3327,Cytotoxic T cell,Cytotoxic T cell
+3328,CD4+ T cell,CD4+ T cell
+3329,CD4+ T cell,CD4+ T cell
+3330,Cytotoxic T cell,Cytotoxic T cell
+3331,CD14+ monocyte,CD14+ monocyte
+3332,B cell,Cytotoxic T cell
+3333,Cytotoxic T cell,Cytotoxic T cell
+3334,Cytotoxic T cell,Cytotoxic T cell
+3335,CD14+ monocyte,CD14+ monocyte
+3336,CD14+ monocyte,CD14+ monocyte
+3337,Cytotoxic T cell,Cytotoxic T cell
+3338,Cytotoxic T cell,Cytotoxic T cell
+3339,CD14+ monocyte,CD16+ monocyte
+3340,B cell,B cell
+3341,Plasmacytoid dendritic cell,Plasmacytoid dendritic cell
+3342,B cell,B cell
+3343,Cytotoxic T cell,Cytotoxic T cell
+3344,B cell,B cell
+3345,CD14+ monocyte,CD14+ monocyte
+3346,CD14+ monocyte,B cell
+3347,CD14+ monocyte,CD14+ monocyte
+3348,B cell,B cell
+3349,CD14+ monocyte,CD14+ monocyte
+3350,B cell,B cell
+3351,B cell,B cell
+3352,CD4+ T cell,CD4+ T cell
+3353,B cell,B cell
+3354,CD14+ monocyte,CD14+ monocyte
+3355,B cell,B cell
+3356,Cytotoxic T cell,Cytotoxic T cell
+3357,Cytotoxic T cell,Cytotoxic T cell
+3358,Cytotoxic T cell,Cytotoxic T cell
+3359,CD14+ monocyte,CD14+ monocyte
+3360,CD14+ monocyte,CD14+ monocyte
+3361,CD14+ monocyte,CD14+ monocyte
+3362,B cell,B cell
+3363,CD14+ monocyte,CD14+ monocyte
+3364,B cell,B cell
+3365,CD14+ monocyte,CD14+ monocyte
+3366,CD4+ T cell,CD4+ T cell
+3367,CD14+ monocyte,CD4+ T cell
+3368,CD14+ monocyte,CD14+ monocyte
+3369,CD14+ monocyte,CD14+ monocyte
+3370,CD4+ T cell,CD4+ T cell
+3371,Cytotoxic T cell,CD4+ T cell
+3372,B cell,B cell
+3373,B cell,B cell
+3374,CD14+ monocyte,CD14+ monocyte
+3375,Cytotoxic T cell,Megakaryocyte
+3376,CD4+ T cell,CD4+ T cell
+3377,CD14+ monocyte,CD14+ monocyte
+3378,Cytotoxic T cell,Cytotoxic T cell
+3379,Cytotoxic T cell,Cytotoxic T cell
+3380,CD14+ monocyte,CD14+ monocyte
+3381,Cytotoxic T cell,Cytotoxic T cell
+3382,Megakaryocyte,Megakaryocyte
+3383,CD16+ monocyte,CD16+ monocyte
+3384,Cytotoxic T cell,Cytotoxic T cell
+3385,CD14+ monocyte,CD14+ monocyte
+3386,CD14+ monocyte,CD14+ monocyte
+3387,CD4+ T cell,CD4+ T cell
+3388,Cytotoxic T cell,Cytotoxic T cell
+3389,Cytotoxic T cell,CD4+ T cell
+3390,CD16+ monocyte,CD16+ monocyte
+3391,B cell,B cell
+3392,Cytotoxic T cell,Cytotoxic T cell
+3393,CD4+ T cell,Cytotoxic T cell
+3394,CD4+ T cell,CD4+ T cell
+3395,Cytotoxic T cell,Cytotoxic T cell
+3396,Cytotoxic T cell,Cytotoxic T cell
+3397,CD14+ monocyte,CD14+ monocyte
+3398,CD4+ T cell,CD4+ T cell
+3399,Cytotoxic T cell,Cytotoxic T cell
+3400,Cytotoxic T cell,Cytotoxic T cell
+3401,B cell,CD14+ monocyte
+3402,CD4+ T cell,CD4+ T cell
+3403,CD14+ monocyte,CD14+ monocyte
+3404,B cell,B cell
+3405,CD14+ monocyte,CD14+ monocyte
+3406,B cell,Dendritic cell
+3407,CD14+ monocyte,Plasmacytoid dendritic cell
+3408,CD4+ T cell,CD4+ T cell
+3409,B cell,B cell
+3410,B cell,B cell
+3411,CD4+ T cell,CD4+ T cell
+3412,B cell,B cell
+3413,B cell,Cytotoxic T cell
+3414,Cytotoxic T cell,CD4+ T cell
+3415,B cell,B cell
+3416,CD14+ monocyte,CD14+ monocyte
+3417,Cytotoxic T cell,Cytotoxic T cell
+3418,Cytotoxic T cell,Cytotoxic T cell
+3419,CD14+ monocyte,CD14+ monocyte
+3420,CD14+ monocyte,CD14+ monocyte
+3421,CD14+ monocyte,CD14+ monocyte
+3422,CD14+ monocyte,CD14+ monocyte
+3423,CD14+ monocyte,CD14+ monocyte
+3424,CD14+ monocyte,CD14+ monocyte
+3425,CD14+ monocyte,CD14+ monocyte
+3426,CD14+ monocyte,CD14+ monocyte
+3427,CD14+ monocyte,CD14+ monocyte
+3428,CD4+ T cell,CD4+ T cell
+3429,CD14+ monocyte,CD14+ monocyte
+3430,Cytotoxic T cell,Cytotoxic T cell
+3431,Cytotoxic T cell,Cytotoxic T cell
+3432,CD4+ T cell,Cytotoxic T cell
+3433,CD4+ T cell,CD4+ T cell
+3434,Megakaryocyte,Megakaryocyte
+3435,CD14+ monocyte,CD14+ monocyte
+3436,Cytotoxic T cell,Cytotoxic T cell
+3437,CD14+ monocyte,CD14+ monocyte
+3438,CD4+ T cell,CD4+ T cell
+3439,CD4+ T cell,CD4+ T cell
+3440,Cytotoxic T cell,Cytotoxic T cell
+3441,CD4+ T cell,CD4+ T cell
+3442,Cytotoxic T cell,Cytotoxic T cell
+3443,CD4+ T cell,CD4+ T cell
+3444,Megakaryocyte,Megakaryocyte
+3445,B cell,B cell
+3446,Cytotoxic T cell,CD4+ T cell
+3447,Cytotoxic T cell,Cytotoxic T cell
+3448,CD14+ monocyte,CD14+ monocyte
+3449,CD14+ monocyte,CD14+ monocyte
+3450,Dendritic cell,CD14+ monocyte
+3451,B cell,B cell
+3452,CD14+ monocyte,CD14+ monocyte
+3453,CD14+ monocyte,CD14+ monocyte
+3454,CD14+ monocyte,CD16+ monocyte
+3455,CD16+ monocyte,CD16+ monocyte
+3456,CD14+ monocyte,CD14+ monocyte
+3457,CD4+ T cell,CD4+ T cell
+3458,Cytotoxic T cell,Cytotoxic T cell
+3459,CD14+ monocyte,CD14+ monocyte
+3460,CD14+ monocyte,CD14+ monocyte
+3461,CD16+ monocyte,CD16+ monocyte
+3462,Cytotoxic T cell,Cytotoxic T cell
+3463,CD4+ T cell,CD4+ T cell
+3464,CD4+ T cell,CD4+ T cell
+3465,Cytotoxic T cell,Cytotoxic T cell
+3466,CD14+ monocyte,CD14+ monocyte
+3467,CD4+ T cell,CD4+ T cell
+3468,CD14+ monocyte,CD14+ monocyte
+3469,Cytotoxic T cell,Cytotoxic T cell
+3470,B cell,B cell
+3471,CD14+ monocyte,CD14+ monocyte
+3472,CD14+ monocyte,CD14+ monocyte
+3473,Cytotoxic T cell,Cytotoxic T cell
+3474,CD14+ monocyte,CD14+ monocyte
+3475,B cell,B cell
+3476,Cytotoxic T cell,Cytotoxic T cell
+3477,B cell,B cell
+3478,CD14+ monocyte,CD14+ monocyte
+3479,B cell,B cell
+3480,CD16+ monocyte,CD16+ monocyte
+3481,Cytotoxic T cell,Cytotoxic T cell
+3482,CD14+ monocyte,CD14+ monocyte
+3483,CD14+ monocyte,CD14+ monocyte
+3484,Cytotoxic T cell,Cytotoxic T cell
+3485,B cell,B cell
+3486,Cytotoxic T cell,Cytotoxic T cell
+3487,B cell,Plasmacytoid dendritic cell
+3488,B cell,B cell
+3489,B cell,B cell
+3490,CD14+ monocyte,CD14+ monocyte
+3491,B cell,B cell
+3492,CD14+ monocyte,CD14+ monocyte
+3493,CD14+ monocyte,CD14+ monocyte
+3494,B cell,B cell
+3495,Cytotoxic T cell,Cytotoxic T cell
+3496,Cytotoxic T cell,Cytotoxic T cell
+3497,CD14+ monocyte,CD14+ monocyte
+3498,Cytotoxic T cell,Cytotoxic T cell
+3499,CD4+ T cell,CD4+ T cell
+3500,Cytotoxic T cell,Cytotoxic T cell
+3501,CD14+ monocyte,CD14+ monocyte
+3502,CD4+ T cell,CD4+ T cell
+3503,Cytotoxic T cell,Cytotoxic T cell
+3504,Natural killer cell,Cytotoxic T cell
+3505,B cell,B cell
+3506,Cytotoxic T cell,Cytotoxic T cell
+3507,CD14+ monocyte,CD14+ monocyte
+3508,Cytotoxic T cell,Cytotoxic T cell
+3509,Cytotoxic T cell,Cytotoxic T cell
+3510,Cytotoxic T cell,CD4+ T cell
+3511,CD4+ T cell,Cytotoxic T cell
+3512,CD14+ monocyte,CD14+ monocyte
+3513,Cytotoxic T cell,Cytotoxic T cell
+3514,Cytotoxic T cell,Cytotoxic T cell
+3515,CD4+ T cell,CD4+ T cell
+3516,Cytotoxic T cell,Cytotoxic T cell
+3517,Cytotoxic T cell,Cytotoxic T cell
+3518,B cell,B cell
+3519,Cytotoxic T cell,Cytotoxic T cell
+3520,CD14+ monocyte,CD14+ monocyte
+3521,CD4+ T cell,CD4+ T cell
+3522,CD14+ monocyte,CD14+ monocyte
+3523,Cytotoxic T cell,Cytotoxic T cell
+3524,Cytotoxic T cell,Cytotoxic T cell
+3525,Cytotoxic T cell,Natural killer cell
+3526,CD4+ T cell,CD4+ T cell
+3527,CD16+ monocyte,CD16+ monocyte
+3528,Cytotoxic T cell,Cytotoxic T cell
+3529,Megakaryocyte,Megakaryocyte
+3530,CD14+ monocyte,CD14+ monocyte
+3531,Cytotoxic T cell,Cytotoxic T cell
+3532,B cell,B cell
+3533,Cytotoxic T cell,Cytotoxic T cell
+3534,CD14+ monocyte,CD14+ monocyte
+3535,CD16+ monocyte,CD16+ monocyte
+3536,CD4+ T cell,CD4+ T cell
+3537,CD14+ monocyte,CD14+ monocyte
+3538,CD14+ monocyte,CD14+ monocyte
+3539,B cell,B cell
+3540,CD14+ monocyte,CD14+ monocyte
+3541,CD14+ monocyte,CD14+ monocyte
+3542,CD14+ monocyte,CD14+ monocyte
+3543,Cytotoxic T cell,Cytotoxic T cell
+3544,B cell,Dendritic cell
+3545,CD14+ monocyte,Cytotoxic T cell
+3546,Cytotoxic T cell,CD4+ T cell
+3547,Cytotoxic T cell,Cytotoxic T cell
+3548,Cytotoxic T cell,Cytotoxic T cell
+3549,B cell,B cell
+3550,CD4+ T cell,CD4+ T cell
+3551,Megakaryocyte,Megakaryocyte
+3552,Cytotoxic T cell,Cytotoxic T cell
+3553,CD16+ monocyte,CD16+ monocyte
+3554,CD14+ monocyte,CD14+ monocyte
+3555,Natural killer cell,Natural killer cell
+3556,CD14+ monocyte,CD14+ monocyte
+3557,Cytotoxic T cell,Cytotoxic T cell
+3558,Cytotoxic T cell,Cytotoxic T cell
+3559,CD14+ monocyte,CD14+ monocyte
+3560,Cytotoxic T cell,Cytotoxic T cell
+3561,CD4+ T cell,CD4+ T cell
+3562,B cell,B cell
+3563,CD16+ monocyte,CD16+ monocyte
+3564,CD14+ monocyte,CD14+ monocyte
+3565,B cell,B cell
+3566,B cell,B cell
+3567,CD4+ T cell,CD4+ T cell
+3568,Cytotoxic T cell,Cytotoxic T cell
+3569,B cell,B cell
+3570,Megakaryocyte,Megakaryocyte
+3571,CD4+ T cell,CD4+ T cell
+3572,CD16+ monocyte,CD16+ monocyte
+3573,Megakaryocyte,Megakaryocyte
+3574,Cytotoxic T cell,CD4+ T cell
+3575,CD14+ monocyte,CD14+ monocyte
+3576,CD16+ monocyte,CD16+ monocyte
+3577,Dendritic cell,Dendritic cell
+3578,CD14+ monocyte,CD14+ monocyte
+3579,CD14+ monocyte,CD14+ monocyte
+3580,B cell,B cell
+3581,B cell,B cell
+3582,Dendritic cell,Dendritic cell
+3583,CD14+ monocyte,CD14+ monocyte
+3584,CD14+ monocyte,CD14+ monocyte
+3585,B cell,B cell
+3586,CD14+ monocyte,CD14+ monocyte
+3587,Cytotoxic T cell,B cell
+3588,CD14+ monocyte,CD14+ monocyte
+3589,CD14+ monocyte,CD14+ monocyte
+3590,CD14+ monocyte,CD4+ T cell
+3591,CD14+ monocyte,CD14+ monocyte
+3592,CD14+ monocyte,CD14+ monocyte
+3593,Cytotoxic T cell,Cytotoxic T cell
+3594,CD14+ monocyte,CD14+ monocyte
+3595,Cytotoxic T cell,Cytotoxic T cell
+3596,CD4+ T cell,CD4+ T cell
+3597,CD14+ monocyte,CD14+ monocyte
+3598,CD14+ monocyte,CD14+ monocyte
+3599,Cytotoxic T cell,CD4+ T cell
+3600,Cytotoxic T cell,CD4+ T cell
+3601,B cell,B cell
+3602,Cytotoxic T cell,Cytotoxic T cell
+3603,CD14+ monocyte,CD14+ monocyte
+3604,CD14+ monocyte,CD14+ monocyte
+3605,CD14+ monocyte,CD14+ monocyte
+3606,CD4+ T cell,CD4+ T cell
+3607,Natural killer cell,Natural killer cell
+3608,CD4+ T cell,CD4+ T cell
+3609,CD14+ monocyte,CD14+ monocyte
+3610,CD14+ monocyte,CD14+ monocyte
+3611,B cell,B cell
+3612,B cell,B cell
+3613,CD4+ T cell,CD4+ T cell
+3614,CD14+ monocyte,CD14+ monocyte
+3615,Cytotoxic T cell,Cytotoxic T cell
+3616,Natural killer cell,Natural killer cell
+3617,Natural killer cell,Cytotoxic T cell
+3618,Cytotoxic T cell,Cytotoxic T cell
+3619,CD14+ monocyte,CD14+ monocyte
+3620,CD14+ monocyte,CD14+ monocyte
+3621,CD14+ monocyte,CD14+ monocyte
+3622,CD14+ monocyte,CD14+ monocyte
+3623,Cytotoxic T cell,Cytotoxic T cell
+3624,CD14+ monocyte,CD14+ monocyte
+3625,CD16+ monocyte,CD16+ monocyte
+3626,Cytotoxic T cell,CD4+ T cell
+3627,B cell,B cell
+3628,Cytotoxic T cell,Cytotoxic T cell
+3629,CD14+ monocyte,CD14+ monocyte
+3630,Cytotoxic T cell,Cytotoxic T cell
+3631,CD14+ monocyte,Cytotoxic T cell
+3632,Cytotoxic T cell,Cytotoxic T cell
+3633,CD4+ T cell,CD4+ T cell
+3634,Cytotoxic T cell,Cytotoxic T cell
+3635,CD14+ monocyte,CD14+ monocyte
+3636,B cell,B cell
+3637,Natural killer cell,Cytotoxic T cell
+3638,CD14+ monocyte,CD16+ monocyte
+3639,CD4+ T cell,CD4+ T cell
+3640,B cell,B cell
+3641,B cell,B cell
+3642,Cytotoxic T cell,Cytotoxic T cell
+3643,CD14+ monocyte,CD14+ monocyte
+3644,B cell,B cell
+3645,CD14+ monocyte,CD14+ monocyte
+3646,CD4+ T cell,CD4+ T cell
+3647,CD14+ monocyte,CD14+ monocyte
+3648,Dendritic cell,Plasmacytoid dendritic cell
+3649,CD4+ T cell,CD4+ T cell
+3650,CD14+ monocyte,CD14+ monocyte
+3651,Cytotoxic T cell,Cytotoxic T cell
+3652,CD14+ monocyte,CD14+ monocyte
+3653,CD14+ monocyte,CD14+ monocyte
+3654,CD4+ T cell,CD4+ T cell
+3655,CD14+ monocyte,CD14+ monocyte
+3656,CD4+ T cell,CD4+ T cell
+3657,Dendritic cell,Plasmacytoid dendritic cell
+3658,Cytotoxic T cell,Cytotoxic T cell
+3659,Cytotoxic T cell,Cytotoxic T cell
+3660,CD14+ monocyte,CD14+ monocyte
+3661,Cytotoxic T cell,Cytotoxic T cell
+3662,Cytotoxic T cell,CD4+ T cell
+3663,B cell,B cell
+3664,CD4+ T cell,CD4+ T cell
+3665,CD4+ T cell,CD4+ T cell
+3666,CD4+ T cell,CD4+ T cell
+3667,CD16+ monocyte,CD16+ monocyte
+3668,B cell,B cell
+3669,CD14+ monocyte,CD14+ monocyte
+3670,B cell,B cell
+3671,CD4+ T cell,CD4+ T cell
+3672,CD4+ T cell,CD4+ T cell
+3673,Natural killer cell,Natural killer cell
+3674,Cytotoxic T cell,CD4+ T cell
+3675,CD14+ monocyte,CD14+ monocyte
+3676,CD16+ monocyte,CD16+ monocyte
+3677,CD14+ monocyte,CD14+ monocyte
+3678,CD14+ monocyte,CD14+ monocyte
+3679,Dendritic cell,Dendritic cell
+3680,B cell,B cell
+3681,CD4+ T cell,CD4+ T cell
+3682,B cell,B cell
+3683,CD14+ monocyte,CD14+ monocyte
+3684,CD4+ T cell,CD4+ T cell
+3685,Megakaryocyte,Megakaryocyte
+3686,Cytotoxic T cell,Cytotoxic T cell
+3687,CD4+ T cell,CD14+ monocyte
+3688,CD16+ monocyte,CD16+ monocyte
+3689,Cytotoxic T cell,Cytotoxic T cell
+3690,CD4+ T cell,Plasmacytoid dendritic cell
+3691,B cell,B cell
+3692,CD14+ monocyte,CD14+ monocyte
+3693,CD14+ monocyte,CD14+ monocyte
+3694,CD14+ monocyte,CD14+ monocyte
+3695,CD16+ monocyte,CD16+ monocyte
+3696,Cytotoxic T cell,Cytotoxic T cell
+3697,CD14+ monocyte,CD14+ monocyte
+3698,CD16+ monocyte,CD16+ monocyte
+3699,Cytotoxic T cell,CD4+ T cell
+3700,CD14+ monocyte,CD14+ monocyte
+3701,CD14+ monocyte,CD14+ monocyte
+3702,CD16+ monocyte,CD16+ monocyte
+3703,Megakaryocyte,Megakaryocyte
+3704,Cytotoxic T cell,Cytotoxic T cell
+3705,Cytotoxic T cell,Cytotoxic T cell
+3706,CD14+ monocyte,CD14+ monocyte
+3707,CD14+ monocyte,CD14+ monocyte
+3708,Cytotoxic T cell,Cytotoxic T cell
+3709,CD14+ monocyte,CD14+ monocyte
+3710,CD14+ monocyte,CD14+ monocyte
+3711,CD4+ T cell,CD4+ T cell
+3712,CD14+ monocyte,CD14+ monocyte
+3713,Cytotoxic T cell,Cytotoxic T cell
+3714,CD4+ T cell,CD4+ T cell
+3715,CD14+ monocyte,CD14+ monocyte
+3716,Cytotoxic T cell,Cytotoxic T cell
+3717,B cell,B cell
+3718,Dendritic cell,CD14+ monocyte
+3719,CD14+ monocyte,CD14+ monocyte
+3720,CD14+ monocyte,CD4+ T cell
+3721,Cytotoxic T cell,Cytotoxic T cell
+3722,Cytotoxic T cell,Cytotoxic T cell
+3723,CD4+ T cell,CD4+ T cell
+3724,CD4+ T cell,CD4+ T cell
+3725,B cell,CD14+ monocyte
+3726,CD14+ monocyte,CD14+ monocyte
+3727,Cytotoxic T cell,Cytotoxic T cell
+3728,CD4+ T cell,CD4+ T cell
+3729,Cytotoxic T cell,Cytotoxic T cell
+3730,CD14+ monocyte,CD14+ monocyte
+3731,Cytotoxic T cell,Cytotoxic T cell
+3732,B cell,B cell
+3733,B cell,B cell
+3734,B cell,B cell
+3735,CD14+ monocyte,CD14+ monocyte
+3736,CD14+ monocyte,Dendritic cell
+3737,B cell,B cell
+3738,CD14+ monocyte,CD14+ monocyte
+3739,Cytotoxic T cell,Cytotoxic T cell
+3740,Cytotoxic T cell,Cytotoxic T cell
+3741,CD4+ T cell,CD4+ T cell
+3742,CD4+ T cell,CD4+ T cell
+3743,CD14+ monocyte,CD14+ monocyte
+3744,B cell,B cell
+3745,B cell,B cell
+3746,CD16+ monocyte,CD16+ monocyte
+3747,CD4+ T cell,CD4+ T cell
+3748,CD14+ monocyte,CD14+ monocyte
+3749,CD14+ monocyte,CD14+ monocyte
+3750,B cell,B cell
+3751,Cytotoxic T cell,CD4+ T cell
+3752,CD14+ monocyte,CD14+ monocyte
+3753,CD14+ monocyte,CD14+ monocyte
+3754,CD4+ T cell,CD4+ T cell
+3755,Cytotoxic T cell,Cytotoxic T cell
+3756,B cell,B cell
+3757,Cytotoxic T cell,CD4+ T cell
+3758,CD4+ T cell,CD4+ T cell
+3759,B cell,B cell
+3760,B cell,B cell
+3761,B cell,B cell
+3762,B cell,B cell
+3763,CD14+ monocyte,Cytotoxic T cell
+3764,CD14+ monocyte,CD14+ monocyte
+3765,Megakaryocyte,Megakaryocyte
+3766,Megakaryocyte,Megakaryocyte
+3767,CD14+ monocyte,CD14+ monocyte
+3768,CD14+ monocyte,CD14+ monocyte
+3769,CD14+ monocyte,CD14+ monocyte
+3770,CD14+ monocyte,CD14+ monocyte
+3771,CD4+ T cell,CD4+ T cell
+3772,CD4+ T cell,CD4+ T cell
+3773,B cell,B cell
+3774,CD14+ monocyte,CD14+ monocyte
+3775,CD14+ monocyte,CD14+ monocyte
+3776,CD14+ monocyte,CD14+ monocyte
+3777,Cytotoxic T cell,Natural killer cell
+3778,Cytotoxic T cell,Cytotoxic T cell
+3779,Natural killer cell,Cytotoxic T cell
+3780,B cell,CD16+ monocyte
+3781,B cell,B cell
+3782,Cytotoxic T cell,Cytotoxic T cell
+3783,Dendritic cell,Dendritic cell
+3784,CD14+ monocyte,CD14+ monocyte
+3785,Cytotoxic T cell,CD4+ T cell
+3786,CD14+ monocyte,CD14+ monocyte
+3787,Cytotoxic T cell,Cytotoxic T cell
+3788,B cell,B cell
+3789,CD4+ T cell,CD4+ T cell
+3790,B cell,B cell
+3791,B cell,B cell
+3792,B cell,B cell
+3793,CD4+ T cell,Cytotoxic T cell
+3794,CD14+ monocyte,CD14+ monocyte
+3795,CD4+ T cell,CD4+ T cell
+3796,CD14+ monocyte,CD14+ monocyte
+3797,CD14+ monocyte,CD16+ monocyte
+3798,Natural killer cell,Natural killer cell
+3799,CD14+ monocyte,CD14+ monocyte
+3800,CD14+ monocyte,CD16+ monocyte
+3801,CD4+ T cell,CD4+ T cell
+3802,CD14+ monocyte,CD14+ monocyte
+3803,Natural killer cell,Cytotoxic T cell
+3804,Cytotoxic T cell,Cytotoxic T cell
+3805,Cytotoxic T cell,Cytotoxic T cell
+3806,CD14+ monocyte,CD14+ monocyte
+3807,CD16+ monocyte,CD16+ monocyte
+3808,CD14+ monocyte,Dendritic cell
+3809,B cell,Cytotoxic T cell
+3810,Cytotoxic T cell,Cytotoxic T cell
+3811,CD14+ monocyte,CD14+ monocyte
+3812,Cytotoxic T cell,Cytotoxic T cell
+3813,CD4+ T cell,Cytotoxic T cell
+3814,Cytotoxic T cell,Cytotoxic T cell
+3815,CD14+ monocyte,CD14+ monocyte
+3816,CD4+ T cell,CD4+ T cell
+3817,CD14+ monocyte,CD14+ monocyte
+3818,B cell,B cell
+3819,CD4+ T cell,CD4+ T cell
+3820,CD14+ monocyte,CD14+ monocyte
+3821,CD16+ monocyte,CD14+ monocyte
+3822,Cytotoxic T cell,Cytotoxic T cell
+3823,CD14+ monocyte,CD14+ monocyte
+3824,Dendritic cell,CD14+ monocyte
+3825,CD16+ monocyte,CD16+ monocyte
+3826,CD4+ T cell,CD4+ T cell
+3827,CD14+ monocyte,CD14+ monocyte
+3828,CD14+ monocyte,CD14+ monocyte
+3829,CD14+ monocyte,Dendritic cell
+3830,CD4+ T cell,CD4+ T cell
+3831,CD14+ monocyte,CD14+ monocyte
+3832,B cell,B cell
+3833,Cytotoxic T cell,Cytotoxic T cell
+3834,CD14+ monocyte,CD14+ monocyte
+3835,CD14+ monocyte,CD14+ monocyte
+3836,Cytotoxic T cell,Cytotoxic T cell
+3837,Dendritic cell,CD14+ monocyte
+3838,B cell,Dendritic cell
+3839,CD4+ T cell,CD4+ T cell
+3840,CD14+ monocyte,CD14+ monocyte
+3841,Cytotoxic T cell,Cytotoxic T cell
+3842,CD4+ T cell,CD4+ T cell
+3843,CD14+ monocyte,CD14+ monocyte
+3844,Cytotoxic T cell,Cytotoxic T cell
+3845,CD16+ monocyte,CD16+ monocyte
+3846,Cytotoxic T cell,Cytotoxic T cell
+3847,CD4+ T cell,CD4+ T cell
+3848,Cytotoxic T cell,Cytotoxic T cell
+3849,Cytotoxic T cell,Cytotoxic T cell
+3850,Dendritic cell,Plasmacytoid dendritic cell
+3851,Cytotoxic T cell,CD4+ T cell
+3852,CD4+ T cell,Cytotoxic T cell
+3853,CD4+ T cell,Cytotoxic T cell
+3854,CD4+ T cell,CD4+ T cell
+3855,CD14+ monocyte,CD4+ T cell
+3856,CD14+ monocyte,CD14+ monocyte
+3857,CD4+ T cell,CD4+ T cell
+3858,CD14+ monocyte,CD14+ monocyte
+3859,CD4+ T cell,CD4+ T cell
+3860,B cell,B cell
+3861,Cytotoxic T cell,Cytotoxic T cell
+3862,B cell,B cell
+3863,CD4+ T cell,CD4+ T cell
+3864,CD14+ monocyte,CD14+ monocyte
+3865,Megakaryocyte,Megakaryocyte
+3866,CD4+ T cell,CD4+ T cell
+3867,Cytotoxic T cell,Cytotoxic T cell
+3868,CD14+ monocyte,CD14+ monocyte
+3869,CD14+ monocyte,CD14+ monocyte
+3870,CD4+ T cell,CD4+ T cell
+3871,CD14+ monocyte,CD14+ monocyte
+3872,Cytotoxic T cell,Cytotoxic T cell
+3873,Cytotoxic T cell,Cytotoxic T cell
+3874,CD14+ monocyte,CD14+ monocyte
+3875,B cell,B cell
+3876,Cytotoxic T cell,Cytotoxic T cell
+3877,CD4+ T cell,CD4+ T cell
+3878,B cell,B cell
+3879,CD14+ monocyte,CD14+ monocyte
+3880,CD4+ T cell,CD4+ T cell
+3881,Cytotoxic T cell,Cytotoxic T cell
+3882,Cytotoxic T cell,Cytotoxic T cell
+3883,B cell,B cell
+3884,B cell,B cell
+3885,Cytotoxic T cell,Cytotoxic T cell
+3886,CD14+ monocyte,CD14+ monocyte
+3887,CD14+ monocyte,CD16+ monocyte
+3888,Natural killer cell,Cytotoxic T cell
+3889,B cell,B cell
+3890,CD14+ monocyte,CD14+ monocyte
+3891,Cytotoxic T cell,Cytotoxic T cell
+3892,CD14+ monocyte,CD14+ monocyte
+3893,Cytotoxic T cell,Cytotoxic T cell
+3894,B cell,B cell
+3895,B cell,B cell
+3896,CD14+ monocyte,CD14+ monocyte
+3897,CD14+ monocyte,CD14+ monocyte
+3898,Cytotoxic T cell,CD4+ T cell
+3899,Cytotoxic T cell,Cytotoxic T cell
+3900,CD14+ monocyte,CD14+ monocyte
+3901,CD4+ T cell,Cytotoxic T cell
+3902,CD14+ monocyte,CD14+ monocyte
+3903,Natural killer cell,Natural killer cell
+3904,CD4+ T cell,CD4+ T cell
+3905,Megakaryocyte,Megakaryocyte
+3906,B cell,CD4+ T cell
+3907,CD4+ T cell,CD4+ T cell
+3908,Cytotoxic T cell,Cytotoxic T cell
+3909,CD4+ T cell,CD4+ T cell
+3910,Natural killer cell,Cytotoxic T cell
+3911,Cytotoxic T cell,Cytotoxic T cell
+3912,Dendritic cell,Dendritic cell
+3913,Cytotoxic T cell,Cytotoxic T cell
+3914,Cytotoxic T cell,CD4+ T cell
+3915,B cell,B cell
+3916,CD14+ monocyte,CD14+ monocyte
+3917,B cell,B cell
+3918,CD14+ monocyte,CD4+ T cell
+3919,B cell,B cell
+3920,CD14+ monocyte,Dendritic cell
+3921,Cytotoxic T cell,CD4+ T cell
+3922,Cytotoxic T cell,Cytotoxic T cell
+3923,CD4+ T cell,CD4+ T cell
+3924,Cytotoxic T cell,Cytotoxic T cell
+3925,CD14+ monocyte,CD14+ monocyte
+3926,Cytotoxic T cell,Cytotoxic T cell
+3927,CD4+ T cell,CD4+ T cell
+3928,B cell,B cell
+3929,CD14+ monocyte,CD14+ monocyte
+3930,CD14+ monocyte,CD14+ monocyte
+3931,CD16+ monocyte,CD16+ monocyte
+3932,CD14+ monocyte,CD14+ monocyte
+3933,CD14+ monocyte,CD14+ monocyte
+3934,CD14+ monocyte,CD14+ monocyte
+3935,CD14+ monocyte,CD14+ monocyte
+3936,Natural killer cell,Cytotoxic T cell
+3937,CD14+ monocyte,CD14+ monocyte
+3938,Cytotoxic T cell,Cytotoxic T cell
+3939,B cell,B cell
+3940,B cell,B cell
+3941,B cell,Dendritic cell
+3942,CD14+ monocyte,CD14+ monocyte
+3943,CD14+ monocyte,CD14+ monocyte
+3944,Cytotoxic T cell,Cytotoxic T cell
+3945,Cytotoxic T cell,Cytotoxic T cell
+3946,Dendritic cell,CD14+ monocyte
+3947,Cytotoxic T cell,Cytotoxic T cell
+3948,CD14+ monocyte,CD14+ monocyte
+3949,CD14+ monocyte,CD14+ monocyte
+3950,CD4+ T cell,CD4+ T cell
+3951,CD14+ monocyte,CD14+ monocyte
+3952,CD14+ monocyte,CD14+ monocyte
+3953,B cell,B cell
+3954,Cytotoxic T cell,Cytotoxic T cell
+3955,CD14+ monocyte,CD14+ monocyte
+3956,CD14+ monocyte,CD14+ monocyte
+3957,Cytotoxic T cell,Cytotoxic T cell
+3958,B cell,B cell
+3959,Cytotoxic T cell,Cytotoxic T cell
+3960,Cytotoxic T cell,CD4+ T cell
+3961,CD4+ T cell,CD4+ T cell
+3962,Cytotoxic T cell,Cytotoxic T cell
+3963,Cytotoxic T cell,Cytotoxic T cell
+3964,B cell,B cell
+3965,CD14+ monocyte,CD14+ monocyte
+3966,CD16+ monocyte,CD14+ monocyte
+3967,Cytotoxic T cell,Cytotoxic T cell
+3968,CD14+ monocyte,CD14+ monocyte
+3969,CD4+ T cell,CD4+ T cell
+3970,CD14+ monocyte,CD14+ monocyte
+3971,CD14+ monocyte,CD14+ monocyte
+3972,Cytotoxic T cell,Natural killer cell
+3973,Cytotoxic T cell,CD4+ T cell
+3974,B cell,B cell
+3975,B cell,B cell
+3976,Cytotoxic T cell,Cytotoxic T cell
+3977,CD14+ monocyte,CD16+ monocyte
+3978,CD4+ T cell,Cytotoxic T cell
+3979,CD14+ monocyte,CD14+ monocyte
+3980,CD16+ monocyte,CD16+ monocyte
+3981,B cell,B cell
+3982,Cytotoxic T cell,Cytotoxic T cell
+3983,CD14+ monocyte,CD14+ monocyte
+3984,B cell,B cell
+3985,CD4+ T cell,CD4+ T cell
+3986,B cell,B cell
+3987,B cell,B cell
+3988,CD14+ monocyte,CD14+ monocyte
+3989,Cytotoxic T cell,Cytotoxic T cell
+3990,Dendritic cell,CD14+ monocyte
+3991,Cytotoxic T cell,Cytotoxic T cell
+3992,B cell,B cell
+3993,CD14+ monocyte,CD14+ monocyte
+3994,Megakaryocyte,Megakaryocyte
+3995,CD14+ monocyte,CD14+ monocyte
+3996,Cytotoxic T cell,Cytotoxic T cell
+3997,CD16+ monocyte,CD14+ monocyte
+3998,Cytotoxic T cell,Cytotoxic T cell
+3999,CD14+ monocyte,CD14+ monocyte
+4000,CD4+ T cell,CD4+ T cell
+4001,B cell,B cell
+4002,CD4+ T cell,Cytotoxic T cell
+4003,CD14+ monocyte,CD14+ monocyte
+4004,Cytotoxic T cell,CD14+ monocyte
+4005,CD4+ T cell,CD4+ T cell
+4006,CD14+ monocyte,CD14+ monocyte
+4007,Dendritic cell,Plasmacytoid dendritic cell
+4008,Cytotoxic T cell,Cytotoxic T cell
+4009,CD16+ monocyte,CD16+ monocyte
+4010,CD14+ monocyte,CD14+ monocyte
+4011,Cytotoxic T cell,Cytotoxic T cell
+4012,CD14+ monocyte,CD14+ monocyte
+4013,CD14+ monocyte,CD14+ monocyte
+4014,Megakaryocyte,Megakaryocyte
+4015,CD14+ monocyte,CD14+ monocyte
+4016,CD14+ monocyte,CD14+ monocyte
+4017,CD14+ monocyte,CD14+ monocyte
+4018,CD14+ monocyte,CD14+ monocyte
+4019,B cell,B cell
+4020,B cell,B cell
+4021,CD16+ monocyte,CD16+ monocyte
+4022,B cell,B cell
+4023,CD14+ monocyte,CD14+ monocyte
+4024,Megakaryocyte,Megakaryocyte
+4025,Cytotoxic T cell,Cytotoxic T cell
+4026,Cytotoxic T cell,Cytotoxic T cell
+4027,CD14+ monocyte,CD14+ monocyte
+4028,Cytotoxic T cell,Cytotoxic T cell
+4029,Natural killer cell,Natural killer cell
+4030,CD4+ T cell,CD4+ T cell
+4031,B cell,B cell
+4032,Cytotoxic T cell,Cytotoxic T cell
+4033,CD4+ T cell,CD4+ T cell
+4034,CD14+ monocyte,CD4+ T cell
+4035,CD4+ T cell,CD4+ T cell
+4036,Cytotoxic T cell,Cytotoxic T cell
+4037,Cytotoxic T cell,Cytotoxic T cell
+4038,B cell,B cell
+4039,Cytotoxic T cell,Cytotoxic T cell
+4040,B cell,B cell
+4041,Cytotoxic T cell,Cytotoxic T cell
+4042,CD4+ T cell,CD4+ T cell
+4043,CD4+ T cell,CD4+ T cell
+4044,Cytotoxic T cell,Cytotoxic T cell
+4045,CD14+ monocyte,CD14+ monocyte
+4046,Cytotoxic T cell,Cytotoxic T cell
+4047,CD14+ monocyte,CD14+ monocyte
+4048,CD4+ T cell,CD4+ T cell
+4049,CD14+ monocyte,CD14+ monocyte
+4050,B cell,B cell
+4051,CD4+ T cell,CD4+ T cell
+4052,Megakaryocyte,Megakaryocyte
+4053,Cytotoxic T cell,Cytotoxic T cell
+4054,CD14+ monocyte,CD14+ monocyte
+4055,CD14+ monocyte,CD14+ monocyte
+4056,Cytotoxic T cell,Cytotoxic T cell
+4057,Cytotoxic T cell,Cytotoxic T cell
+4058,Cytotoxic T cell,Cytotoxic T cell
+4059,Cytotoxic T cell,Natural killer cell
+4060,Cytotoxic T cell,Cytotoxic T cell
+4061,Dendritic cell,Dendritic cell
+4062,Cytotoxic T cell,Cytotoxic T cell
+4063,CD14+ monocyte,CD14+ monocyte
+4064,Cytotoxic T cell,CD4+ T cell
+4065,Cytotoxic T cell,CD4+ T cell
+4066,Natural killer cell,Natural killer cell
+4067,Cytotoxic T cell,CD4+ T cell
+4068,B cell,B cell
+4069,Cytotoxic T cell,Cytotoxic T cell
+4070,CD14+ monocyte,CD14+ monocyte
+4071,CD14+ monocyte,CD14+ monocyte
+4072,CD14+ monocyte,CD14+ monocyte
+4073,CD14+ monocyte,Cytotoxic T cell
+4074,CD14+ monocyte,CD14+ monocyte
+4075,CD14+ monocyte,CD14+ monocyte
+4076,CD4+ T cell,CD4+ T cell
+4077,Cytotoxic T cell,Cytotoxic T cell
+4078,CD14+ monocyte,CD14+ monocyte
+4079,Cytotoxic T cell,Cytotoxic T cell
+4080,CD14+ monocyte,CD14+ monocyte
+4081,B cell,B cell
+4082,CD14+ monocyte,CD16+ monocyte
+4083,CD14+ monocyte,CD14+ monocyte
+4084,CD4+ T cell,CD4+ T cell
+4085,Natural killer cell,Natural killer cell
+4086,CD14+ monocyte,CD14+ monocyte
+4087,CD14+ monocyte,CD14+ monocyte
+4088,CD14+ monocyte,CD14+ monocyte
+4089,B cell,Cytotoxic T cell
+4090,CD4+ T cell,CD4+ T cell
+4091,CD14+ monocyte,CD14+ monocyte
+4092,B cell,B cell
+4093,B cell,B cell
+4094,CD14+ monocyte,CD14+ monocyte
+4095,Megakaryocyte,Megakaryocyte
+4096,B cell,B cell
+4097,CD14+ monocyte,CD14+ monocyte
+4098,CD14+ monocyte,CD14+ monocyte
+4099,CD4+ T cell,CD4+ T cell
+4100,CD14+ monocyte,CD14+ monocyte
+4101,B cell,B cell
+4102,Cytotoxic T cell,Cytotoxic T cell
+4103,CD14+ monocyte,CD14+ monocyte
+4104,Cytotoxic T cell,Cytotoxic T cell
+4105,B cell,B cell
+4106,CD14+ monocyte,CD14+ monocyte
+4107,Natural killer cell,Cytotoxic T cell
+4108,CD14+ monocyte,CD14+ monocyte
+4109,Cytotoxic T cell,Cytotoxic T cell
+4110,CD14+ monocyte,CD14+ monocyte
+4111,Cytotoxic T cell,Cytotoxic T cell
+4112,Cytotoxic T cell,Cytotoxic T cell
+4113,CD14+ monocyte,CD14+ monocyte
+4114,B cell,B cell
+4115,CD16+ monocyte,CD14+ monocyte
+4116,CD16+ monocyte,CD16+ monocyte
+4117,Cytotoxic T cell,Cytotoxic T cell
+4118,CD4+ T cell,CD4+ T cell
+4119,CD14+ monocyte,CD14+ monocyte
+4120,CD14+ monocyte,CD14+ monocyte
+4121,CD16+ monocyte,CD16+ monocyte
+4122,CD16+ monocyte,CD16+ monocyte
+4123,B cell,Dendritic cell
+4124,CD14+ monocyte,CD14+ monocyte
+4125,B cell,B cell
+4126,Cytotoxic T cell,Cytotoxic T cell
+4127,CD14+ monocyte,CD14+ monocyte
+4128,Cytotoxic T cell,Cytotoxic T cell
+4129,CD4+ T cell,CD4+ T cell
+4130,B cell,B cell
+4131,B cell,B cell
+4132,Cytotoxic T cell,Cytotoxic T cell
+4133,Cytotoxic T cell,Cytotoxic T cell
+4134,CD14+ monocyte,CD16+ monocyte
+4135,CD4+ T cell,CD4+ T cell
+4136,B cell,B cell
+4137,CD14+ monocyte,CD14+ monocyte
+4138,CD14+ monocyte,CD14+ monocyte
+4139,B cell,B cell
+4140,CD4+ T cell,CD4+ T cell
+4141,CD14+ monocyte,CD14+ monocyte
+4142,B cell,B cell
+4143,Cytotoxic T cell,Cytotoxic T cell
+4144,Cytotoxic T cell,CD4+ T cell
+4145,CD4+ T cell,CD4+ T cell
+4146,Cytotoxic T cell,Cytotoxic T cell
+4147,CD16+ monocyte,CD16+ monocyte
+4148,CD16+ monocyte,CD16+ monocyte
+4149,B cell,B cell
+4150,CD4+ T cell,CD4+ T cell
+4151,Cytotoxic T cell,Cytotoxic T cell
+4152,CD14+ monocyte,CD14+ monocyte
+4153,Cytotoxic T cell,Cytotoxic T cell
+4154,CD4+ T cell,CD4+ T cell
+4155,B cell,B cell
+4156,CD4+ T cell,CD4+ T cell
+4157,CD4+ T cell,CD4+ T cell
+4158,Cytotoxic T cell,Cytotoxic T cell
+4159,CD14+ monocyte,CD14+ monocyte
+4160,CD14+ monocyte,CD14+ monocyte
+4161,CD14+ monocyte,CD14+ monocyte
+4162,Cytotoxic T cell,CD4+ T cell
+4163,Megakaryocyte,Megakaryocyte
+4164,CD14+ monocyte,CD14+ monocyte
+4165,B cell,B cell
+4166,Cytotoxic T cell,Cytotoxic T cell
+4167,CD4+ T cell,CD4+ T cell
+4168,CD14+ monocyte,CD14+ monocyte
+4169,B cell,Cytotoxic T cell
+4170,CD14+ monocyte,CD14+ monocyte
+4171,CD14+ monocyte,CD14+ monocyte
+4172,CD14+ monocyte,CD14+ monocyte
+4173,CD14+ monocyte,CD14+ monocyte
+4174,CD4+ T cell,CD4+ T cell
+4175,CD14+ monocyte,Dendritic cell
+4176,Cytotoxic T cell,Cytotoxic T cell
+4177,B cell,B cell
+4178,Megakaryocyte,Megakaryocyte
+4179,Cytotoxic T cell,Cytotoxic T cell
+4180,CD14+ monocyte,CD14+ monocyte
+4181,CD14+ monocyte,CD14+ monocyte
+4182,CD14+ monocyte,CD14+ monocyte
+4183,CD14+ monocyte,CD14+ monocyte
+4184,CD14+ monocyte,CD14+ monocyte
+4185,Dendritic cell,CD14+ monocyte
+4186,B cell,B cell
+4187,CD14+ monocyte,CD14+ monocyte
+4188,B cell,B cell
+4189,CD14+ monocyte,CD14+ monocyte
+4190,CD14+ monocyte,CD14+ monocyte
+4191,CD14+ monocyte,CD14+ monocyte
+4192,CD16+ monocyte,CD16+ monocyte
+4193,B cell,Dendritic cell
+4194,CD14+ monocyte,CD14+ monocyte
+4195,CD4+ T cell,CD4+ T cell
+4196,CD4+ T cell,B cell
+4197,B cell,B cell
+4198,CD4+ T cell,CD4+ T cell
+4199,Cytotoxic T cell,Cytotoxic T cell
+4200,CD4+ T cell,CD4+ T cell
+4201,Megakaryocyte,Megakaryocyte
+4202,Cytotoxic T cell,Cytotoxic T cell
+4203,CD14+ monocyte,CD14+ monocyte
+4204,CD14+ monocyte,CD14+ monocyte
+4205,CD14+ monocyte,B cell
+4206,CD4+ T cell,CD4+ T cell
+4207,CD14+ monocyte,CD14+ monocyte
+4208,CD14+ monocyte,CD14+ monocyte
+4209,Cytotoxic T cell,Cytotoxic T cell
+4210,B cell,B cell
+4211,CD14+ monocyte,CD14+ monocyte
+4212,CD14+ monocyte,CD14+ monocyte
+4213,CD14+ monocyte,CD14+ monocyte
+4214,CD4+ T cell,CD4+ T cell
+4215,Cytotoxic T cell,Cytotoxic T cell
+4216,CD14+ monocyte,CD14+ monocyte
+4217,CD4+ T cell,CD4+ T cell
+4218,Natural killer cell,Natural killer cell
+4219,Cytotoxic T cell,Cytotoxic T cell
+4220,Cytotoxic T cell,Cytotoxic T cell
+4221,CD14+ monocyte,CD14+ monocyte
+4222,CD14+ monocyte,CD14+ monocyte
+4223,CD4+ T cell,CD4+ T cell
+4224,B cell,B cell
+4225,CD4+ T cell,CD4+ T cell
+4226,CD4+ T cell,CD4+ T cell
+4227,Cytotoxic T cell,Cytotoxic T cell
+4228,CD14+ monocyte,CD14+ monocyte
+4229,CD14+ monocyte,CD14+ monocyte
+4230,Cytotoxic T cell,Cytotoxic T cell
+4231,CD14+ monocyte,CD14+ monocyte
+4232,CD14+ monocyte,CD4+ T cell
+4233,Natural killer cell,Natural killer cell
+4234,B cell,B cell
+4235,CD4+ T cell,CD4+ T cell
+4236,B cell,B cell
+4237,Cytotoxic T cell,Cytotoxic T cell
+4238,Natural killer cell,Cytotoxic T cell
+4239,Cytotoxic T cell,Cytotoxic T cell
+4240,B cell,B cell
+4241,CD14+ monocyte,CD14+ monocyte
+4242,CD4+ T cell,CD4+ T cell
+4243,CD14+ monocyte,CD14+ monocyte
+4244,B cell,B cell
+4245,CD4+ T cell,CD4+ T cell
+4246,CD16+ monocyte,CD14+ monocyte
+4247,CD14+ monocyte,CD14+ monocyte
+4248,Cytotoxic T cell,Cytotoxic T cell
+4249,CD16+ monocyte,CD4+ T cell
+4250,CD4+ T cell,CD4+ T cell
+4251,CD14+ monocyte,CD4+ T cell
+4252,CD14+ monocyte,CD14+ monocyte
+4253,CD4+ T cell,CD4+ T cell
+4254,Cytotoxic T cell,Cytotoxic T cell
+4255,B cell,B cell
+4256,Cytotoxic T cell,CD4+ T cell
+4257,CD14+ monocyte,CD14+ monocyte
+4258,Cytotoxic T cell,Cytotoxic T cell
+4259,Cytotoxic T cell,Cytotoxic T cell
+4260,Cytotoxic T cell,Cytotoxic T cell
+4261,CD4+ T cell,CD4+ T cell
+4262,CD14+ monocyte,CD14+ monocyte
+4263,Cytotoxic T cell,Cytotoxic T cell
+4264,Cytotoxic T cell,Cytotoxic T cell
+4265,Cytotoxic T cell,Cytotoxic T cell
+4266,CD4+ T cell,Cytotoxic T cell
+4267,CD14+ monocyte,CD14+ monocyte
+4268,B cell,B cell
+4269,CD14+ monocyte,CD14+ monocyte
+4270,Cytotoxic T cell,Cytotoxic T cell
+4271,B cell,B cell
+4272,CD14+ monocyte,CD14+ monocyte
+4273,CD16+ monocyte,CD16+ monocyte
+4274,CD4+ T cell,CD4+ T cell
+4275,Cytotoxic T cell,CD4+ T cell
+4276,CD14+ monocyte,CD14+ monocyte
+4277,CD4+ T cell,CD4+ T cell
+4278,Cytotoxic T cell,Cytotoxic T cell
+4279,CD14+ monocyte,CD14+ monocyte
+4280,CD14+ monocyte,CD14+ monocyte
+4281,CD14+ monocyte,Dendritic cell
+4282,CD4+ T cell,CD4+ T cell
+4283,B cell,B cell
+4284,Cytotoxic T cell,Cytotoxic T cell
+4285,CD14+ monocyte,CD14+ monocyte
+4286,CD14+ monocyte,CD14+ monocyte
+4287,Cytotoxic T cell,Cytotoxic T cell
+4288,CD4+ T cell,Cytotoxic T cell
+4289,B cell,B cell
+4290,CD14+ monocyte,CD14+ monocyte
+4291,CD14+ monocyte,CD14+ monocyte
+4292,Cytotoxic T cell,Cytotoxic T cell
+4293,Cytotoxic T cell,Cytotoxic T cell
+4294,Cytotoxic T cell,Cytotoxic T cell
+4295,CD14+ monocyte,CD14+ monocyte
+4296,CD14+ monocyte,CD14+ monocyte
+4297,Cytotoxic T cell,Cytotoxic T cell
+4298,Dendritic cell,Dendritic cell
+4299,B cell,B cell
+4300,B cell,B cell
+4301,CD14+ monocyte,CD14+ monocyte
+4302,CD4+ T cell,CD4+ T cell
+4303,Cytotoxic T cell,Cytotoxic T cell
+4304,CD4+ T cell,CD4+ T cell
+4305,Cytotoxic T cell,Cytotoxic T cell
+4306,CD14+ monocyte,CD14+ monocyte
+4307,Cytotoxic T cell,Cytotoxic T cell
+4308,B cell,B cell
+4309,Cytotoxic T cell,Cytotoxic T cell
+4310,CD14+ monocyte,CD14+ monocyte
+4311,B cell,B cell
+4312,Cytotoxic T cell,Cytotoxic T cell
+4313,CD14+ monocyte,CD14+ monocyte
+4314,CD14+ monocyte,CD14+ monocyte
+4315,CD14+ monocyte,CD14+ monocyte
+4316,CD14+ monocyte,CD14+ monocyte
+4317,B cell,B cell
+4318,CD4+ T cell,CD4+ T cell
+4319,CD14+ monocyte,CD14+ monocyte
+4320,Cytotoxic T cell,Cytotoxic T cell
+4321,CD4+ T cell,CD4+ T cell
+4322,CD14+ monocyte,CD16+ monocyte
+4323,Natural killer cell,CD16+ monocyte
+4324,Cytotoxic T cell,Cytotoxic T cell
+4325,CD4+ T cell,CD4+ T cell
+4326,CD4+ T cell,CD4+ T cell
+4327,CD14+ monocyte,CD14+ monocyte
+4328,Cytotoxic T cell,CD4+ T cell
+4329,Cytotoxic T cell,Cytotoxic T cell
+4330,CD4+ T cell,CD4+ T cell
+4331,CD16+ monocyte,CD16+ monocyte
+4332,B cell,B cell
+4333,Cytotoxic T cell,Cytotoxic T cell
+4334,CD14+ monocyte,CD14+ monocyte
+4335,CD16+ monocyte,CD16+ monocyte
+4336,CD14+ monocyte,CD14+ monocyte
+4337,CD14+ monocyte,CD14+ monocyte
+4338,Cytotoxic T cell,Cytotoxic T cell
+4339,CD14+ monocyte,CD14+ monocyte
+4340,Cytotoxic T cell,Cytotoxic T cell
+4341,Megakaryocyte,Megakaryocyte
+4342,Cytotoxic T cell,Cytotoxic T cell
+4343,CD4+ T cell,CD4+ T cell
+4344,CD4+ T cell,CD4+ T cell
+4345,Cytotoxic T cell,CD4+ T cell
+4346,B cell,B cell
+4347,B cell,B cell
+4348,Cytotoxic T cell,Cytotoxic T cell
+4349,Cytotoxic T cell,CD4+ T cell
+4350,Cytotoxic T cell,Cytotoxic T cell
+4351,CD14+ monocyte,CD14+ monocyte
+4352,B cell,B cell
+4353,Megakaryocyte,Megakaryocyte
+4354,Natural killer cell,Cytotoxic T cell
+4355,Cytotoxic T cell,Cytotoxic T cell
+4356,CD14+ monocyte,CD14+ monocyte
+4357,Cytotoxic T cell,CD4+ T cell
+4358,CD14+ monocyte,CD16+ monocyte
+4359,CD14+ monocyte,CD14+ monocyte
+4360,CD14+ monocyte,CD14+ monocyte
+4361,Cytotoxic T cell,Cytotoxic T cell
+4362,B cell,B cell
+4363,Cytotoxic T cell,Cytotoxic T cell
+4364,Cytotoxic T cell,Cytotoxic T cell
+4365,CD4+ T cell,CD4+ T cell
+4366,Cytotoxic T cell,Cytotoxic T cell
+4367,CD4+ T cell,CD4+ T cell
+4368,CD14+ monocyte,CD14+ monocyte
+4369,Cytotoxic T cell,Cytotoxic T cell
+4370,CD4+ T cell,CD4+ T cell
+4371,CD14+ monocyte,CD14+ monocyte
+4372,Cytotoxic T cell,CD4+ T cell
+4373,CD14+ monocyte,CD14+ monocyte
+4374,Cytotoxic T cell,CD4+ T cell
+4375,CD14+ monocyte,CD14+ monocyte
+4376,CD14+ monocyte,CD14+ monocyte
+4377,CD14+ monocyte,CD14+ monocyte
+4378,CD14+ monocyte,CD14+ monocyte
+4379,CD4+ T cell,CD4+ T cell
+4380,Cytotoxic T cell,B cell
+4381,Megakaryocyte,Megakaryocyte
+4382,CD14+ monocyte,CD14+ monocyte
+4383,CD14+ monocyte,CD16+ monocyte
+4384,Cytotoxic T cell,Cytotoxic T cell
+4385,Cytotoxic T cell,Cytotoxic T cell
+4386,CD14+ monocyte,CD14+ monocyte
+4387,CD16+ monocyte,CD16+ monocyte
+4388,CD4+ T cell,CD4+ T cell
+4389,CD4+ T cell,CD4+ T cell
+4390,B cell,B cell
+4391,Cytotoxic T cell,Cytotoxic T cell
+4392,B cell,B cell
+4393,CD4+ T cell,CD4+ T cell
+4394,Cytotoxic T cell,Cytotoxic T cell
+4395,CD14+ monocyte,CD14+ monocyte
+4396,CD14+ monocyte,CD14+ monocyte
+4397,Cytotoxic T cell,Cytotoxic T cell
+4398,B cell,B cell
+4399,CD14+ monocyte,CD14+ monocyte
+4400,Cytotoxic T cell,Cytotoxic T cell
+4401,Cytotoxic T cell,Cytotoxic T cell
+4402,Cytotoxic T cell,Natural killer cell
+4403,CD4+ T cell,CD4+ T cell
+4404,CD14+ monocyte,CD14+ monocyte
+4405,Cytotoxic T cell,Cytotoxic T cell
+4406,CD4+ T cell,CD4+ T cell
+4407,Cytotoxic T cell,Cytotoxic T cell
+4408,CD14+ monocyte,CD14+ monocyte
+4409,CD14+ monocyte,CD14+ monocyte
+4410,CD16+ monocyte,CD16+ monocyte
+4411,CD14+ monocyte,CD14+ monocyte
+4412,CD14+ monocyte,CD14+ monocyte
+4413,CD14+ monocyte,CD14+ monocyte
+4414,B cell,B cell
+4415,Cytotoxic T cell,CD4+ T cell
+4416,CD14+ monocyte,CD14+ monocyte
+4417,CD14+ monocyte,CD14+ monocyte
+4418,CD4+ T cell,CD4+ T cell
+4419,B cell,B cell
+4420,CD4+ T cell,CD4+ T cell
+4421,B cell,B cell
+4422,CD14+ monocyte,CD14+ monocyte
+4423,B cell,B cell
+4424,CD14+ monocyte,CD14+ monocyte
+4425,CD14+ monocyte,CD14+ monocyte
+4426,CD4+ T cell,CD4+ T cell
+4427,CD14+ monocyte,CD14+ monocyte
+4428,CD4+ T cell,Cytotoxic T cell
+4429,CD14+ monocyte,CD14+ monocyte
+4430,Cytotoxic T cell,Cytotoxic T cell
+4431,CD4+ T cell,CD4+ T cell
+4432,Cytotoxic T cell,Cytotoxic T cell
+4433,B cell,B cell
+4434,B cell,B cell
+4435,Cytotoxic T cell,Cytotoxic T cell
+4436,CD14+ monocyte,CD14+ monocyte
+4437,Cytotoxic T cell,Cytotoxic T cell
+4438,Cytotoxic T cell,Cytotoxic T cell
+4439,CD14+ monocyte,CD14+ monocyte
+4440,Natural killer cell,Natural killer cell
+4441,CD14+ monocyte,CD14+ monocyte
+4442,Cytotoxic T cell,Cytotoxic T cell
+4443,Cytotoxic T cell,Cytotoxic T cell
+4444,B cell,CD16+ monocyte
+4445,Cytotoxic T cell,Cytotoxic T cell
+4446,Natural killer cell,Natural killer cell
+4447,CD16+ monocyte,CD14+ monocyte
+4448,CD14+ monocyte,CD14+ monocyte
+4449,B cell,B cell
+4450,B cell,B cell
+4451,CD14+ monocyte,CD14+ monocyte
+4452,Cytotoxic T cell,Cytotoxic T cell
+4453,CD4+ T cell,CD4+ T cell
+4454,Natural killer cell,Cytotoxic T cell
+4455,CD14+ monocyte,CD14+ monocyte
+4456,B cell,CD14+ monocyte
+4457,Cytotoxic T cell,Cytotoxic T cell
+4458,CD4+ T cell,CD4+ T cell
+4459,CD14+ monocyte,CD14+ monocyte
+4460,Cytotoxic T cell,Cytotoxic T cell
+4461,Cytotoxic T cell,Cytotoxic T cell
+4462,CD14+ monocyte,CD14+ monocyte
+4463,CD14+ monocyte,Megakaryocyte
+4464,Cytotoxic T cell,Cytotoxic T cell
+4465,CD14+ monocyte,CD16+ monocyte
+4466,Cytotoxic T cell,CD4+ T cell
+4467,CD14+ monocyte,CD14+ monocyte
+4468,Cytotoxic T cell,Cytotoxic T cell
+4469,Cytotoxic T cell,CD4+ T cell
+4470,CD14+ monocyte,CD14+ monocyte
+4471,CD14+ monocyte,CD14+ monocyte
+4472,CD14+ monocyte,CD14+ monocyte
+4473,CD14+ monocyte,CD14+ monocyte
+4474,B cell,B cell
+4475,Cytotoxic T cell,Cytotoxic T cell
+4476,CD4+ T cell,CD4+ T cell
+4477,CD14+ monocyte,CD14+ monocyte
+4478,CD14+ monocyte,CD14+ monocyte
+4479,CD14+ monocyte,CD14+ monocyte
+4480,Cytotoxic T cell,Cytotoxic T cell
+4481,Cytotoxic T cell,Cytotoxic T cell
+4482,Natural killer cell,Natural killer cell
+4483,B cell,B cell
+4484,Cytotoxic T cell,Cytotoxic T cell
+4485,Cytotoxic T cell,CD4+ T cell
+4486,B cell,CD14+ monocyte
+4487,CD14+ monocyte,CD14+ monocyte
+4488,Cytotoxic T cell,Cytotoxic T cell
+4489,B cell,B cell
+4490,Cytotoxic T cell,Cytotoxic T cell
+4491,CD14+ monocyte,CD14+ monocyte
+4492,CD4+ T cell,CD4+ T cell
+4493,Megakaryocyte,Megakaryocyte
+4494,CD14+ monocyte,CD14+ monocyte
+4495,B cell,B cell
+4496,Cytotoxic T cell,Cytotoxic T cell
+4497,CD14+ monocyte,CD14+ monocyte
+4498,B cell,B cell
+4499,Cytotoxic T cell,Cytotoxic T cell
+4500,CD4+ T cell,Cytotoxic T cell
+4501,Cytotoxic T cell,Cytotoxic T cell
+4502,Cytotoxic T cell,Cytotoxic T cell
+4503,CD14+ monocyte,CD14+ monocyte
+4504,CD14+ monocyte,CD14+ monocyte
+4505,Cytotoxic T cell,CD4+ T cell
+4506,CD4+ T cell,Cytotoxic T cell
+4507,Cytotoxic T cell,Cytotoxic T cell
+4508,B cell,B cell
+4509,CD14+ monocyte,CD14+ monocyte
+4510,CD14+ monocyte,CD14+ monocyte
+4511,Cytotoxic T cell,Cytotoxic T cell
+4512,B cell,B cell
+4513,Cytotoxic T cell,Cytotoxic T cell
+4514,CD14+ monocyte,CD14+ monocyte
+4515,CD14+ monocyte,CD14+ monocyte
+4516,CD14+ monocyte,CD14+ monocyte
+4517,Cytotoxic T cell,Cytotoxic T cell
+4518,CD14+ monocyte,CD14+ monocyte
+4519,CD14+ monocyte,CD14+ monocyte
+4520,CD14+ monocyte,CD14+ monocyte
+4521,B cell,B cell
+4522,CD4+ T cell,CD4+ T cell
+4523,Cytotoxic T cell,Cytotoxic T cell
+4524,Cytotoxic T cell,B cell
+4525,B cell,B cell
+4526,CD14+ monocyte,CD14+ monocyte
+4527,CD16+ monocyte,CD16+ monocyte
+4528,B cell,Dendritic cell
+4529,Natural killer cell,Natural killer cell
+4530,Cytotoxic T cell,Cytotoxic T cell
+4531,B cell,B cell
+4532,Natural killer cell,Cytotoxic T cell
+4533,Cytotoxic T cell,Cytotoxic T cell
+4534,CD14+ monocyte,CD14+ monocyte
+4535,CD4+ T cell,CD4+ T cell
+4536,CD4+ T cell,CD4+ T cell
+4537,Cytotoxic T cell,CD4+ T cell
+4538,Natural killer cell,Cytotoxic T cell
+4539,CD14+ monocyte,CD14+ monocyte
+4540,CD4+ T cell,CD4+ T cell
+4541,CD16+ monocyte,CD16+ monocyte
+4542,CD4+ T cell,CD4+ T cell
+4543,B cell,B cell
+4544,B cell,B cell
+4545,CD14+ monocyte,CD14+ monocyte
+4546,CD14+ monocyte,CD14+ monocyte
+4547,CD4+ T cell,CD4+ T cell
+4548,Cytotoxic T cell,Cytotoxic T cell
+4549,Cytotoxic T cell,Cytotoxic T cell
+4550,CD14+ monocyte,CD14+ monocyte
+4551,Cytotoxic T cell,Cytotoxic T cell
+4552,Cytotoxic T cell,Cytotoxic T cell
+4553,CD14+ monocyte,CD14+ monocyte
+4554,CD14+ monocyte,CD14+ monocyte
+4555,B cell,B cell
+4556,B cell,B cell
+4557,Cytotoxic T cell,Cytotoxic T cell
+4558,B cell,B cell
+4559,CD14+ monocyte,CD14+ monocyte
+4560,CD4+ T cell,CD4+ T cell
+4561,Cytotoxic T cell,Cytotoxic T cell
+4562,CD4+ T cell,CD4+ T cell
+4563,Megakaryocyte,Megakaryocyte
+4564,B cell,B cell
+4565,B cell,B cell
+4566,CD14+ monocyte,CD14+ monocyte
+4567,CD14+ monocyte,CD14+ monocyte
+4568,B cell,B cell
+4569,B cell,B cell
+4570,CD4+ T cell,CD4+ T cell
+4571,B cell,B cell
+4572,Cytotoxic T cell,Cytotoxic T cell
+4573,Cytotoxic T cell,Cytotoxic T cell
+4574,CD4+ T cell,Cytotoxic T cell
+4575,CD14+ monocyte,CD14+ monocyte
+4576,Cytotoxic T cell,Cytotoxic T cell
+4577,CD14+ monocyte,CD14+ monocyte
+4578,Cytotoxic T cell,CD4+ T cell
+4579,CD14+ monocyte,CD14+ monocyte
+4580,Cytotoxic T cell,Cytotoxic T cell
+4581,B cell,B cell
+4582,CD16+ monocyte,CD16+ monocyte
+4583,CD4+ T cell,CD14+ monocyte
+4584,Cytotoxic T cell,Cytotoxic T cell
+4585,CD4+ T cell,CD4+ T cell
+4586,CD14+ monocyte,CD14+ monocyte
+4587,Natural killer cell,Natural killer cell
+4588,B cell,B cell
+4589,CD16+ monocyte,CD16+ monocyte
+4590,Cytotoxic T cell,Cytotoxic T cell
+4591,CD4+ T cell,CD4+ T cell
+4592,B cell,B cell
+4593,Megakaryocyte,Megakaryocyte
+4594,CD14+ monocyte,CD14+ monocyte
+4595,CD4+ T cell,CD4+ T cell
+4596,Dendritic cell,Plasmacytoid dendritic cell
+4597,Cytotoxic T cell,Cytotoxic T cell
+4598,CD14+ monocyte,CD14+ monocyte
+4599,B cell,B cell
+4600,Dendritic cell,CD14+ monocyte
+4601,CD14+ monocyte,CD14+ monocyte
+4602,CD4+ T cell,CD4+ T cell
+4603,CD14+ monocyte,CD14+ monocyte
+4604,CD4+ T cell,CD4+ T cell
+4605,CD14+ monocyte,CD14+ monocyte
+4606,CD4+ T cell,CD4+ T cell
+4607,Natural killer cell,Cytotoxic T cell
+4608,CD4+ T cell,CD4+ T cell
+4609,CD14+ monocyte,CD14+ monocyte
+4610,CD4+ T cell,CD4+ T cell
+4611,Cytotoxic T cell,Cytotoxic T cell
+4612,CD14+ monocyte,CD14+ monocyte
+4613,B cell,B cell
+4614,Cytotoxic T cell,Cytotoxic T cell
+4615,Cytotoxic T cell,CD4+ T cell
+4616,Cytotoxic T cell,Cytotoxic T cell
+4617,Cytotoxic T cell,Cytotoxic T cell
+4618,CD4+ T cell,CD4+ T cell
+4619,CD4+ T cell,CD4+ T cell
+4620,CD16+ monocyte,CD16+ monocyte
+4621,CD14+ monocyte,CD14+ monocyte
+4622,CD14+ monocyte,CD14+ monocyte
+4623,CD14+ monocyte,CD16+ monocyte
+4624,B cell,B cell
+4625,Cytotoxic T cell,CD4+ T cell
+4626,CD4+ T cell,CD4+ T cell
+4627,CD14+ monocyte,CD14+ monocyte
+4628,B cell,B cell
+4629,CD4+ T cell,CD4+ T cell
+4630,B cell,B cell
+4631,B cell,B cell
+4632,Cytotoxic T cell,Cytotoxic T cell
+4633,Cytotoxic T cell,Cytotoxic T cell
+4634,B cell,B cell
+4635,CD4+ T cell,CD4+ T cell
+4636,B cell,B cell
+4637,CD4+ T cell,CD4+ T cell
+4638,CD14+ monocyte,CD14+ monocyte
+4639,Dendritic cell,Plasmacytoid dendritic cell
+4640,Cytotoxic T cell,CD4+ T cell
+4641,CD14+ monocyte,CD14+ monocyte
+4642,Cytotoxic T cell,CD4+ T cell
+4643,CD14+ monocyte,CD14+ monocyte
+4644,CD16+ monocyte,CD16+ monocyte
+4645,Cytotoxic T cell,Cytotoxic T cell
+4646,Cytotoxic T cell,Cytotoxic T cell
+4647,B cell,B cell
+4648,CD14+ monocyte,CD14+ monocyte
+4649,Cytotoxic T cell,Cytotoxic T cell
+4650,CD14+ monocyte,CD14+ monocyte
+4651,Cytotoxic T cell,Cytotoxic T cell
+4652,CD4+ T cell,CD4+ T cell
+4653,CD4+ T cell,Cytotoxic T cell
+4654,CD14+ monocyte,CD14+ monocyte
+4655,CD14+ monocyte,CD14+ monocyte
+4656,Cytotoxic T cell,Cytotoxic T cell
+4657,B cell,B cell
+4658,B cell,B cell
+4659,CD14+ monocyte,CD14+ monocyte
+4660,Cytotoxic T cell,Cytotoxic T cell
+4661,B cell,B cell
+4662,CD14+ monocyte,CD14+ monocyte
+4663,CD14+ monocyte,CD14+ monocyte
+4664,CD16+ monocyte,CD16+ monocyte
+4665,CD14+ monocyte,CD14+ monocyte
+4666,CD14+ monocyte,CD14+ monocyte
+4667,B cell,B cell
+4668,CD14+ monocyte,CD14+ monocyte
+4669,B cell,B cell
+4670,B cell,B cell
+4671,Cytotoxic T cell,Cytotoxic T cell
+4672,CD14+ monocyte,CD14+ monocyte
+4673,Natural killer cell,Natural killer cell
+4674,CD14+ monocyte,CD14+ monocyte
+4675,CD14+ monocyte,CD14+ monocyte
+4676,CD14+ monocyte,CD14+ monocyte
+4677,CD4+ T cell,CD4+ T cell
+4678,Cytotoxic T cell,Cytotoxic T cell
+4679,CD4+ T cell,CD4+ T cell
+4680,CD14+ monocyte,CD14+ monocyte
+4681,CD4+ T cell,CD4+ T cell
+4682,Natural killer cell,Natural killer cell
+4683,CD4+ T cell,CD4+ T cell
+4684,Natural killer cell,Natural killer cell
+4685,CD4+ T cell,CD4+ T cell
+4686,CD14+ monocyte,CD14+ monocyte
+4687,Cytotoxic T cell,CD4+ T cell
+4688,B cell,B cell
+4689,B cell,B cell
+4690,Cytotoxic T cell,Cytotoxic T cell
+4691,B cell,B cell
+4692,CD14+ monocyte,CD14+ monocyte
+4693,CD14+ monocyte,CD14+ monocyte
+4694,CD14+ monocyte,CD14+ monocyte
+4695,CD14+ monocyte,CD14+ monocyte
+4696,B cell,B cell
+4697,B cell,B cell
+4698,B cell,B cell
+4699,CD14+ monocyte,CD14+ monocyte
+4700,B cell,B cell
+4701,Dendritic cell,Dendritic cell
+4702,Cytotoxic T cell,Cytotoxic T cell
+4703,B cell,B cell
+4704,Cytotoxic T cell,Cytotoxic T cell
+4705,Cytotoxic T cell,Cytotoxic T cell
+4706,Cytotoxic T cell,Cytotoxic T cell
+4707,CD14+ monocyte,Dendritic cell
+4708,CD14+ monocyte,CD14+ monocyte
+4709,CD14+ monocyte,Cytotoxic T cell
+4710,CD14+ monocyte,Dendritic cell
+4711,Cytotoxic T cell,Cytotoxic T cell
+4712,CD4+ T cell,CD4+ T cell
+4713,CD4+ T cell,CD4+ T cell
+4714,CD14+ monocyte,Megakaryocyte
+4715,B cell,B cell
+4716,Cytotoxic T cell,CD4+ T cell
+4717,CD4+ T cell,CD4+ T cell
+4718,CD14+ monocyte,CD14+ monocyte
+4719,CD14+ monocyte,Dendritic cell
+4720,Natural killer cell,Natural killer cell
+4721,CD14+ monocyte,CD14+ monocyte
+4722,Cytotoxic T cell,Natural killer cell
+4723,CD14+ monocyte,Cytotoxic T cell
+4724,Cytotoxic T cell,Cytotoxic T cell
+4725,CD14+ monocyte,CD14+ monocyte
+4726,Dendritic cell,Dendritic cell
+4727,B cell,B cell
+4728,CD14+ monocyte,CD14+ monocyte
+4729,Cytotoxic T cell,CD4+ T cell
+4730,Cytotoxic T cell,Cytotoxic T cell
+4731,B cell,B cell
+4732,CD14+ monocyte,CD14+ monocyte
+4733,B cell,B cell
+4734,CD14+ monocyte,CD14+ monocyte
+4735,CD14+ monocyte,CD14+ monocyte
+4736,Megakaryocyte,Megakaryocyte
+4737,Cytotoxic T cell,Cytotoxic T cell
+4738,CD14+ monocyte,CD14+ monocyte
+4739,Cytotoxic T cell,Cytotoxic T cell
+4740,CD14+ monocyte,CD14+ monocyte
+4741,B cell,B cell
+4742,Cytotoxic T cell,Cytotoxic T cell
+4743,Natural killer cell,Natural killer cell
+4744,CD14+ monocyte,CD14+ monocyte
+4745,B cell,B cell
+4746,CD14+ monocyte,CD14+ monocyte
+4747,CD4+ T cell,CD4+ T cell
+4748,Cytotoxic T cell,Natural killer cell
+4749,CD4+ T cell,CD4+ T cell
+4750,CD14+ monocyte,CD14+ monocyte
+4751,CD14+ monocyte,CD14+ monocyte
+4752,CD14+ monocyte,CD14+ monocyte
+4753,CD14+ monocyte,CD14+ monocyte
+4754,CD14+ monocyte,CD14+ monocyte
+4755,CD4+ T cell,CD4+ T cell
+4756,Cytotoxic T cell,Cytotoxic T cell
+4757,CD14+ monocyte,CD14+ monocyte
+4758,CD14+ monocyte,CD14+ monocyte
+4759,CD14+ monocyte,CD14+ monocyte
+4760,B cell,B cell
+4761,B cell,B cell
+4762,Cytotoxic T cell,Cytotoxic T cell
+4763,CD16+ monocyte,CD16+ monocyte
+4764,CD14+ monocyte,CD14+ monocyte
+4765,CD14+ monocyte,CD14+ monocyte
+4766,CD16+ monocyte,CD14+ monocyte
+4767,B cell,B cell
+4768,Cytotoxic T cell,Cytotoxic T cell
+4769,Cytotoxic T cell,CD4+ T cell
+4770,CD14+ monocyte,CD14+ monocyte
+4771,CD14+ monocyte,Plasmacytoid dendritic cell
+4772,Megakaryocyte,Megakaryocyte
+4773,CD4+ T cell,CD4+ T cell
+4774,CD4+ T cell,CD4+ T cell
+4775,B cell,B cell
+4776,CD14+ monocyte,CD14+ monocyte
+4777,CD14+ monocyte,B cell
+4778,Cytotoxic T cell,Cytotoxic T cell
+4779,Cytotoxic T cell,Cytotoxic T cell
+4780,CD4+ T cell,CD4+ T cell
+4781,Cytotoxic T cell,Cytotoxic T cell
+4782,CD14+ monocyte,CD14+ monocyte
+4783,CD14+ monocyte,CD14+ monocyte
+4784,B cell,B cell
+4785,CD16+ monocyte,CD16+ monocyte
+4786,CD14+ monocyte,CD14+ monocyte
+4787,B cell,B cell
+4788,CD14+ monocyte,CD14+ monocyte
+4789,CD4+ T cell,CD4+ T cell
+4790,Cytotoxic T cell,Cytotoxic T cell
+4791,CD14+ monocyte,CD14+ monocyte
+4792,Cytotoxic T cell,Cytotoxic T cell
+4793,Natural killer cell,Natural killer cell
+4794,Natural killer cell,Natural killer cell
+4795,Cytotoxic T cell,Cytotoxic T cell
+4796,CD4+ T cell,CD4+ T cell
+4797,CD14+ monocyte,CD14+ monocyte
+4798,CD14+ monocyte,B cell
+4799,Cytotoxic T cell,Cytotoxic T cell
+4800,CD14+ monocyte,CD14+ monocyte
+4801,CD4+ T cell,CD4+ T cell
+4802,CD14+ monocyte,CD14+ monocyte
+4803,CD14+ monocyte,CD14+ monocyte
+4804,Cytotoxic T cell,Cytotoxic T cell
+4805,CD14+ monocyte,CD14+ monocyte
+4806,CD4+ T cell,CD4+ T cell
+4807,CD14+ monocyte,CD14+ monocyte
+4808,B cell,B cell
+4809,B cell,B cell
+4810,CD4+ T cell,CD4+ T cell
+4811,CD14+ monocyte,CD14+ monocyte
+4812,CD14+ monocyte,CD14+ monocyte
+4813,CD4+ T cell,CD4+ T cell
+4814,CD14+ monocyte,CD14+ monocyte
+4815,CD14+ monocyte,CD14+ monocyte
+4816,B cell,B cell
+4817,Cytotoxic T cell,Cytotoxic T cell
+4818,CD14+ monocyte,CD14+ monocyte
+4819,B cell,B cell
+4820,B cell,B cell
+4821,B cell,B cell
+4822,Cytotoxic T cell,Cytotoxic T cell
+4823,CD14+ monocyte,CD14+ monocyte
+4824,Cytotoxic T cell,Cytotoxic T cell
+4825,CD14+ monocyte,CD14+ monocyte
+4826,B cell,B cell
+4827,CD14+ monocyte,CD14+ monocyte
+4828,Natural killer cell,Cytotoxic T cell
+4829,CD4+ T cell,CD4+ T cell
+4830,CD4+ T cell,CD4+ T cell
+4831,B cell,B cell
+4832,CD14+ monocyte,CD14+ monocyte
+4833,B cell,B cell
+4834,CD4+ T cell,CD4+ T cell
+4835,CD14+ monocyte,CD14+ monocyte
+4836,CD14+ monocyte,CD14+ monocyte
+4837,Cytotoxic T cell,Cytotoxic T cell
+4838,Natural killer cell,Natural killer cell
+4839,Cytotoxic T cell,Cytotoxic T cell
+4840,B cell,B cell
+4841,CD14+ monocyte,CD14+ monocyte
+4842,Cytotoxic T cell,Cytotoxic T cell
+4843,CD4+ T cell,CD4+ T cell
+4844,Megakaryocyte,Megakaryocyte
+4845,Cytotoxic T cell,Cytotoxic T cell
+4846,CD4+ T cell,CD4+ T cell
+4847,B cell,B cell
+4848,CD14+ monocyte,CD14+ monocyte
+4849,Cytotoxic T cell,Cytotoxic T cell
+4850,B cell,B cell
+4851,Megakaryocyte,Megakaryocyte
+4852,CD4+ T cell,CD4+ T cell
+4853,B cell,B cell
+4854,CD14+ monocyte,CD14+ monocyte
+4855,CD14+ monocyte,CD14+ monocyte
+4856,Natural killer cell,Cytotoxic T cell
+4857,Cytotoxic T cell,Cytotoxic T cell
+4858,CD14+ monocyte,CD14+ monocyte
+4859,CD16+ monocyte,CD16+ monocyte
+4860,CD4+ T cell,CD4+ T cell
+4861,CD14+ monocyte,CD14+ monocyte
+4862,Cytotoxic T cell,Cytotoxic T cell
+4863,Cytotoxic T cell,Cytotoxic T cell
+4864,CD14+ monocyte,CD14+ monocyte
+4865,CD14+ monocyte,CD14+ monocyte
+4866,B cell,B cell
+4867,CD14+ monocyte,CD14+ monocyte
+4868,Cytotoxic T cell,Cytotoxic T cell
+4869,Cytotoxic T cell,Cytotoxic T cell
+4870,CD4+ T cell,CD4+ T cell
+4871,Cytotoxic T cell,Cytotoxic T cell
+4872,CD4+ T cell,CD4+ T cell
+4873,Megakaryocyte,Megakaryocyte
+4874,Cytotoxic T cell,Cytotoxic T cell
+4875,CD14+ monocyte,CD14+ monocyte
+4876,Dendritic cell,Dendritic cell
+4877,Megakaryocyte,Megakaryocyte
+4878,B cell,B cell
+4879,CD14+ monocyte,CD14+ monocyte
+4880,CD4+ T cell,CD4+ T cell
+4881,CD4+ T cell,CD4+ T cell
+4882,CD4+ T cell,CD4+ T cell
+4883,CD4+ T cell,CD4+ T cell
+4884,B cell,B cell
+4885,Cytotoxic T cell,Cytotoxic T cell
+4886,B cell,B cell
+4887,CD4+ T cell,CD4+ T cell
+4888,CD14+ monocyte,CD14+ monocyte
+4889,CD14+ monocyte,CD14+ monocyte
+4890,B cell,B cell
+4891,B cell,B cell
+4892,B cell,Dendritic cell
+4893,Natural killer cell,Natural killer cell
+4894,Cytotoxic T cell,Cytotoxic T cell
+4895,Cytotoxic T cell,Cytotoxic T cell
+4896,CD4+ T cell,CD4+ T cell
+4897,CD14+ monocyte,CD14+ monocyte
+4898,B cell,B cell
+4899,Cytotoxic T cell,Cytotoxic T cell
+4900,CD14+ monocyte,CD14+ monocyte
+4901,CD4+ T cell,CD4+ T cell
+4902,CD4+ T cell,CD4+ T cell
+4903,Cytotoxic T cell,CD4+ T cell
+4904,Dendritic cell,Plasmacytoid dendritic cell
+4905,Cytotoxic T cell,Cytotoxic T cell
+4906,CD14+ monocyte,CD14+ monocyte
+4907,Cytotoxic T cell,Cytotoxic T cell
+4908,CD14+ monocyte,CD14+ monocyte
+4909,B cell,B cell
+4910,B cell,B cell
+4911,CD4+ T cell,CD4+ T cell
+4912,CD4+ T cell,CD4+ T cell
+4913,Cytotoxic T cell,Cytotoxic T cell
+4914,CD14+ monocyte,CD14+ monocyte
+4915,Cytotoxic T cell,Cytotoxic T cell
+4916,CD14+ monocyte,CD14+ monocyte
+4917,CD4+ T cell,CD4+ T cell
+4918,CD4+ T cell,CD4+ T cell
+4919,B cell,B cell
+4920,CD14+ monocyte,CD14+ monocyte
+4921,CD14+ monocyte,CD14+ monocyte
+4922,Cytotoxic T cell,Cytotoxic T cell
+4923,B cell,CD14+ monocyte
+4924,CD14+ monocyte,CD14+ monocyte
+4925,B cell,Plasmacytoid dendritic cell
+4926,CD14+ monocyte,CD14+ monocyte
+4927,CD14+ monocyte,CD14+ monocyte
+4928,CD4+ T cell,CD4+ T cell
+4929,CD4+ T cell,CD4+ T cell
+4930,CD4+ T cell,Cytotoxic T cell
+4931,Cytotoxic T cell,Cytotoxic T cell
+4932,B cell,B cell
+4933,B cell,B cell
+4934,CD14+ monocyte,CD14+ monocyte
+4935,CD14+ monocyte,CD4+ T cell
+4936,B cell,B cell
+4937,CD14+ monocyte,CD14+ monocyte
+4938,B cell,B cell
+4939,Cytotoxic T cell,Cytotoxic T cell
+4940,Cytotoxic T cell,Cytotoxic T cell
+4941,Cytotoxic T cell,Cytotoxic T cell
+4942,CD4+ T cell,CD4+ T cell
+4943,B cell,B cell
+4944,CD14+ monocyte,CD14+ monocyte
+4945,CD14+ monocyte,CD14+ monocyte
+4946,CD14+ monocyte,CD14+ monocyte
+4947,B cell,B cell
+4948,Cytotoxic T cell,Cytotoxic T cell
+4949,CD16+ monocyte,CD16+ monocyte
+4950,CD14+ monocyte,CD14+ monocyte
+4951,CD4+ T cell,CD4+ T cell
+4952,CD14+ monocyte,CD14+ monocyte
+4953,CD4+ T cell,CD4+ T cell
+4954,CD4+ T cell,CD4+ T cell
+4955,CD14+ monocyte,CD14+ monocyte
+4956,Cytotoxic T cell,Cytotoxic T cell
+4957,Cytotoxic T cell,Cytotoxic T cell
+4958,CD14+ monocyte,CD14+ monocyte
+4959,CD14+ monocyte,CD14+ monocyte
+4960,CD14+ monocyte,CD14+ monocyte
+4961,CD14+ monocyte,CD14+ monocyte
+4962,Cytotoxic T cell,CD4+ T cell
+4963,CD14+ monocyte,Cytotoxic T cell
+4964,Cytotoxic T cell,CD4+ T cell
+4965,CD14+ monocyte,CD14+ monocyte
+4966,CD4+ T cell,CD4+ T cell
+4967,B cell,B cell
+4968,CD14+ monocyte,CD14+ monocyte
+4969,CD14+ monocyte,CD14+ monocyte
+4970,Cytotoxic T cell,Cytotoxic T cell
+4971,Cytotoxic T cell,Cytotoxic T cell
+4972,CD4+ T cell,CD4+ T cell
+4973,CD14+ monocyte,CD14+ monocyte
+4974,CD14+ monocyte,CD14+ monocyte
+4975,Cytotoxic T cell,Cytotoxic T cell
+4976,CD4+ T cell,CD4+ T cell
+4977,CD14+ monocyte,CD4+ T cell
+4978,CD16+ monocyte,CD16+ monocyte
+4979,Cytotoxic T cell,Cytotoxic T cell
+4980,B cell,CD14+ monocyte
+4981,Cytotoxic T cell,Cytotoxic T cell
+4982,CD4+ T cell,CD4+ T cell
+4983,CD14+ monocyte,CD14+ monocyte
+4984,CD14+ monocyte,CD14+ monocyte
+4985,CD4+ T cell,CD4+ T cell
+4986,B cell,B cell
+4987,CD4+ T cell,CD4+ T cell
+4988,CD14+ monocyte,CD16+ monocyte
+4989,CD14+ monocyte,CD14+ monocyte
+4990,CD4+ T cell,CD4+ T cell
+4991,CD14+ monocyte,CD14+ monocyte
+4992,CD14+ monocyte,CD14+ monocyte
+4993,CD14+ monocyte,CD14+ monocyte
+4994,B cell,B cell
+4995,Cytotoxic T cell,Cytotoxic T cell
+4996,B cell,B cell
+4997,CD4+ T cell,CD4+ T cell
+4998,CD14+ monocyte,CD14+ monocyte
+4999,CD4+ T cell,CD4+ T cell
+5000,Cytotoxic T cell,Cytotoxic T cell
+5001,B cell,B cell
+5002,B cell,B cell
+5003,CD14+ monocyte,CD14+ monocyte
+5004,B cell,B cell
+5005,Dendritic cell,CD14+ monocyte
+5006,CD4+ T cell,CD4+ T cell
+5007,Cytotoxic T cell,Cytotoxic T cell
+5008,Cytotoxic T cell,Cytotoxic T cell
+5009,Cytotoxic T cell,Cytotoxic T cell
+5010,Cytotoxic T cell,Cytotoxic T cell
+5011,CD14+ monocyte,CD14+ monocyte
+5012,Cytotoxic T cell,Cytotoxic T cell
+5013,CD14+ monocyte,CD14+ monocyte
+5014,CD4+ T cell,CD4+ T cell
+5015,CD14+ monocyte,CD14+ monocyte
+5016,Cytotoxic T cell,Cytotoxic T cell
+5017,Dendritic cell,CD14+ monocyte
+5018,B cell,B cell
+5019,B cell,B cell
+5020,B cell,B cell
+5021,B cell,B cell
+5022,Cytotoxic T cell,Cytotoxic T cell
+5023,B cell,B cell
+5024,B cell,B cell
+5025,B cell,B cell
+5026,B cell,B cell
+5027,Cytotoxic T cell,Cytotoxic T cell
+5028,Cytotoxic T cell,CD4+ T cell
+5029,CD14+ monocyte,CD14+ monocyte
+5030,CD14+ monocyte,CD14+ monocyte
+5031,Cytotoxic T cell,Cytotoxic T cell
+5032,CD14+ monocyte,CD14+ monocyte
+5033,CD14+ monocyte,CD14+ monocyte
+5034,Megakaryocyte,Megakaryocyte
+5035,CD14+ monocyte,Dendritic cell
+5036,CD14+ monocyte,CD14+ monocyte
+5037,CD4+ T cell,CD4+ T cell
+5038,CD14+ monocyte,CD14+ monocyte
+5039,B cell,B cell
+5040,Cytotoxic T cell,Cytotoxic T cell
+5041,Cytotoxic T cell,Cytotoxic T cell
+5042,CD14+ monocyte,CD14+ monocyte
+5043,CD14+ monocyte,CD14+ monocyte
+5044,CD4+ T cell,Cytotoxic T cell
+5045,B cell,CD14+ monocyte
+5046,Natural killer cell,Natural killer cell
+5047,CD14+ monocyte,CD14+ monocyte
+5048,Cytotoxic T cell,Cytotoxic T cell
+5049,CD14+ monocyte,CD14+ monocyte
+5050,Megakaryocyte,Megakaryocyte
+5051,CD14+ monocyte,CD14+ monocyte
+5052,B cell,B cell
+5053,CD14+ monocyte,CD14+ monocyte
+5054,Cytotoxic T cell,Cytotoxic T cell
+5055,CD14+ monocyte,CD14+ monocyte
+5056,CD14+ monocyte,CD14+ monocyte
+5057,CD14+ monocyte,CD14+ monocyte
+5058,Cytotoxic T cell,Cytotoxic T cell
+5059,CD4+ T cell,CD4+ T cell
+5060,Cytotoxic T cell,CD4+ T cell
+5061,Cytotoxic T cell,Cytotoxic T cell
+5062,B cell,B cell
+5063,Cytotoxic T cell,Cytotoxic T cell
+5064,Cytotoxic T cell,CD4+ T cell
+5065,B cell,B cell
+5066,B cell,B cell
+5067,Cytotoxic T cell,Cytotoxic T cell
+5068,CD14+ monocyte,CD14+ monocyte
+5069,CD14+ monocyte,CD14+ monocyte
+5070,CD14+ monocyte,CD14+ monocyte
+5071,Cytotoxic T cell,Cytotoxic T cell
+5072,Cytotoxic T cell,Cytotoxic T cell
+5073,Megakaryocyte,Megakaryocyte
+5074,CD16+ monocyte,CD14+ monocyte
+5075,CD14+ monocyte,CD14+ monocyte
+5076,CD4+ T cell,CD4+ T cell
+5077,CD14+ monocyte,CD14+ monocyte
+5078,CD14+ monocyte,CD14+ monocyte
+5079,CD4+ T cell,CD4+ T cell
+5080,B cell,B cell
+5081,Dendritic cell,CD14+ monocyte
+5082,CD14+ monocyte,CD14+ monocyte
+5083,CD4+ T cell,CD4+ T cell
+5084,B cell,B cell
+5085,CD4+ T cell,CD4+ T cell
+5086,CD16+ monocyte,CD14+ monocyte
+5087,CD4+ T cell,CD4+ T cell
+5088,CD14+ monocyte,CD14+ monocyte
+5089,B cell,B cell
+5090,Cytotoxic T cell,Cytotoxic T cell
+5091,CD14+ monocyte,CD14+ monocyte
+5092,CD16+ monocyte,CD16+ monocyte
+5093,CD14+ monocyte,CD14+ monocyte
+5094,CD4+ T cell,CD4+ T cell
+5095,B cell,B cell
+5096,CD14+ monocyte,CD14+ monocyte
+5097,CD14+ monocyte,CD14+ monocyte
+5098,CD4+ T cell,CD4+ T cell
+5099,Cytotoxic T cell,CD16+ monocyte
+5100,B cell,B cell
+5101,Cytotoxic T cell,CD4+ T cell
+5102,CD14+ monocyte,CD14+ monocyte
+5103,CD14+ monocyte,CD14+ monocyte
+5104,B cell,B cell
+5105,Cytotoxic T cell,Cytotoxic T cell
+5106,CD14+ monocyte,Plasmacytoid dendritic cell
+5107,CD14+ monocyte,CD14+ monocyte
+5108,Cytotoxic T cell,Cytotoxic T cell
+5109,Cytotoxic T cell,Cytotoxic T cell
+5110,B cell,B cell
+5111,Cytotoxic T cell,Cytotoxic T cell
+5112,Megakaryocyte,Megakaryocyte
+5113,Cytotoxic T cell,Cytotoxic T cell
+5114,CD16+ monocyte,CD16+ monocyte
+5115,CD4+ T cell,CD4+ T cell
+5116,CD14+ monocyte,CD14+ monocyte
+5117,CD14+ monocyte,CD14+ monocyte
+5118,B cell,B cell
+5119,CD14+ monocyte,CD14+ monocyte
+5120,CD14+ monocyte,CD14+ monocyte
+5121,CD4+ T cell,CD4+ T cell
+5122,Cytotoxic T cell,Cytotoxic T cell
+5123,B cell,B cell
+5124,CD4+ T cell,CD4+ T cell
+5125,Cytotoxic T cell,Cytotoxic T cell
+5126,Cytotoxic T cell,CD4+ T cell
+5127,Cytotoxic T cell,Cytotoxic T cell
+5128,Megakaryocyte,Megakaryocyte
+5129,Cytotoxic T cell,Cytotoxic T cell
+5130,Megakaryocyte,Megakaryocyte
+5131,CD14+ monocyte,CD14+ monocyte
+5132,CD14+ monocyte,CD14+ monocyte
+5133,B cell,B cell
+5134,CD14+ monocyte,Dendritic cell
+5135,Cytotoxic T cell,Cytotoxic T cell
+5136,CD14+ monocyte,CD14+ monocyte
+5137,Natural killer cell,Natural killer cell
+5138,B cell,B cell
+5139,CD4+ T cell,CD4+ T cell
+5140,Cytotoxic T cell,Cytotoxic T cell
+5141,CD4+ T cell,CD4+ T cell
+5142,CD14+ monocyte,CD14+ monocyte
+5143,Cytotoxic T cell,Cytotoxic T cell
+5144,B cell,B cell
+5145,CD14+ monocyte,CD14+ monocyte
+5146,CD14+ monocyte,CD14+ monocyte
+5147,CD14+ monocyte,CD14+ monocyte
+5148,B cell,B cell
+5149,Cytotoxic T cell,Cytotoxic T cell
+5150,CD14+ monocyte,CD14+ monocyte
+5151,CD4+ T cell,CD4+ T cell
+5152,CD14+ monocyte,CD14+ monocyte
+5153,CD14+ monocyte,CD14+ monocyte
+5154,Natural killer cell,Natural killer cell
+5155,CD4+ T cell,CD4+ T cell
+5156,CD4+ T cell,CD4+ T cell
+5157,CD14+ monocyte,CD4+ T cell
+5158,B cell,B cell
+5159,Natural killer cell,Natural killer cell
+5160,CD4+ T cell,CD4+ T cell
+5161,CD14+ monocyte,CD14+ monocyte
+5162,CD4+ T cell,CD4+ T cell
+5163,CD14+ monocyte,CD14+ monocyte
+5164,CD4+ T cell,CD4+ T cell
+5165,B cell,B cell
+5166,B cell,B cell
+5167,CD16+ monocyte,CD16+ monocyte
+5168,B cell,B cell
+5169,CD14+ monocyte,CD14+ monocyte
+5170,Cytotoxic T cell,Natural killer cell
+5171,CD14+ monocyte,Cytotoxic T cell
+5172,Cytotoxic T cell,Cytotoxic T cell
+5173,B cell,B cell
+5174,Cytotoxic T cell,Cytotoxic T cell
+5175,CD14+ monocyte,CD14+ monocyte
+5176,Cytotoxic T cell,Cytotoxic T cell
+5177,Cytotoxic T cell,Cytotoxic T cell
+5178,Cytotoxic T cell,CD4+ T cell
+5179,B cell,B cell
+5180,CD4+ T cell,CD4+ T cell
+5181,CD14+ monocyte,CD14+ monocyte
+5182,Cytotoxic T cell,Cytotoxic T cell
+5183,Cytotoxic T cell,Cytotoxic T cell
+5184,Natural killer cell,Natural killer cell
+5185,Megakaryocyte,Megakaryocyte
+5186,Cytotoxic T cell,Cytotoxic T cell
+5187,Cytotoxic T cell,Cytotoxic T cell
+5188,CD4+ T cell,Cytotoxic T cell
+5189,CD16+ monocyte,CD16+ monocyte
+5190,CD14+ monocyte,CD14+ monocyte
+5191,Cytotoxic T cell,Cytotoxic T cell
+5192,CD14+ monocyte,CD14+ monocyte
+5193,CD4+ T cell,CD4+ T cell
+5194,CD14+ monocyte,CD14+ monocyte
+5195,CD14+ monocyte,CD14+ monocyte
+5196,B cell,B cell
+5197,CD4+ T cell,CD4+ T cell
+5198,B cell,B cell
+5199,B cell,B cell
+5200,Dendritic cell,Dendritic cell
+5201,CD14+ monocyte,CD14+ monocyte
+5202,Cytotoxic T cell,Cytotoxic T cell
+5203,Dendritic cell,Dendritic cell
+5204,Cytotoxic T cell,Cytotoxic T cell
+5205,B cell,B cell
+5206,CD4+ T cell,CD4+ T cell
+5207,CD4+ T cell,CD4+ T cell
+5208,CD14+ monocyte,CD14+ monocyte
+5209,Cytotoxic T cell,Cytotoxic T cell
+5210,CD14+ monocyte,CD14+ monocyte
+5211,B cell,B cell
+5212,Cytotoxic T cell,Cytotoxic T cell
+5213,CD14+ monocyte,CD14+ monocyte
+5214,CD14+ monocyte,CD14+ monocyte
+5215,Cytotoxic T cell,CD4+ T cell
+5216,B cell,B cell
+5217,CD14+ monocyte,Dendritic cell
+5218,CD4+ T cell,CD4+ T cell
+5219,CD14+ monocyte,CD14+ monocyte
+5220,B cell,B cell
+5221,CD14+ monocyte,CD14+ monocyte
+5222,CD4+ T cell,CD4+ T cell
+5223,CD4+ T cell,Cytotoxic T cell
+5224,CD14+ monocyte,CD14+ monocyte
+5225,CD4+ T cell,CD4+ T cell
+5226,CD14+ monocyte,CD14+ monocyte
+5227,CD14+ monocyte,CD14+ monocyte
+5228,Cytotoxic T cell,Cytotoxic T cell
+5229,B cell,B cell
+5230,Cytotoxic T cell,Cytotoxic T cell
+5231,CD4+ T cell,CD4+ T cell
+5232,CD14+ monocyte,CD14+ monocyte
+5233,Cytotoxic T cell,CD4+ T cell
+5234,B cell,B cell
+5235,Megakaryocyte,Megakaryocyte
+5236,Natural killer cell,Natural killer cell
+5237,Natural killer cell,Cytotoxic T cell
+5238,CD4+ T cell,CD4+ T cell
+5239,B cell,B cell
+5240,B cell,B cell
+5241,Cytotoxic T cell,CD4+ T cell
+5242,CD14+ monocyte,CD14+ monocyte
+5243,CD4+ T cell,CD4+ T cell
+5244,Cytotoxic T cell,Cytotoxic T cell
+5245,CD14+ monocyte,CD14+ monocyte
+5246,Cytotoxic T cell,Cytotoxic T cell
+5247,Megakaryocyte,Megakaryocyte
+5248,Cytotoxic T cell,Cytotoxic T cell
+5249,Cytotoxic T cell,Cytotoxic T cell
+5250,CD14+ monocyte,CD14+ monocyte
+5251,CD14+ monocyte,CD14+ monocyte
+5252,CD16+ monocyte,CD16+ monocyte
+5253,CD16+ monocyte,CD16+ monocyte
+5254,Dendritic cell,Plasmacytoid dendritic cell
+5255,CD14+ monocyte,CD16+ monocyte
+5256,CD14+ monocyte,CD14+ monocyte
+5257,Cytotoxic T cell,Cytotoxic T cell
+5258,CD4+ T cell,CD4+ T cell
+5259,Cytotoxic T cell,Cytotoxic T cell
+5260,CD14+ monocyte,CD14+ monocyte
+5261,CD14+ monocyte,CD14+ monocyte
+5262,B cell,B cell
+5263,CD4+ T cell,CD4+ T cell
+5264,Cytotoxic T cell,Cytotoxic T cell
+5265,Cytotoxic T cell,Cytotoxic T cell
+5266,CD14+ monocyte,CD14+ monocyte
