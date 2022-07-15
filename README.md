@@ -11,7 +11,9 @@
 
 
 # Usage
-python main_pseudo_dann.py --lr 0.5 --epoch 50 --batch_size 64 --name pbmc_ding --cuda 0
+```bash
+$ python main_pseudo_dann.py --lr 0.5 --epoch 50 --batch_size 64 --name pbmc_ding --cuda 0
+```
 Note: the detailed parameters instructions please see [MSASC_Train](https://github.com/biomed-AI/MSASC/blob/main/main_pseudo_dann.py)
 
 
